@@ -1,0 +1,1177 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11	col_12
+0	530 mph	0.8411	iRVINE	Moreno Valley, Fresno	-1.3331	751	904	nATURAL lANGUAGE pROCESSING, bIOENGINEERING	570 kg	19	-187	1.1201	842 kg
+1	459 mph	-0.8458	Bakersfield	Irvine, Oakland, Long Beach	-0.401	188	-466	Biotechnology, Electrical Engineering	1260 kg	-345	183	2.329	264 kg
+0	1185 mph	0.4134	Irvine	Fresno	0.883	2344	138	Bioengineering, Natural Language Processing	744 kg	481	3214	-0.5341	1349 kg
+2	1764 mph	0.4804	San Diego	Stockton, Sacramento, Santa Ana	-0.2813	1203	102	Computer Science	-846 kg	1444	1616	0.5207	156 kg
+5	873 mph	-2.1582	San Bernardino	Bakersfield	2.2857	-13	-428	Computational Media, Applied Mathematics	506 kg	138	-196	-0.3702	268 kg
+5	1070 mph	0.415	San Diego	Bakersfield	0.8185	-279	-2420	Data Science	706 kg	178	-1298	0.8256	813 kg
+4	319 mph	1.8267	Oakland	San Diego	1.4998	316	595	Robotics Engineering	958 kg	-46	440	-0.6033	-1201 kg
+5	1434 mph	0.4942	Moreno Valley	Chula Vista	1.4837	-571	-75	Technology and Information Management	-570 kg	-107	-347	1.6944	1237 kg
+5	1848 mph	0.4465	Moreno Valley	Bakersfield, San Francisco	0.8628	1585	-563	Computational Media, Applied Mathematics	-1055 kg	608	-1082	1.1914	-1506 kg
+3	435 mph	0.6082	Riverside	Oakland	0.0772	-411	-592	Computer Engineering	-340 kg	1182	54	1.8092	308 kg
+1	-313 mph	-0.1067		Oakland, Irvine	-1.2968	697	1494	Computer Game Design, Electrical Engineering, Data Science	659 kg	435	775	0.8394	-819 kg
+4	1943 mph	2.0177	Anaheim	San Diego	2.0254	790	1496	None	2085 kg	746	-375	2.0931	1711 kg
+4	2059 mph	0.2625	Anaheim	San Diego	0.4767	-334	-491	NULL	203 kg	1772	793	-0.1475	913 kg
+3	340 mph	-0.506	Los Angeles	Anaheim	0.637	559	-168	Computer Engineering	933 kg	140	-1163	1.8138	258 kg
+0	526 mph	1.985	Chula Vista	Anaheim	1.7408	-394	-257	Natural Language Processing	-265 kg	653	-409	-0.1466	1186 kg
+3	-262 mph	2.1785	Los Angeles	Fremont	-1.4684	1742	-1753	Computer Engineering	27 kg	690	580	1.2829	226 kg
+3	620 mph	1.2032	Los Angeles	Anaheim	1.7742	204	156	Natural Language Processing	336 kg	916	142	0.0337	1007 kg
+0	466 mph	1.1384	Irvine	Fresno	-1.5399	2266	841	Natural Language Processing	-872 kg	1651	-1949	0.5483	564 kg
+3	121 mph	1.4405	Riverside	Anaheim	-0.1549	-147	-1177	Computer Engineering	2319 kg	417	-1	1.2952	1695 kg
+3	-471 mph	0.9827	LOS ANGELES	Fremont	-0.0242	-1055	45	Computer Engineering	288 kg	641	822	0.8723	-603 kg
+1	-621 mph	-0.8895	Bakersfield	Riverside	-0.994	1140	2317	Electrical Engineering, Data Science, Computer Game Design	-529 kg	-324	335	-1.057	1795 kg
+4	185 mph	1.1071	Anaheim	San Diego	1.0154	373	-434	Robotics Engineering, Statistics	-272 kg	1307	221	0.2757	309 kg
+0	1744 mph	1.5739	Chula Vista	Fresno, Moreno Valley	-0.2953	1019	1017	Bioengineering, Natural Language Processing	914 kg	-1085	720	None	623 kg
+4	971 mph	0.972	Fresno	Los Angeles	2.5606	-289	4	Computer Engineering	1221 kg	150	337	0.7695	-570 kg
+2	-86 mph	0.1231	San Diego	Stockton	1.2861	-179	2141	Bioinformatics	309 kg	-191	1755	-1.3007	-255 kg
+4	472 mph	1.1944	Fresno	Los Angeles	1.2443	346	1953	Games and Playable Media, Robotics Engineering	-967 kg	1117	-951		-175 kg
+1	451 mph	0.7545	Bakersfield	Riverside, Oakland, Irvine	2.1926	932	1045	Data Science, Computer Game Design, Biotechnology	99 kg	591	-1229	-0.0891	359 kg
+0	585 mph	-0.7183	San Francisco	Chula Vista	0.2371	610	940	Bioengineering, Natural Language Processing	1529 kg	2282	173	-0.263	1764 kg
+3	812 mph	0.7605	Riverside	Fremont	-0.2215	1546	-9	Computer Engineering	982 kg	-1486	958	1.9412	1736 kg
+2	766 mph	-0.4502	San Diego	Santa Clarita	0.1891	1633	887	Bioinformatics	-764 kg	35	1135	-0.4337	1902 kg
+2	1006 mph	-0.5943	San Diego	Stockton, Sacramento, Santa Ana	1.1172	2112	266	Bioinformatics	-374 kg	725	600	0.8955	1383 kg
+3	-162 mph	1.4116	Los Angeles	Anaheim	0.1884	1379	551	Computer Engineering	-821 kg	336	-1727	N/A	1207 kg
+2	-2251 mph	1.0268	San Diego	Santa Ana, Sacramento, Stockton	1.6221	42	-768	Bioinformatics	848 kg	585	238	0.0561	945 kg
+0	-11 mph	0.7747	Santa Ana	Chula Vista	-0.3609	1805	124	Bioengineering	370 kg	92	729	0.8713	1251 kg
+1	-114 mph	0.1803	Long Beach	Long Beach, Riverside	-0.6837	-227	1819	Electrical Engineering	-1273 kg	187	663	-0.6579	1377 kg
+5	-253 mph	1.618	San Bernardino	San Bernardino, San Jose, Bakersfield	0.6703	474	1516	Computational Media, Applied Mathematics	-80 kg	-52	-1688	0.3912	654 kg
+5	-205 mph	0.2261	Modesto	San Francisco, Bakersfield, San Bernardino	0.5579	1336	-748	Applied Mathematics, Computational Media	-65 kg	605	-372	1.2656	1700 kg
+0	-569 mph	2.2855	Irvine	Chula Vista, Moreno Valley	-1.0587	2063	433	bioengineering	-325 kg	-564	-490	0.5718	2165 kg
+2	292 mph	0.7669	San Diego	Santa Ana, Santa Clarita	2.2161	-1179	129	Bioinformatics	-109 kg	19	457	-0.7085	1092 kg
+2	399 mph	0.761	San Diego	Stockton, Santa Clarita	0.6332	-318	1493	Bioinformatics	-232 kg	223	981	-0.4726	-451 kg
+3	201 mph	1.2533	LOS ANGELES	Fremont	-1.961	-1324	1716	Computer Engineering	1180 kg	114	-390	-0.1071	-686 kg
+0	586 mph	-0.3805	Chula Vista	Chula Vista, Fresno	-1.0497	79	1207	Bioengineering, Human Computer Interaction	-109 kg	169	495	0.7525	-3 kg
+4	1020 mph	0.0583	Anaheim	San Diego	-1.1855	2214	545	Statistics, Games and Playable Media	349 kg	75	NULL	-0.1581	2437 kg
+1	-328 mph	0.6448	Long Beach	Riverside, Irvine	1.3047	1179	1895	Biotechnology, Electrical Engineering	-564 kg	1999	169	-0.4139	107 kg
+1	37 mph	-0.63	Bakersfield	Oakland	-0.3578	-175	69	Computer Game Design, Biotechnology, Data Science	-171 kg	1484	393	0.1096	2134 kg
+5	227 mph	0.0275	Modesto	Bakersfield, San Francisco, San Bernardino	-0.3389	221	-612	Applied Mathematics	-819 kg	1216	-17	0.7426	1533 kg
+3	793 mph	-1.628	San Jose	Fremont	1.4014	-708	-90	Computer Engineering	-408 kg	1125	-944	0.3964	53 kg
+2	-197 mph	0.8877	San Diego	Sacramento, Santa Ana, Santa Clarita	-0.3622	609	2137	Computer Science	-849 kg	847	270	N/A	-1261 kg
+4	1137 mph	1.6374	Stockton	San Diego	0.2682	2055	418	Robotics Engineering, Statistics	1511 kg	-60	1128	0.9607	229 kg
+1	1776 mph	1.8745	Bakersfield	Irvine	1.2112	3207	1847	Data Science	321 kg	1322	344	1.1244	1990 kg
+4	243 mph	1.0081	Oakland	Los Angeles	-0.4695	982	110	computer science	1752 kg	102	-71	1.5287	988 kg
+5	2634 mph	-0.2541	San Bernardino	Fremont	0.8448	661	315	Applied Mathematics, Computational Media	-1097 kg	538	-1930	1.3382	1230 kg
+0	697 mph	-0.965	Irvine	Fresno	1.5103	1596	255	Bioengineering, Human Computer Interaction	65 kg	-443	243	1.3398	151 kg
+0	-656 mph	0.2532	Santa Clarita	Fresno	0.5031	-1041	-6	Human Computer Interaction	212 kg	904	334	-0.7923	1333 kg
+1	-139 mph	-0.5255	Santa Ana	Long Beach, Riverside	3.4203	1641	1570	Electrical Engineering, Computer Game Design	146 kg	-491	-790	-0.3487	-633 kg
+1	518 mph	N/A	Long Beach	Riverside, Oakland	-3.0896	992	1231	Data Science, Biotechnology	-1894 kg	302	-1468	1.0403	869 kg
+3	1154 mph	-0.2444	Riverside	Anaheim	-0.2873	-453	728	Computer Engineering	452 kg	82	-234	0.1035	1038 kg
+1	351 mph	1.3636	Fremont	Oakland, Long Beach, Irvine	0.1977	463	1461	Computational Media	411 kg	63	308	1.1476	954 kg
+0	-356 mph	-1.431	Irvine	Fresno, Chula Vista	-0.548	1318	1490	Computational Media	-334 kg	910	1418	-0.1434	-126 kg
+4	-393 mph	-1.1158	Stockton	Los Angeles	4.6514	1112	1480	Games and Playable Media	1205 kg	985	1067	0.0096	-489 kg
+4	2203 mph	0.1395	Stockton	San Diego	0.5062	1535	721	Robotics Engineering, Statistics	?	444	80	None	-492 kg
+1	745 mph	1.491	Long Beach	Oakland, Irvine, Riverside	0.0527	982	-512	Computer Game Design	733 kg	631	-1202	-0.5026	284 kg
+1	3194 mph	3.0938	SAN JOSE	Irvine, Long Beach, Oakland	-0.4332	2104	2862	Data Science	677 kg	826	-771	0.0257	-712 kg
+5	1171 mph	0.7252	Modesto	Bakersfield, San Francisco, San Jose	1.2913	-1374	-218	Applied Mathematics	-1461 kg	1062	403	0.2923	-888 kg
+3	-675 mph	0.2844	San Jose	Riverside, Oakland, Irvine	-1.2311	244	-3142	Computer Engineering	-305 kg	-550	945	1.2628	532 kg
+1	447 mph	-0.1588	Santa Ana	Riverside, Irvine	-0.3336	1591	832	cOMPUTATIONAL mEDIA, aPPLIED mATHEMATICS	-556 kg	-1372	-151	-1.8285	242 kg
+1	1424 mph	-0.2376		Irvine, Riverside	1.2898	1778	1930	Data Science	-658 kg	157	-726	-0.7116	1947 kg
+4	923 mph	0.6372	Fresno	Los Angeles	2.251	2089	1440	Robotics Engineering, Games and Playable Media	206 kg	-140	1462	0.8544	792 kg
+3	-368 mph	0.0107	Riverside	Anaheim	0.4928	-717	218	Computer Engineering	2315 kg	-157	557	2.0342	1558 kg
+2	1126 mph	2.1117	San Diego	Stockton, Sacramento, Santa Clarita	1.4202	-130	935	Computer Science	-539 kg	1294	903	-1.1214	2067 kg
+0	877 mph	-1.0211	Irvine	Fresno, Chula Vista	-0.3417	637	2240	Bioengineering, Human Computer Interaction	185 kg	1070	-551	0.2202	562 kg
+4	1410 mph	2.0552	Anaheim	Los Angeles	2.2712	1606	-159	Robotics Engineering	1164 kg	1177	-1988	0.3469	530 kg
+4	762 mph	1.1765	San Diego	Los Angeles	2.2334	1291	81	Games and Playable Media, Robotics Engineering	847 kg	713	-1462	0.0269	-497 kg
+0	711 mph	0.0502	San Francisco	Fremont	-0.5795	543	1246	Bioengineering	-1539 kg	-83	1005	-0.9276	284 kg
+0	1741 mph	-1.1854	Sacramento	Moreno Valley, Fresno	-0.6601	1770	1180	Human Computer Interaction, Natural Language Processing	2066 kg	428	-297	0.5816	-585 kg
+3	-97 mph	0.6867	San Jose	Anaheim	-0.0195	1645	264	Computer Engineering	2153 kg	-370	-605	0.5866	647 kg
+0	1227 mph	0.5838	San Francisco	OAKLAND, LONG BEACH	?	939	1271	Bioengineering, Human Computer Interaction	33 kg	1527	-898	0.6662	708 kg
+3	-158 mph	1.8385	San Jose	Fremont	-0.9213	919	997	Computer Engineering	-339 kg	288	-187	1.8314	942 kg
+3	79 mph	1.4822	Los Angeles	Anaheim	-0.4114	-1244	-1477	Computer Engineering	-47 kg	-144	-1367	0.8234	872 kg
+5	867 mph	1.3386	Moreno Valley	San Jose, Bakersfield		2025	262	Computational Media, Technology And Information Management	345 kg	666	172	1.4644	-340 kg
+5	191 mph	-0.0906	Modesto	San Jose, Bakersfield	0.4844	647	-947	Technology and Information Management, Computational Media	911 kg	1095	-1564	1.4545	571 kg
+0	1892 mph	1.2912	Irvine	FRESNO, MORENO VALLEY	0.4528	929	1814	Human Computer Interaction, Bioengineering	-965 kg	134	-607	-0.8805	211 kg
+0	272 mph	2.4205	Sacramento	fRESNO, mORENO vALLEY	-1.418	1958	1153	Human Computer Interaction, Bioengineering	-465 kg	868	1517	-0.5895	61 kg
+1	1060 mph	1.3486	Santa Ana	Oakland, Irvine	-0.543	2265	1339	Biotechnology	-316 kg	606	612	0.6535	-443 kg
+5	1581 mph	-0.6317	Stockton	San Jose, San Francisco	1.05	479	1081	Applied Mathematics	54 kg	691	838	2.0476	354 kg
+4	223 mph	0.9613	Fresno	San Diego	0.5273	592	955	Games and Playable Media, Statistics	1188 kg	-85	264	-1.157	1293 kg
+3	371 mph	0.8894	Los Angeles	Anaheim	0.1738	-1207	1798	Computer Engineering	-876 kg	773	1227	-0.8194	94 kg
+5	475 mph	0.1242	San Bernardino	San Jose, Bakersfield	2.4294	336	-1139	Computational Media, Applied Mathematics	-1924 kg	NULL	595	1.7087	896 kg
+4	460 mph	0.3666	fRESNO	San Diego	1.3092	2202	572	Games and Playable Media, Robotics Engineering	1121 kg	297	-1105	1.3924	2075 kg
+2	217 mph	-0.7963	San Diego	Modesto, Stockton, Santa Clarita, Sacramento	1.7544	968	2590	Bioinformatics	-1762 kg	-203	2604	-0.7642	1173 kg
+1	-159 mph	2.1537	Long Beach	Irvine, Long Beach	1.3502	1325	-393	Data Science	-465 kg	420	-1135	-1.4829	1333 kg
+4	452 mph	-0.1375	Oakland	San Diego	1.7315	936	1643	Games and Playable Media, Statistics	845 kg	1577	345	-0.608	-45 kg
+0	223 mph	-1.2877	Irvine	Fresno	-1.5501	-106	1194	Human Computer Interaction, Natural Language Processing	135 kg	467	-570	-0.1529	97 kg
+2	167 mph	2.3909	San Diego	Santa Ana, Stockton, Santa Clarita	0.2427	1311	969	Bioinformatics	-797 kg	152	1578	-2.8204	1507 kg
+3	278 mph	-0.1801	Los Angeles	Fremont	None	726	-401	Computer Engineering	-202 kg	780	-210	-0.3872	258 kg
+1	-10 mph	-1.657	bakersfield	Oakland, Riverside	0.2275	-335	2299	Biotechnology	258 kg	1487	-135	-0.3374	562 kg
+4	1310 mph	-0.7127	Anaheim	Los Angeles	2.2141	609	1574	Statistics, Robotics Engineering	1402 kg	247	1390	0.6593	3 kg
+3	565 mph	1.6475	Los Angeles	Anaheim	0.7272	-789	-532	Computer Engineering	1004 kg	-238	-1136	0.5512	1614 kg
+5	2330 mph	1.5295	San Francisco	San Bernardino, San Francisco, Bakersfield	-0.2977	1389	93	Computational Media	1204 kg	610	-1061	1.5188	1373 kg
+2	670 mph	1.5626	San Diego	Fresno	-0.1597	301	-56	Bioinformatics	-1278 kg	-639	1780	-0.6445	-866 kg
+3	-1010 mph	1.8455	Riverside	Fremont	0.1414	889	-67	Computer Engineering	137 kg	465	255	0.749	1584 kg
+3	894 mph	1.7605	Los Angeles	Fremont	-2.082	1214	896	Computer Engineering	-496 kg	1319	-1391	1.4515	?
+0	1106 mph	-0.1333	Santa Clarita	Los Angeles	-0.3589	1799	2089	Bioengineering	2177 kg	1044	368	-0.6216	-918 kg
+4	-553 mph	0.679	Anaheim	Los Angeles	2.3631	342	-596	robotics engineering, statistics	2181 kg	186	1373	-0.1543	-198 kg
+0	1747 mph	0.5796	San Francisco	Fresno	-0.2507	874	995	Natural Language Processing	-77 kg	-894	920	0.2923	312 kg
+5	1956 mph	-0.4204	San Diego	Bakersfield	-0.4753	1395	1332	Applied Mathematics	-376 kg	390	1130	2.2776	-508 kg
+5	-219 mph	2.236	Modesto	San Bernardino, Bakersfield, San Francisco	-0.0256	483	-1182	Technology and Information Management, Applied Mathematics	223 kg	809	-621	0.5958	162 kg
+5	680 mph	1.6217	San Bernardino	San Bernardino, San Francisco	2.2502	1023	591	Applied Mathematics, Computational Media	386 kg	-354	-43	0.6878	1644 kg
+5	774 mph	2.0872	Modesto	San Jose, San Francisco	1.0639	201	1717	Computational Media, Applied Mathematics	-1494 kg	-284	-354	1.7276	-1806 kg
+1	312 mph	0.9229	Santa Ana	Moreno Valley, Fresno	-0.1661	944	1812	Electrical Engineering, Data Science, Computer Game Design	-149 kg	-445	1050	0.1243	-227 kg
+0	1299 mph	1.5975	Santa Clarita	Fresno	0.9993	1176	1813	Human Computer Interaction	1727 kg	1340	188	-2.0722	-76 kg
+4	1421 mph	-0.028	Oakland	Los Angeles	0.6411	231	289	Statistics, Robotics Engineering	1398 kg	-375	109	-0.2729	-797 kg
+1	-600 mph	2.0628	Bakersfield	Riverside, Oakland	-0.2234	745	1211	Biotechnology	1158 kg	-48	470	0.2616	-1336 kg
+4	957 mph	-0.1051	ANAHEIM	Los Angeles	1.0321	105	620	Robotics Engineering, Games and Playable Media	1448 kg	-153	-1035	0.3825	671 kg
+3	1101 mph	1.108	Riverside	Fremont	1.4561	-349	696	Computer Engineering	-161 kg	1344	-657	0.2392	1005 kg
+0	562 mph	0.5353	Chula Vista	Chula Vista	-0.4243	158	77	Bioengineering	474 kg	238	-654	0.0652	-1026 kg
+2	0 mph	0.732	San Diego	Santa Clarita	-0.4556	-68	2207	Bioinformatics	-1264 kg	770	923	0.393	501 kg
+2	442 mph	0.2929	San Diego	?	3.0317	705	-219	Bioinformatics	-965 kg	891	-338	-0.3315	-204 kg
+0	-706 mph	-1.2773	Sacramento	Chula Vista, Moreno Valley	-0.3224	1401	31	Human Computer Interaction, Natural Language Processing	788 kg	383	-2209	1.7598	972 kg
+3	-61 mph	1.8679	Los Angeles	fresno, chula vista	1.6497	506	1033	Computer Engineering	-765 kg	551	-689	1.6103	703 kg
+0	2045 mph	1.8889	Irvine	Stockton, Modesto, Sacramento	-0.9543	889	2959	Human Computer Interaction, Natural Language Processing	621 kg	269	1085	-0.1154	188 kg
+5	1175 mph	0.6696	sAN bERNARDINO	San Bernardino, Bakersfield, San Jose	-1.1996	-363	828	Computational Media	660 kg	672	421	0.0466	2139 kg
+4	1456 mph	1.9636	Anaheim	Los Angeles	-0.1494	522	442	Games and Playable Media	-218 kg	1785	635	2.2182	668 kg
+4	1162 mph	1.0618	Anaheim	San Diego	1.4239	2106	-311	Games and Playable Media, Statistics	2075 kg	479	687	-0.2665	-194 kg
+5	383 mph	0.9231	Moreno Valley	San Jose	2.4383	245	985	Technology and Information Management, Applied Mathematics	718 kg	-316	597	0.9723	401 kg
+0	1609 mph	-0.2081	San Francisco	Fresno, Chula Vista	0.9652	1290	577	Bioengineering	-1126 kg	211	133	-0.3018	951 kg
+1	-210 mph	0.0583	Bakersfield	Riverside, Irvine, Long Beach	-0.2373	1045	313	Biotechnology, Computer Game Design	-247 kg	21	-441	-0.2789	1095 kg
+1	141 mph	1.147	Long Beach	Irvine, Oakland, Long Beach	0.6904	1847	1889	Data Science, Electrical Engineering, Computer Game Design	103 kg	-492	862	0.8358	-185 kg
+4	799 mph	-1.6279	Fresno	San Diego	-0.5781	758	416	Games and Playable Media, Statistics	796 kg	466	1300	2.2319	1941 kg
+1	858 mph	-0.2739	Bakersfield	Oakland, Long Beach, Riverside	-0.4409	2138	?	Computer Game Design	122 kg	-692	-1273	-1.4672	1784 kg
+3	379 mph	-0.8614	Riverside	Anaheim	0.1914	886	598	Computer Engineering	134 kg	956	-314	0.7911	376 kg
+3	938 mph	1.2746	Los Angeles	Fremont	0.6185	-40	-1292	COMPUTER ENGINEERING	447 kg	1004	-1470	-0.1451	-5 kg
+0	-1257 mph	1.4057	Santa Clarita	Los Angeles	0.1867	-201	0	Human Computer Interaction	469 kg	-542	889	0.7554	332 kg
+3	1794 mph	0.9678	Los Angeles	Los Angeles	0.0929	1060	251	computer engineering	-639 kg	1042	-1561	2.1235	778 kg
+0	1845 mph	0.6004	Sacramento	Moreno Valley	-1.3778	919	165	BIOINFORMATICS	351 kg	917	-923	-0.5866	805 kg
+0	-870 mph	0.4782	San Francisco	Moreno Valley, Chula Vista	-0.4605	1057	494	Natural Language Processing, Human Computer Interaction	1071 kg	366	-315	-0.1922	1031 kg
+5	1086 mph	0.2159	San Bernardino	San Bernardino	1.3093	661	-1984	Technology and Information Management, Computational Media	426 kg	723	1073	1.4194	1000 kg
+2	1095 mph	0.3264	San Diego	Santa Clarita, Sacramento	0.4093	2071	199	Computer Science	-1034 kg	862	None	0.3952	1923 kg
+2	991 mph	2.1647	San Diego	Stockton, Modesto, Santa Clarita, Sacramento	0.9636	50	1680	Computer Science	-971 kg	-595	-1219	-0.9029	1421 kg
+0	429 mph	1.7177	San Francisco	Fresno, Chula Vista	-1.6598	1381	1310	Natural Language Processing, Bioengineering	1127 kg	260	455	-0.6854	1423 kg
+5	715 mph	-0.0406	Modesto	San Jose, San Bernardino	-0.0605	626	-696	TECHNOLOGY AND INFORMATION MANAGEMENT, APPLIED MATHEMATICS	1108 kg	261	-657	1.5577	1060 kg
+4	2072 mph	-0.511	Fresno	Modesto, Santa Ana, Santa Clarita, Stockton	2.0041	943	2041	Robotics Engineering	1699 kg	-580	250	1.5254	N/A
+1	-204 mph	0.6864	Long Beach	Oakland, Irvine, Riverside	0.9304	1504	287	Electrical Engineering	1258 kg	515	-700	0.5894	1346 kg
+0	164 mph	-1.1546	Irvine	Moreno Valley	0.6622	1241	-751	Natural Language Processing	-326 kg	1521	-541	0.373	-736 kg
+4	293 mph	-0.3385	Anaheim	San Diego	0.1731	1565	1062	Robotics Engineering	-263 kg	626	-284	0.3628	1003 kg
+5	766 mph	0.6936	San Bernardino	San Francisco	0.5381	1666	610	Technology and Information Management, Applied Mathematics	858 kg	-160	-411	0.1032	-371 kg
+3	541 mph	1.288	San Jose	Fremont	0.6655	622	-1484	Computer Engineering	-216 kg	151	-571	1.7464	-140 kg
+0	-30 mph	1.3285	San Francisco	Fresno, Chula Vista	-0.1327	685	-257	Human Computer Interaction, Bioengineering	454 kg	946	-67	-0.4073	-712 kg
+0	-404 mph	1.3996	Irvine	Moreno Valley	0.7775	852	893	Computer Engineering	-466 kg	579	129	1.3633	-240 kg
+2	251 mph	0.8666	San Diego	Modesto	0.0504	666	438	Computer Science	1561 kg	1546	488	0.274	-761 kg
+0	-448 mph	-0.7463	Irvine	Chula Vista, Moreno Valley	-1.9345	353	1304	Bioengineering	-791 kg	474	1017	0.6907	970 kg
+5	1634 mph	0.4518	Modesto	Bakersfield	1.6772	-630	98	Computational Media, Technology and Information Management	-386 kg	-76	-800	0.5304	769 kg
+4	889 mph	-0.0809	Anaheim	?	0.6057	645	-170	Robotics Engineering	-609 kg	525	596	-0.436	1306 kg
+1	985 mph	1.87	Long Beach	Oakland, Long Beach, Riverside	1.1216	-537	-51	Statistics	-409 kg	524	-499	0.0083	-417 kg
+5	1130 mph	-0.6886	Moreno Valley	San Jose, San Bernardino	-1.0297	944	923	Computational Media	458 kg	929	1533	1.3182	-77 kg
+5	-51 mph	0.8834	San Bernardino	San Jose	1.2173	-816	-701	Computational Media, Technology and Information Management	-806 kg	287	109	0.6899	-936 kg
+5	-202 mph	0.6323	Moreno Valley	Bakersfield, San Jose	2.1678	-147	868	Applied Mathematics	549 kg	270	1122	0.7657	363 kg
+2	-699 mph	2.1707	San Diego	Sacramento	2.2833	276	-868	cOMPUTER sCIENCE	-1569 kg	-312	589	1.0765	-901 kg
+5	-401 mph	1.4278	San Bernardino	San Francisco, San Bernardino	-0.6657	566	623	Computational Media, Applied Mathematics	-235 kg	1146	-99	1.6742	-251 kg
+1	1406 mph	-0.185	Long Beach	Anaheim	-0.2226	741	506	Biotechnology	-628 kg	387	784	1.1421	272 kg
+1	879 mph	0.0835	Santa Ana	Oakland	-0.1681	-230	1045	Electrical Engineering, Computer Game Design, Biotechnology	2671 kg	1075	2	1.0481	-636 kg
+5	-507 mph	-0.1694	Modesto	San Jose, San Francisco	0.7655	524	-500	Robotics Engineering	-480 kg	1194	-341	-0.125	72 kg
+0	608 mph	-0.6748	Santa Clarita	Chula Vista	-0.9278	1569	308	Data Science	-70 kg	1143	1136	1.5765	973 kg
+3	1712 mph	1.0273	Riverside	Fremont	1.4566	127	1100	Computer Engineering	1355 kg	-324	-1292	0.4645	175 kg
+5	2149 mph	1.0788	Moreno Valley	Fremont	1.5735	27	-431	Technology and Information Management	708 kg	-140	452	0.2352	413 kg
+4	175 mph	-0.7641	Anaheim	Los Angeles	0.4119	1929	N/A	Robotics Engineering, Statistics	799 kg	289	108	2.2891	735 kg
+2	716 mph	0.27	San Diego	Stockton	1.2221	107	500	Human Computer Interaction, Natural Language Processing	644 kg	-100	106	0.7365	670 kg
+5	805 mph	0.935	San Bernardino	Bakersfield, San Bernardino, San Jose	1.5106	579	-675	Applied Mathematics	-1086 kg	1666	-453	0.8218	1127 kg
+2	-578 mph	3.2064	San Diego	Modesto, Stockton, Santa Clarita, Santa Ana	1.6956	760	1113	Data Science, Biotechnology	429 kg	1015	887	2.5554	-896 kg
+4	-174 mph	1.2902	Stockton	San Diego	0.0608	1858	995	Robotics Engineering	1015 kg	704	1191	1.2898	-1158 kg
+0	473 mph	0.3101	Chula Vista	Chula Vista	-0.9205	1764	1022	Natural Language Processing, Human Computer Interaction	491 kg	1140	708	0.0524	-341 kg
+4	1534 mph	0.8098	Anaheim	Los Angeles	0.5337	19	1512	Games and Playable Media, Statistics	1557 kg	1165	N/A	1.8282	597 kg
+4	-350 mph	-1.8165	Stockton	San Diego	1.5655	1241	203	Games and Playable Media	1226 kg	523	662	0.9328	1991 kg
+4	1160 mph	0.6047	Stockton	Los Angeles	1.0865	1177	-833	Games and Playable Media, Statistics	1151 kg	367	455	1.396	377 kg
+0	308 mph	3.0195	Sacramento	Fresno, Moreno Valley	-0.6068	-152	582	Natural Language Processing, Bioengineering	-1086 kg	1935	-1526	-0.6881	-560 kg
+2	17 mph	1.5172	San Diego	Sacramento, Santa Clarita, Modesto, Santa Ana	0.4903	0	890	Computer Engineering	-1451 kg	-403	228	-0.7558	-459 kg
+1	-279 mph	0.9304	Santa Ana	Oakland, Riverside, Irvine	2.0056	251	152	Electrical Engineering, Computer Game Design, Biotechnology	-257 kg	1	-1374	0.669	1312 kg
+2	187 mph	0.1761	San Diego	Santa Clarita, Sacramento, Stockton, Santa Ana	1.6978	-928	1340	Computer Science	-48 kg	-175	957	-0.7159	1213 kg
+2	-323 mph	2.0861	San Diego	Stockton, Modesto, Santa Clarita	2.9274	-1571	481	Computer Science	225 kg	654	1278	-0.014	1427 kg
+0	915 mph	-0.033	Moreno Valley	San Diego	-1.3285	-114	1951	Computer Engineering	-506 kg	273	1597	-0.7655	-784 kg
+2	8 mph	1.9292	San Diego	Santa Clarita, Sacramento, Stockton	-1.133	-911	3105	Computer Science	54 kg	156	1734	-0.5585	-270 kg
+1	1088 mph	1.5121	Fremont	Long Beach		2002	1726	Data Science, Computer Game Design, Biotechnology	133 kg	-280	-404	-0.8083	-43 kg
+4	-144 mph	0.0354	Oakland	Los Angeles	-0.4044	1467	23	Robotics Engineering, Statistics	341 kg	1241	1339	1.6988	-309 kg
+2	690 mph	1.127	San Diego	Sacramento	1.443	663	354	Bioinformatics	325 kg	760	295	1.353	-518 kg
+2	599 mph	0.5817	San Diego	Modesto, Stockton, Sacramento	None	782	1729	Computer Engineering	371 kg	850	629	0.1001	474 kg
+4	-597 mph	0.42	Anaheim	San Diego	-0.5037	1160	1245	Statistics, Games and Playable Media	1447 kg	100	652	0.7283	-75 kg
+4	694 mph	1.1916	fresno	Los Angeles	2.4265	1570	882	Statistics, Games and Playable Media	2898 kg	720	575	0.9153	777 kg
+3	269 mph	0.4462	Los Angeles	Fremont	-0.9265	-1089	-337	Computer Engineering	-462 kg	574	-830	N/A	235 kg
+1	760 mph	1.7366	Riverside	Irvine, Oakland, Long Beach	0.1822	727	1043	Biotechnology	493 kg	1270	164	0.1981	-1617 kg
+2	1232 mph	2.7959	San Diego	Sacramento, Stockton, Modesto, Santa Clarita	0.5848	1226	935	Bioinformatics	-664 kg	651	215	-0.6329	-83 kg
+3	227 mph	-0.2961	san jose	Fremont	0.8813	929	-910	Computer Engineering	-452 kg	830	408	2.2852	2236 kg
+2	700 mph	0.939	San Diego	Sacramento, Santa Clarita, Santa Ana, Stockton	0.721	90	439	Bioinformatics	-127 kg	1525	926	0.5064	1355 kg
+0	1340 mph	-0.782	Sacramento	Moreno Valley, Fresno	-0.102	743	-194	Bioengineering	361 kg	614	1115	0.2311	-485 kg
+3	1480 mph	-0.3	Riverside	Anaheim	2.4151	610	865	Computer Engineering	580 kg	837	439	-1.2058	?
+3	635 mph	0.9708	Riverside	Anaheim	-1.0495	278	-811	Computer Engineering	336 kg	1362	467	0.8834	-252 kg
+3	2515 mph	2.0701	San Jose	Fremont	0.658	1251	-792	Computer Engineering	-692 kg	-251	-769	0.1302	755 kg
+0	-693 mph	2.1519	Fremont	Fresno, Chula Vista	-0.6071	485	NULL	Human Computer Interaction	-653 kg	647	217	-1.57	-385 kg
+4	-428 mph	-1.1901		Los Angeles	0.5471	1617	1932	Games and Playable Media	-971 kg	1373	-846	1.4854	584 kg
+1	1367 mph	0.5059	Bakersfield	Irvine, Oakland, Long Beach	-0.5562	-75	15	Biotechnology, Computer Game Design, Data Science	740 kg	-109	-9	1.2782	38 kg
+3	1571 mph	2.2071	Riverside	Anaheim	0.7312	570	295	Computer Engineering	1030 kg	746	-596	1.3455	870 kg
+4	2382 mph	-0.0297	Anaheim	San Diego	0.9618	305	2244	Robotics Engineering	1787 kg	1049	-14	-0.2161	-230 kg
+1	-565 mph	0.2688	lONG bEACH	Irvine, Riverside	-0.875	1381	355	Data Science	317 kg	727	319	-0.1585	589 kg
+5	-740 mph	0.2365	sAN bERNARDINO	San Jose, Bakersfield, San Bernardino	0.1526	1805	-395	Applied Mathematics	-845 kg	-205	1644	1.1616	974 kg
+1	-350 mph	1.0776	Fremont	Riverside, Oakland	0.4214	-260	392	Data Science	485 kg	876	641	-0.9838	-166 kg
+0	97 mph	0.4103	Chula Vista	Fresno, Chula Vista	-0.4591	2246	-57	Bioengineering, Natural Language Processing	44 kg	978	621	-0.3978	895 kg
+3	773 mph	2.7486	Riverside	San Diego	-0.4069	203	683	Computer Engineering	986 kg	1046	905	1.9818	-1080 kg
+4	361 mph	-0.8891	Anaheim	Los Angeles	0.6562	1011	1310	Statistics, Robotics Engineering	186 kg	21	1137	-1.4655	672 kg
+2	-228 mph	1.2636		Santa Clarita, Santa Ana, Modesto	0.295	461	-48	Bioinformatics	1166 kg	1106	1615	0.0186	-108 kg
+2	1394 mph	-0.4625	San Diego	Santa Clarita, Modesto	0.479	721	548	Bioinformatics	-893 kg	2319	1490	1.3822	-1047 kg
+5	128 mph	-0.3306	Moreno Valley	San Francisco, Bakersfield, San Bernardino	0.0096	-54	-484	Computational Media	1028 kg	977	480	1.9488	169 kg
+2	-1296 mph	-1.384	San Diego	Stockton	-0.0483	-774	807	Computer Science	-78 kg	561	1220	-0.91	1554 kg
+5	-132 mph	1.197	Modesto	Bakersfield, San Jose, San Bernardino	1.5215	309	882	Applied Mathematics, Computational Media	334 kg	-1261	-329	0.1271	165 kg
+2	52 mph	2.761	San Diego	Santa Ana, Stockton, Modesto	0.8406	11	1774	Computer Science	-797 kg	420	2066	0.4832	1184 kg
+0	1133 mph	0.7528	Irvine	Chula Vista	1.7326	952	258	Natural Language Processing, Bioengineering	-1931 kg	1137	205	-0.389	1410 kg
+5	149 mph	0.3503	San Bernardino	Oakland, Irvine, Long Beach	1.2981	135	1028	Computational Media	-466 kg	261	-66	0.0397	563 kg
+2	-109 mph	2.2832	San Diego	Santa Clarita, Sacramento, Modesto, Santa Ana	0.4541	-389	580	Computer Science	-120 kg	369	2207	0.9388	481 kg
+5	1907 mph	-0.5333	San Bernardino	San Bernardino, San Jose	-0.4672	193	-114	Technology and Information Management, Applied Mathematics	-73 kg	1607	-109	0.9001	-546 kg
+5	-233 mph	0.7919	San Bernardino	San Bernardino, Bakersfield, San Jose	-0.3917	957	1136	Technology and Information Management	803 kg	-208	64	0.8094	-624 kg
+2	1371 mph	3.1544	San Diego	Stockton, Santa Ana, Santa Clarita, Modesto	0.9409	979	1935	Bioinformatics	2040 kg	2185	-54	-0.5905	2069 kg
+5	739 mph	0.396	San Bernardino	san bernardino, san francisco, bakersfield	0.212	634	755	Computational Media, Technology and Information Management	696 kg	-83	-530	1.1548	974 kg
+1	-368 mph	1.1728	Fremont	Irvine, Riverside, Oakland	0.9475	958	1191	Electrical Engineering, Computer Game Design, Data Science	2 kg	107	423	-0.1917	997 kg
+1	1511 mph	1.884	Anaheim	IRVINE, OAKLAND, LONG BEACH	-0.8881	428	1529	Electrical Engineering	76 kg	273	-333	1.172	1680 kg
+3	-810 mph	-0.4736	Los Angeles	Fremont	-0.8377	732	1960	Computer Engineering	63 kg	859	1611	-0.2893	149 kg
+0	-429 mph	1.518	Sacramento	Chula Vista, Fresno	1.2157	497	363	Bioengineering	-733 kg	49	584	1.5608	1450 kg
+2	-684 mph	NULL	Anaheim	Santa Clarita, Santa Ana, Sacramento	1.5287	305	190	Games and Playable Media, Statistics	-312 kg	-66	1083	-0.7195	2047 kg
+4	-731 mph	0.8637	Oakland	Los Angeles	2.7095	361	2929	Statistics	1969 kg	133	1441	0.828	-1007 kg
+1	1054 mph	0.1874	Bakersfield	Riverside, Oakland, Long Beach	0.4316	2179	1728	Biotechnology	1 kg	-115	43	0.7727	370 kg
+4	-28 mph	-0.1882	Anaheim	Los Angeles	0.0733	-540	1101	Statistics, Games and Playable Media	2138 kg	390	-1221	0.6925	1154 kg
+1	424 mph	-0.8008	Fremont	Riverside, Long Beach, Oakland	0.9082	200	1257	Biotechnology, Computer Game Design, Electrical Engineering	3 kg	-617	-954	-1.3277	816 kg
+3	997 mph	2.3955	Los Angeles	Los Angeles	-2.2792	978	1082	Computer Engineering	-1360 kg	-97	-566	1.6023	338 kg
+0	-379 mph	1.8225	Irvine	Moreno Valley	1.1844	1502	603	Bioinformatics	497 kg	1622	-602	0.8764	-1166 kg
+1	-356 mph	1.7923	San Diego	Oakland, Long Beach, Irvine	0.2374	1044	47	Data Science	297 kg	765	373	-2.4425	1008 kg
+4	1010 mph	-0.3378	Anaheim	Los Angeles	0.2595	-103	2076	Robotics Engineering	-1530 kg	-725	13	1.6173	799 kg
+2	535 mph	0.6811	San Diego	Sacramento, Modesto, Santa Clarita, Santa Ana	0.358	-520	-4	Computer Science	458 kg	1668	383	-0.6607	1701 kg
+1	440 mph	-0.2514	Long Beach	Oakland	-0.2639	55	-27	Biotechnology, Data Science, Computer Game Design	-76 kg	806	-184	-0.4261	-523 kg
+2	210 mph	1.1293	San Diego	Stockton	0.9745	-255	1129	Bioinformatics	1013 kg	-267	17	0.085	179 kg
+3	1957 mph	0.3914	Riverside	Anaheim	0.1276	674	653	Computer Engineering	580 kg	-589	333	2.4451	326 kg
+3	584 mph	0.9222	Riverside	Anaheim	-0.3404	-36	-1999	Computer Engineering	-320 kg	8	-1485	0.9119	437 kg
+0	-293 mph	1.621	San Francisco	Chula Vista	1.0718	783	981	Bioengineering	794 kg	362	-154	0.1689	-500 kg
+3	1507 mph	2.9031	Los Angeles	Anaheim	0.0191	378	969	Computer Engineering	1031 kg	-926	111	0.6843	709 kg
+2	-1186 mph	1.7187	fRESNO	Sacramento	0.8876	722	740	Bioinformatics	-217 kg	416	947	-0.1098	-413 kg
+1	1373 mph	0.5791	Long Beach	Riverside, Oakland	-0.4773	1546	1848	Electrical Engineering, Biotechnology	-1797 kg	1167	-989	-0.3824	15 kg
+2	2163 mph	-0.1272	San Diego	Sacramento, Modesto, Santa Ana, Stockton	0.4644	244	276	Computer Science	768 kg	746	-46	-0.4723	151 kg
+4	44 mph	-0.8751	Anaheim	Los Angeles	1.3943	1299	-1198	Games and Playable Media, Statistics	1018 kg	278	-282	-0.341	-622 kg
+5	-460 mph	1.4154	Moreno Valley	San Francisco, San Jose, San Bernardino	-0.4081	286	-1299	Computational Media	1889 kg	-904	138	-0.3746	1935 kg
+3	1188 mph	1.8117	Los Angeles	Fremont	0.8883	-17	2465	Computer Engineering	743 kg	825	-692	0.407	-396 kg
+3	4 mph	0.8358	San Jose	Fremont	0.2036	1270	-931	Computer Engineering	215 kg	256	-180	1.1694	-491 kg
+2	-1069 mph	2.2276	San Diego	Santa Ana, Santa Clarita, Stockton, Sacramento	1.8039	1022	2546	Bioinformatics	137 kg	1204	872	-0.824	405 kg
+2	1822 mph	-0.5128	San Diego	Modesto, Santa Ana	2.2326	935	135	Bioinformatics	-475 kg	807	1588	0.1706	-1763 kg
+4	2277 mph	-2.1368	Fresno	San Diego	2.5203	1088	1147	Games and Playable Media	580 kg	563	180	1.826	524 kg
+4	-101 mph	0.9433	Oakland	Los Angeles	-0.4287	329	135	Games and Playable Media	519 kg	-106	-512	-0.5141	477 kg
+0	-485 mph	0.4431	Sacramento	Chula Vista	0.0496	-201	2410	Natural Language Processing, Bioengineering	-195 kg	1435	-337	-1.3374	-418 kg
+2	612 mph	-0.5786	San Diego	Santa Clarita, Modesto	-0.2226	850	1741	Bioinformatics	-840 kg	795	890	-0.3974	2728 kg
+1	-399 mph	1.279	sANTA aNA	Oakland, Long Beach	-0.6431	1893	-443	Computer Game Design, Electrical Engineering, Data Science	301 kg	744	-825	0.8045	-199 kg
+5	1936 mph	-0.0203	Modesto	Bakersfield	2.3027	-576	665	Applied Mathematics, Technology and Information Management	919 kg	650	-67	0.5205	-445 kg
+1	1012 mph	-0.0742	Santa Ana	Oakland	2.8934	306	-296	Biotechnology, Computer Game Design, Data Science	-962 kg	408	535	0.6137	2035 kg
+5	992 mph	3.4327	San Bernardino	San Francisco, San Bernardino, San Jose	0.7789	251	-830	Applied Mathematics, Computational Media	146 kg	815	522	0.4152	-227 kg
+0	394 mph	-0.5471	Santa Clarita	Oakland, Irvine	0.7508	413	-736	Robotics Engineering, Games and Playable Media	-757 kg	1182	-305	-0.628	223 kg
+0	1129 mph	1.5135	Santa Clarita	Chula Vista	0.4135	72	1315	Natural Language Processing	588 kg	736	-1024	0.465	518 kg
+1	79 mph	0.2488	Fremont	Riverside, Long Beach, Irvine	0.905	311	687	Data Science, Electrical Engineering	1362 kg	-399	-612	-0.3434	906 kg
+4	1616 mph	-0.9142	Anaheim	Los Angeles	-0.1159	2098	-20	gAMES AND pLAYABLE mEDIA, sTATISTICS	-90 kg		-231	0.9451	-152 kg
+4	-396 mph	2.1753	Sacramento	San Diego	2.0463	1608	37	Computer Engineering	956 kg	-50	355	-0.9039	1460 kg
+0	947 mph	0.7185	Santa Clarita	Fresno	-0.9548	84	1268	Human Computer Interaction, Natural Language Processing	-1525 kg	267	-671	1.342	812 kg
+3	488 mph	1.3833	Riverside	Fremont	-0.3879	-491	523	Computer Engineering	917 kg	-269	599	1.2357	-634 kg
+4	-634 mph	-1.0306	Anaheim	Los Angeles	1.277	1131	756	Statistics, Games and Playable Media	1205 kg	716	-315	0.5269	-39 kg
+5	1095 mph	0.8953	San Bernardino	Bakersfield	0.608	588	488	Technology and Information Management	1992 kg	-114	-684	-0.1926	-345 kg
+5	438 mph	0.6164	Moreno Valley	San Bernardino, Bakersfield, San Jose	1.0492	1206	1085	Applied Mathematics, Computational Media	-17 kg	2016	-1334	-0.0639	-767 kg
+0	783 mph	-0.0884	Irvine	Fresno		233	741	Natural Language Processing, Bioengineering	-191 kg	-118	-207	0.0068	2067 kg
+5	871 mph	1.5672	San Bernardino	n/a	0.1284	587	-1120	Technology and Information Management, Applied Mathematics	-671 kg	188	645	1.4827	1170 kg
+5	-604 mph	1.098	San Bernardino	San Jose	0.9189	1370	856	Applied Mathematics, Computational Media	-299 kg	188	860	0.3069	576 kg
+4	337 mph	-0.0472	Stockton	San Diego	0.9038	899	446	Statistics, Robotics Engineering	364 kg	1304	-1129	0.8686	1843 kg
+5	-94 mph	3.0247	San Bernardino	San Bernardino, San Francisco	2.2407	399	1570	Applied Mathematics	77 kg	-100	-1287	1.8185	-373 kg
+5	1112 mph	1.3319	Moreno Valley	Bakersfield, San Bernardino, San Jose	0.6086	1183	-1148	Technology and Information Management	-1316 kg	1045	168	1.3697	910 kg
+2	-44 mph	0.2172	San Diego	Modesto, Stockton, Sacramento	2.1164	-414	793	Bioinformatics	-544 kg	-93	-953	-0.107	1541 kg
+2	129 mph	1.4391	San Diego	Santa Ana, Stockton	-0.3401	332	442	Bioinformatics	-1005 kg	831	799	-0.2101	742 kg
+0	971 mph	-0.0775	Chula Vista	Chula Vista, Fresno	1.1098	548	-1151	Natural Language Processing, Bioengineering	-449 kg	314	20	-1.2522	2027 kg
+2	-427 mph	-1.3874	San Diego	San Francisco, San Jose	1.9018	1227	322	Bioinformatics	531 kg	285	2032	0.2867	-333 kg
+3	1212 mph	-0.3388	Los Angeles	Los Angeles	0.3969	1167	-805	Computer Engineering	-524 kg	1449	-1009	0.5657	-174 kg
+3	-445 mph	-0.2414	Los Angeles	FREMONT	0.4743	1305	-1192	Computer Engineering	-82 kg	1384	-84	1.2832	1176 kg
+0	441 mph	0.03	Chula Vista	Moreno Valley	-0.2113	633	1012	Human Computer Interaction, Bioengineering	365 kg	926	218	-0.3767	1065 kg
+4	-284 mph	-0.3688	n/a	San Diego	0.1188	917	1943	Statistics	70 kg	305	-1251	2.3714	860 kg
+2	554 mph	0.3176	San Diego	Stockton	-0.2093	884	518	Bioinformatics	705 kg	1146	1461	0.325	1777 kg
+1	879 mph	0.8474	Long Beach	Riverside, Irvine	0.3059	-327	1281	Electrical Engineering, Biotechnology, Data Science	574 kg	925	-1730	-0.2678	-122 kg
+0	-463 mph	1.9882	Santa Clarita	Fresno	0.5036	898	-299	Bioinformatics	-439 kg	82	-103	0.1702	1576 kg
+1	891 mph	0.3568	Fremont	NULL	-0.4372	618	-205	Data Science	-2051 kg	681	843	0.1081	1053 kg
+0	1797 mph	-0.1751	Chula Vista	Moreno Valley, Fresno	0.4411	-1180	-2048	Natural Language Processing	509 kg	1053	1528	-1.3845	562 kg
+3	428 mph	0.8392	Riverside	Fremont	0.7085	1326	-1499	Computer Engineering	-180 kg	-452	-1375	0.5145	504 kg
+3	-41 mph	0.8715	Los Angeles	Anaheim	-1.7002	-17	-562	Computer Engineering	-1401 kg	1882	360	-0.7463	-594 kg
+5	121 mph	0.5811	Moreno Valley	sAN bERNARDINO	1.3067	528	1467	Applied Mathematics, Technology and Information Management	358 kg	350	228	-0.8052	1472 kg
+3	1060 mph	1.3977	Los Angeles	Fremont	-0.1716	-123	1181	Computer Engineering	383 kg	611	-473	0.743	611 kg
+3	1349 mph	0.7437	San Jose	Anaheim	-1.6024	-762	-404	Computer Engineering	-1464 kg	-483	-809	1.6055	-879 kg
+3	1267 mph	0.7321	Los Angeles	Irvine, Oakland, Riverside	0.9451	464	1024	Computer Engineering	-942 kg	826	-427	-0.0622	1171 kg
+3	-559 mph	0.8911	Los Angeles	Fremont	1.0245	1287	331	Computer Engineering	1717 kg	362	-334	0.4323	612 kg
+2	587 mph	1.4604	San Diego	Santa Clarita, Modesto, Santa Ana, Sacramento	1.9633	-880		Computer Science	-810 kg	511	1016	1.0987	1014 kg
+4	1254 mph	0.3538	Fresno	Los Angeles	-0.5759	n/a	-21	Statistics, Robotics Engineering	839 kg	924	100	1.2702	-388 kg
+1	2305 mph	0.7702	Long Beach	Riverside	0.6213	1146	534	Biotechnology, Computer Game Design, Data Science	-1208 kg	66	-334	1.0587	-158 kg
+1	695 mph	0.2578	Santa Ana	Fremont	1.4396	-131	1315	Electrical Engineering, Data Science, Computer Game Design	-139 kg	373	-1163	2.1101	20 kg
+5	927 mph	2.3287	Moreno Valley	San Bernardino	-0.7281	671	100	Computational Media	-302 kg	832	-1101	1.8806	1173 kg
+4	251 mph	0.5135	Anaheim	San Diego	0.6268	1342	-607	Robotics Engineering, Games and Playable Media	N/A	-644	335	0.8835	881 kg
+1	290 mph	0.9334	Bakersfield	Moreno Valley, Chula Vista	1.0806	865	1027	Biotechnology	-490 kg	710	236	-0.4953	699 kg
+4	1480 mph	-1.0671	Oakland	San Diego	-0.4956	-718	793	Robotics Engineering	616 kg	291	-2139	0.9717	145 kg
+2	-26 mph	-0.0125	San Diego	Santa Clarita, Santa Ana	-0.4944	-967	168	Bioinformatics	-250 kg	-349	1493	0.7506	1999 kg
+4	525 mph	-0.1559	Oakland	Los Angeles	-0.6812	1459	404	Statistics, Robotics Engineering	295 kg	350	-3	1.2408	716 kg
+4	-1140 mph	1.0688	Anaheim	Riverside, Irvine	1.3318	1008	2068	Robotics Engineering, Games and Playable Media	537 kg	1528	-1440	2.487	118 kg
+3	-948 mph	2.2999	n/a	Fremont	0.9744	1177	259	Computer Engineering	836 kg	591	-475	0.889	-227 kg
+1	752 mph	0.0169	Long Beach	?	0.8693	873	523	Electrical Engineering, Biotechnology, Computer Game Design	449 kg	854	1122	-0.3027	1665 kg
+5	592 mph	0.5237	San Bernardino	San Francisco, San Jose	1.428	-126	-1192	Computational Media	339 kg	651	N/A	-0.2827	1576 kg
+5	-484 mph	1.8664	San Bernardino	San Francisco	-1.0034	827	-666	Applied Mathematics, Technology and Information Management	738 kg	1053	-66	1.0351	1121 kg
+4	1415 mph	1.086	Fresno	San Diego	1.218	1169	-334	Games and Playable Media	1917 kg	1271	232	0.0217	n/a
+5	-1353 mph	1.5003	Modesto	Bakersfield	1.2057	-557	-352	Applied Mathematics, Technology and Information Management	1343 kg	98	1550	1.9176	1947 kg
+1	103 mph	1.0568	Bakersfield	Oakland, Riverside, Irvine	-0.1658	1194	944	Data Science	-278 kg	970	333	1.1992	522 kg
+5	1691 mph	0.4084	Moreno Valley	San Bernardino	2.6799	234	397	Applied Mathematics	-149 kg	-802	-1139	1.2917	-694 kg
+5	20 mph	-0.964	San Bernardino	Fresno	1.5825	90	672	Applied Mathematics	1278 kg	908	514	-0.1077	281 kg
+4	-151 mph	-0.0987	Stockton	San Diego	1.0798	729	-743	Statistics, Robotics Engineering	932 kg	758	550	-0.0682	154 kg
+3	2224 mph	1.4156	Los Angeles	Moreno Valley	-0.0846	859	-70	Computer Engineering	-490 kg	-1197	-505	-0.2037	2388 kg
+2	1059 mph	1.0976	San Diego	Santa Clarita	0.678	245	1035	Computer Science	540 kg	331	2026	-1.2372	398 kg
+4	1472 mph	1.0371	Oakland	Los Angeles	1.3754	787	1704	gAMES AND pLAYABLE mEDIA, sTATISTICS	542 kg	617	-384	1.6056	2037 kg
+4	2294 mph	-0.8863	Anaheim	San Diego	1.0525	5	N/A	Technology and Information Management	1436 kg	470	416	1.3678	1179 kg
+2	1253 mph	0.9901	San Diego	Sacramento	1.995	1366	1715	Bioinformatics	1409 kg	721	1273	1.2323	292 kg
+1	777 mph	-0.4535	Santa Ana	Oakland	1.0555	-19	1087	cOMPUTER gAME dESIGN, bIOTECHNOLOGY	733 kg	438	-1140	-0.659	2124 kg
+2	404 mph	1.3397	San Diego	Santa Ana	1.5866	1497	-600	Computer Engineering	-459 kg	783	2674	0.8335	955 kg
+0	1117 mph	0.8482	Irvine	Fresno	-0.2386	1759	-231	Bioengineering, Human Computer Interaction	611 kg	1467	-102	0.1584	823 kg
+5	1545 mph	-0.0733	Modesto	Bakersfield, San Francisco, San Jose	1.4302	-805	193	Applied Mathematics, Computational Media	-245 kg	1386	206	-0.1022	1180 kg
+4	345 mph	0.1218	Stockton	San Diego	0.5298	1742	674	Bioinformatics	686 kg	178	-899	-0.233	-159 kg
+0	1794 mph	0.5893	Santa Clarita	Chula Vista	2.1812	-265	395	NATURAL LANGUAGE PROCESSING, HUMAN COMPUTER INTERACTION	-1274 kg	-853	490	-1.322	1310 kg
+0	-690 mph	-0.5997	San Francisco	Fresno	-1.0072	1576	-216	Bioengineering	-572 kg	738	-72	0.8956	1276 kg
+3	111 mph	2.2041	Los Angeles	Anaheim	0.607	-9	1548	Computer Engineering	-158 kg	570	202	-0.2756	555 kg
+1	1211 mph	n/a	Santa Ana	Long Beach	0.5905	1318	-726	Electrical Engineering, Computer Game Design	-634 kg	1387	-706	-0.7058	808 kg
+2	683 mph	0.2369	Irvine	Modesto, Stockton, Santa Clarita	-1.3522	790	1746	Bioinformatics	-425 kg	-167	1416	0.6573	308 kg
+2	48 mph	0.5367	San Diego	Santa Clarita, Sacramento, Santa Ana	1.5784	2	571	Computer Science	83 kg	1328	1250	-0.3573	1328 kg
+2	1332 mph	0.6176	San Diego	Modesto, Santa Clarita	1.951	-839	-291	COMPUTER SCIENCE	1245 kg	400	1258	1.0852	-83 kg
+0	806 mph	1.4444	San Francisco	Fresno, Moreno Valley	0.109	-119	995	Human Computer Interaction, Bioengineering	722 kg	1543	-776	-1.6907	1913 kg
+3	-1125 mph	1.4166	San Jose	Anaheim	-1.0381	-439	-610	Computer Engineering	412 kg	-801	924	-0.3786	273 kg
+2	-261 mph	0.0169	San Diego	Modesto, Sacramento, Santa Ana, Santa Clarita	2.2178	1113	-218	Bioinformatics	-379 kg	-150	1041	0.4866	182 kg
+3	1782 mph	0.6941	San Jose	Anaheim	-1.0054	151	1147	Computer Engineering	-687 kg	79	534	1.0617	187 kg
+2	2798 mph	0.2072	San Diego	Sacramento, Modesto, Santa Clarita, Stockton	1.1643	967	1510	Computer Science	-879 kg	-353	204	0.5913	210 kg
+0	-649 mph	-0.5793	Santa Clarita	Moreno Valley	-0.5164	226	1210	Bioengineering, Natural Language Processing	1183 kg	2116	-350	0.5883	1244 kg
+5	1111 mph	1.0958	Riverside	San Jose, San Francisco	0.944	-251		Computational Media, Applied Mathematics	276 kg	-283	754	-0.0375	568 kg
+1	834 mph	-0.4852	San Diego	Irvine	0.2855	681	-624	Data Science, Biotechnology, Electrical Engineering	514 kg	-459	-284	-0.1028	536 kg
+4	273 mph	0.7721	Oakland	San Diego	0.9565	891	-234	Robotics Engineering	1739 kg	-141	1035	0.5181	1271 kg
+0	-33 mph	1.4052	San Francisco	Chula Vista, Fresno	-1.3801	275	1515	Human Computer Interaction	1069 kg	NULL	-1520	2.9303	1277 kg
+3	1371 mph	-0.0559	Los Angeles	Fremont	-0.5454	-425	-1627	Computer Engineering	620 kg	1291	150	2.7441	-310 kg
+2	1071 mph	0.0362	San Diego	Stockton, Modesto, Sacramento, Santa Clarita	1.6927	297	-79	Computer Science	-1381 kg	-587	867	0.0903	1975 kg
+3	57 mph	0.2389	San Jose	Fremont	1.3519	-195	-297	Bioinformatics	-311 kg	953	2092	0.3576	328 kg
+5	433 mph	0.7555	Modesto	San Jose, San Francisco, San Bernardino	1.029	112	112	Applied Mathematics	-601 kg	325	-89	-0.2082	479 kg
+3	-163 mph	1.7762	Riverside	Fremont	-0.1855	49	247	Computer Engineering	-555 kg	409	1734	0.7078	-394 kg
+0	8 mph	1.9179	Moreno Valley	Chula Vista, Fresno	1.4669	1752	370	Bioengineering, Natural Language Processing	-1144 kg	-276	-256	-0.354	2237 kg
+0	833 mph	0.0907	Santa Clarita	Chula Vista	1.1204	1945	1991	Bioengineering, Natural Language Processing	-560 kg	-76	-593	-0.1286	237 kg
+5	1294 mph	0.219	Modesto	ANAHEIM	0.5261	1140	-395	Computational Media, Technology and Information Management	1737 kg	-126	-529	-0.5372	203 kg
+0	307 mph	-0.2157	Irvine	Moreno Valley, Chula Vista	0.2034	1055	1534	Natural Language Processing, Bioengineering	960 kg	906	-499	-1.6996	1836 kg
+2	-55 mph	1.1264	San Diego	Santa Ana, Santa Clarita, Stockton, Sacramento	-2.869	-202	-589	bioinformatics	-85 kg	1163	2375	1.3683	169 kg
+2	-388 mph	0.931	San Diego	Sacramento, Santa Ana, Modesto, Santa Clarita	0.3763	718	989	Data Science	-320 kg	-310	523	-0.7691	961 kg
+4	1331 mph	0.7313	Fresno	Los Angeles	0.1398	300	804	Robotics Engineering, Statistics	413 kg	294	-1032	0.1135	-34 kg
+3	-466 mph	0.4152	Riverside	Sacramento, Santa Ana, Stockton, Modesto	0.4139	331	-1283	Computer Engineering	-477 kg	-632	-339	-0.2538	1355 kg
+2	-454 mph	0.8057	San Diego	Stockton, Santa Ana	-0.3886	1896	1434	Computer Science	-8 kg	-525	1380	-0.7107	582 kg
+5	-379 mph	3.3308	San Bernardino	Bakersfield	2.0791	-138	-560	Applied Mathematics, Technology and Information Management	738 kg	369	141	-0.2525	1641 kg
+2	740 mph	-0.207	San Diego	Sacramento, Santa Ana	1.2952	777	-795	Computer Science	-995 kg	1482	3780	0.9242	2116 kg
+3	-34 mph	1.0048	San Jose	Fremont	-1.7911	-132	-16	Computer Engineering	-456 kg	1537	1272	0.4839	-1251 kg
+4	2532 mph	0.5639	Anaheim	Los Angeles	0.3316	2012	1183	Statistics, Robotics Engineering	2555 kg	654	768	0.9912	829 kg
+2	-563 mph	1.0789	San Diego	Santa Clarita, Sacramento, Stockton, Modesto	1.3824	248	155	Computer Science	-2032 kg	715	326	-0.0892	243 kg
+4	566 mph	-1.7355	Oakland	San Diego	2.7307	475	104	Games and Playable Media	129 kg	-233	-1489	0.6801	1026 kg
+0	533 mph	-0.732	Irvine	Moreno Valley, Fresno	-0.3775	1428	-10	Biotechnology, Electrical Engineering, Data Science	15 kg	1684	-481	-0.4261	462 kg
+5	752 mph	0.3696	San Bernardino	San Jose, Bakersfield	3.2916	-560	-628	Computational Media, Applied Mathematics	145 kg	416	576	-0.0842	486 kg
+1	-615 mph	-0.0298	Santa Ana	n/a	0.1957	265	1590	Bioinformatics	857 kg	858	294	0.2277	1104 kg
+5	2160 mph	1.7317	Modesto	San Jose	0.9103	-1565	-869	Technology and Information Management, Computational Media	-751 kg	569	180	0.3175	2260 kg
+5	1697 mph	2.3219	San Bernardino	Fremont	2.3711	112	275	Applied Mathematics	-848 kg	740	0	0.1726	-591 kg
+1	-330 mph	-0.0492	Bakersfield	Riverside, Irvine, Long Beach	-0.7685	-387	1220	Computer Game Design, Data Science, Electrical Engineering	-30 kg	375	660	-0.7029	541 kg
+0	522 mph	1.649	Irvine	Chula Vista	-2.4106	151	901	Human Computer Interaction, Natural Language Processing	639 kg	-280	-2201	-0.705	658 kg
+3	258 mph	0.1129	San Jose	Anaheim	-0.6069	-1142	619	Computer Engineering	1303 kg	818	376	0.2929	-861 kg
+0	541 mph	-1.7067	San Francisco	Chula Vista, Moreno Valley	0.3861	-892	1905	Bioengineering, Human Computer Interaction	471 kg	-520	301	0.835	207 kg
+1	682 mph	2.202	Long Beach	Anaheim	0.4079	1230	101	Computer Game Design, Biotechnology	1011 kg	-1243	-427	-0.107	121 kg
+5	860 mph	0.9259	San Bernardino	San Jose	1.6507	556	-932	Computational Media, Applied Mathematics	65 kg	1139	478	0.313	2484 kg
+4	-673 mph	-0.1154	Stockton	San Diego	1.4759	586	253	Games and Playable Media, Robotics Engineering	1592 kg	721	-667	-0.1464	1611 kg
+4	-472 mph	1.4766	Anaheim	Los Angeles	0.8732	1910	165	Games and Playable Media, Statistics	312 kg	970	-122	0.359	711 kg
+1	376 mph	0.463	Fremont	Long Beach, Irvine	0.8526	595	669	Data Science	480 kg	650	480	-1.9094	1408 kg
+3	-217 mph	-0.7813	San Jose	Fremont	0.123	490	-2220	Computer Engineering	1290 kg	1172	-341	0.8339	973 kg
+0	487 mph	0.8656	San Francisco	Moreno Valley, Fresno	-0.4939	711	583	Applied Mathematics	-215 kg	1713	735	-0.0488	-195 kg
+0	1568 mph	0.9687	Sacramento	Moreno Valley	0.471	1346	1546	Bioengineering	-1476 kg	306	1183	1.5732	876 kg
+4	1908 mph	-0.6817	Oakland	San Diego	-0.7767	814	1786	Games and Playable Media	327 kg	826	526	-0.0206	-781 kg
+5	-3 mph	0.2235	Santa Ana	Bakersfield	1.1288	263	1109	Applied Mathematics, Technology and Information Management	-508 kg	693	-486	1.5407	655 kg
+4	686 mph	1.6126	Oakland	Los Angeles	-0.2988	-469	-89	Games and Playable Media	1195 kg	537	513	n/a	1799 kg
+3	360 mph	0.9373	San Francisco	None	-0.4441	393	-168	Computer Engineering	1604 kg	839	404	2.2049	-1242 kg
+4	-342 mph	1.0704	Anaheim		0.6238	1561	1782	Games and Playable Media	696 kg	1045	-368	-0.0354	934 kg
+3	-414 mph	1.0761	Los Angeles	Anaheim	0.8305	575	-1561	Computer Engineering	-523 kg	72	1275	-0.6999	812 kg
+0	-12 mph	0.3811	Chula Vista	Stockton	0.5276	1602	-420	Bioengineering	-489 kg	1227	1369	-1.6745	-98 kg
+0	1536 mph	-0.6696	Chula Vista	Chula Vista	0.9415	403	1575	Human Computer Interaction, Bioengineering	373 kg	-434	-1134	0.1533	396 kg
+2	122 mph	0.6952	San Diego	Santa Clarita, Stockton, Santa Ana	1.1445	-454	24	Bioinformatics	-397 kg	212		0.4296	680 kg
+2	-191 mph	1.2223	San Diego	Santa Ana, Modesto	0.0868	-136	2692	computer science	-738 kg	1366	802	0.791	1032 kg
+2	499 mph	1.4552	San Diego	Sacramento, Santa Clarita	1.589	683	958	bIOINFORMATICS	-570 kg	-179	1795	0.2515	2043 kg
+4	943 mph	0.5098	Stockton	San Diego	0.9155	1910	1949	Robotics Engineering	935 kg	58	-175	2.3948	1227 kg
+0	877 mph	-0.7361	Riverside	Moreno Valley, Chula Vista	0.2787	860	-777	Human Computer Interaction, Bioengineering	-3 kg	862	1580	-1.5718	509 kg
+2	1036 mph	1.2514	San Diego	Stockton, Santa Clarita, Sacramento, Santa Ana	2.2039	-220	1342	Bioinformatics	439 kg	603	1316	-1.1288	-1310 kg
+4	1977 mph	1.4424	Stockton	San Diego	1.6488	909	892	Robotics Engineering, Statistics	514 kg	470	1547	1.1644	326 kg
+1	-58 mph	0.698	Fremont	Oakland, Irvine	-0.0507	1101	269	Biotechnology, Data Science, Electrical Engineering	568 kg	802	2136	0.5902	311 kg
+3	623 mph	1.1809	San Jose	Fremont	-0.0185	-423	933	Computer Engineering	692 kg	1078	104	1.0293	-754 kg
+0	54 mph	0.153	Chula Vista	Moreno Valley	0.6835	2032	470	Natural Language Processing	171 kg	726	282	1.1385	257 kg
+0	408 mph	1.2853	Chula Vista	Chula Vista	1.4219	794	2164	Natural Language Processing, Bioengineering	-272 kg	98	1392	2.2363	322 kg
+4	674 mph	0.5572	Anaheim	Los Angeles	-0.101	2212	2884	Robotics Engineering	53 kg	464	-1281	0.9198	-397 kg
+5	695 mph	-1.2473	San Bernardino	Bakersfield	1.3065	277	-434	Technology and Information Management	-502 kg	342	1358	0.5571	1154 kg
+1	-571 mph	-0.3567	Bakersfield	Riverside, Irvine, Oakland	-0.4702	1820	1101	Data Science, Electrical Engineering, Computer Game Design	1001 kg	1365	323	-1.0654	462 kg
+2	-512 mph	1.8031	San Diego	Santa Clarita, Santa Ana, Modesto, Sacramento	0.6499	1008	735	Bioinformatics	-98 kg	945	805	0.6365	-1314 kg
+1	1752 mph	1.2684	Long Beach	Long Beach, Riverside, Irvine	1.6322	-75	-152	Biotechnology, Computer Game Design, Electrical Engineering	326 kg	150	60	-0.1258	756 kg
+0	862 mph	0.9427	Chula Vista	Moreno Valley	-0.1875	2358	243	Bioengineering	1199 kg	1015	-551	1.4375	-1424 kg
+5	1277 mph	0.8651	Moreno Valley	San Jose, San Bernardino	-0.2138	-278	-819	Computational Media, Applied Mathematics	-713 kg	210	936	1.667	592 kg
+3	2187 mph	0.4901	San Jose	Anaheim	-0.5085	550	2648	Computer Engineering	226 kg	568	-48	-1.3471	-209 kg
+5	430 mph	0.8281	Moreno Valley	san francisco, san jose, san bernardino	1.4621	497	-897	Technology and Information Management	441 kg	1819	-842	2.0073	2129 kg
+4	1255 mph	0.1874	stockton	San Diego	0.5323	1161	-935	Robotics Engineering, Games and Playable Media	1533 kg	517	-524	2.6565	-817 kg
+0	1223 mph	1.9989	Chula Vista	Moreno Valley, Chula Vista	-0.7219	-594	1273	Bioengineering	390 kg	1	1305	-0.2404	-703 kg
+3	483 mph	None	Los Angeles	Fremont	0.1899	706	808	Computer Engineering	-724 kg	144	444	-0.7101	1473 kg
+0	-5 mph	0.618	Santa Clarita	Chula Vista	0.9423	-469	1845	Natural Language Processing, Human Computer Interaction	-850 kg	1331	-525	-0.2734	339 kg
+5	1174 mph	1.6217	Moreno Valley	San Bernardino, Bakersfield	-0.025	1837	-1092	Computational Media	547 kg	-198	74	0.7562	None
+4	1429 mph	1.7742	Anaheim	San Diego	0.8457	1228	2052	Statistics	571 kg	1555	543	-1.0656	1155 kg
+3	136 mph	0.0881	San Diego	Anaheim	0.8707	499	-843	Computer Engineering	-60 kg	515	-1082	-0.3101	405 kg
+5	61 mph	0.7156	San Bernardino	San Francisco, San Jose, Bakersfield	1.1067	288	-139	Applied Mathematics	-931 kg	-588	-771	-0.3307	443 kg
+0	70 mph	0.3771	Irvine	San Jose	0.1849	888	44	Natural Language Processing	1083 kg	224	-466	-0.5038	1163 kg
+2	1143 mph	2.2691	San Diego	Stockton, Santa Clarita	1.7952	517	-59	Biotechnology, Electrical Engineering, Computer Game Design	-837 kg	676	-741	-0.8007	473 kg
+2	1020 mph	1.7197	San Diego	Sacramento, Modesto, Santa Ana	0.3528	1514	-282	Computer Science	1265 kg	607	2000	0.4743	1170 kg
+0	889 mph	0.5022	santa clarita	Chula Vista	0.3803	727	1990	Natural Language Processing, Human Computer Interaction	561 kg	-90	-504	1.133	-284 kg
+1	-691 mph	-0.3292	Long Beach	Irvine, Long Beach, Oakland	1.3802	1582	1359	Electrical Engineering, Biotechnology, Data Science	111 kg	599	826	0.1073	1648 kg
+3	855 mph	1.4289	San Jose	Fremont	-0.5126	-39	682	Computer Engineering	500 kg	2977	-331	0.1516	2356 kg
+0	-499 mph	-1.0925	Santa Clarita	Moreno Valley	None	956	489	Natural Language Processing	2088 kg	1990	829	0.0734	431 kg
+5	-488 mph	1.6081	Moreno Valley	San Jose, San Bernardino, San Francisco	2.2432	146	-697	Computational Media, Applied Mathematics	694 kg	-196	326	0.8401	798 kg
+5	945 mph	0.005	Moreno Valley	San Francisco, Bakersfield	0.4307	-203	-51	Computational Media	-312 kg	-868	-150	1.162	-186 kg
+4	1245 mph	-0.8598	Stockton	San Diego	0.6509	508	-1468	Games and Playable Media	1495 kg	718	1003	0.3764	1506 kg
+2	-1165 mph	1.2415	San Diego	Moreno Valley, Fresno	-0.4745	722	1851	Computer Science	636 kg	-79	711	-0.0011	-281 kg
+3	416 mph	1.0133	Los Angeles	Moreno Valley	0.2994	-882	-1016	Computer Engineering	-197 kg	1217	1641	0.3193	-1603 kg
+1	313 mph	-0.1415	Bakersfield	Irvine, Riverside	-0.0562	653	154	Computer Game Design	-211 kg	1183	326	0.5754	-493 kg
+0	123 mph	0.0079	santa clarita	Fresno	-0.2834	785	35	Bioengineering, Human Computer Interaction	1754 kg	1598	430	0.3115	989 kg
+0	643 mph	0.857	Sacramento	Moreno Valley	0.7176	2403	-419	Human Computer Interaction	125 kg	467	193	0.5898	654 kg
+3	960 mph	2.3451	Los Angeles	Santa Clarita, Stockton	1.8073	457	2625	Computer Engineering	-614 kg	1115	1883	-0.8046	-581 kg
+3	151 mph	0.992	Riverside	aNAHEIM	-0.0632	-298	-133	Computer Engineering	-624 kg	685	493	-0.5189	269 kg
+3	1675 mph	1.5381	Los Angeles	Anaheim	0.7304	172	542	Bioengineering, Human Computer Interaction	-1738 kg	-785	-2011	2.3286	1260 kg
+5	364 mph	0.6398	Modesto	San Bernardino	1.2441	653	923	Electrical Engineering, Computer Game Design	1163 kg	196	-50	0.1387	1167 kg
+1	-46 mph	3.5183	Santa Ana	Anaheim	-0.5931	1865	-781	Computer Game Design	-1146 kg	103	-394	0.9606	-639 kg
+2	-656 mph	1.0817	San Diego	Modesto, Santa Ana, Sacramento, Santa Clarita	0.4397	219	1065	Computer Science	624 kg	1659	746	-1.203	33 kg
+0	319 mph	0.0451	Irvine	Fresno	0.3538	354	2408	human computer interaction	513 kg	715	580	-0.0011	448 kg
+5	-118 mph	0.7451	Oakland	Bakersfield, San Jose, San Bernardino	-0.8355	1155	-401	Computational Media, Technology and Information Management	582 kg	1646	-356	1.7768	-927 kg
+3	1300 mph	0.7281	Riverside	Anaheim	-0.0456	923	-633	Computer Engineering	461 kg	426	-280	2.3893	1190 kg
+3	957 mph	1.6822	Los Angeles	Fremont	-0.0542	445	2589	Computer Engineering	515 kg	1007	-460	1.1871	550 kg
+5	-746 mph	1.5517	Modesto	San Francisco, San Jose	0.498	-1766	-157	Applied Mathematics, Technology and Information Management	171 kg	765	-170	1.2385	797 kg
+1	-1416 mph	1.0559	Fremont	Oakland, Irvine	0.611	1457	-14	Electrical Engineering, Data Science, Computer Game Design	-127 kg	-473	402	0.0191	2110 kg
+4	356 mph	-0.6826	Oakland	San Diego	-0.0207	1387	304	Games and Playable Media, Robotics Engineering	346 kg	1692	157	0.2178	127 kg
+2	-77 mph	2.1951	San Diego	Modesto, Santa Clarita, Stockton	1.5454	398	1524	Computer Science	347 kg	255	1074	0.0454	365 kg
+2	1177 mph	1.5026	San Diego	Santa Clarita	0.3354	-338	1782	Bioinformatics	-1127 kg	-104	-14	0.2604	2095 kg
+0	1029 mph	0.2261	Santa Clarita	Fresno, Chula Vista	-0.8192	260	-276	Bioengineering, Human Computer Interaction	-686 kg	1369	-857	0.2672	2085 kg
+5	858 mph	-0.1198	San Bernardino	san bernardino	1.307	391	552	Applied Mathematics, Technology and Information Management	-792 kg	-341	1167	0.5863	500 kg
+3	2658 mph	0.7569	San Jose	Anaheim	0.134	-637	666	Computer Engineering	-335 kg	-446	391	0.8841	1530 kg
+3	534 mph	-0.5236	Los Angeles	FREMONT	0.6651	-333	1139	Computer Engineering	-699 kg	482	577	0.4799	1354 kg
+0	-10 mph	1.1116	Santa Clarita	Chula Vista, Moreno Valley	0.7569	1325	-936	Human Computer Interaction, Natural Language Processing	56 kg	848	314	1.665	1303 kg
+3	-154 mph	0.8254	Riverside	Anaheim	0.7383	984	-826	Computer Engineering	-382 kg	-50	330	1.1233	166 kg
+1	-307 mph	-1.5798	Long Beach	Long Beach, Irvine	0.8559	777	730	Data Science, Computer Game Design	530 kg	532	-232	-0.9378	344 kg
+1	646 mph	1.0318	Fremont	Long Beach, Riverside, Oakland	-0.1415	601	-223	Biotechnology	639 kg	820	-479	1.0591	1697 kg
+1	-4 mph	0.4611	Santa Ana	Riverside, Irvine, Oakland	0.7023	1407	952	Computer Game Design	-75 kg	-42	-229	0.5062	1268 kg
+3	-183 mph	1.7435	Riverside	Anaheim	-0.3775	-880	1521	Computer Engineering	14 kg	448	121	0.8995	617 kg
+0	273 mph	0.8193	San Francisco	Moreno Valley	0.7718	632	2628	Natural Language Processing	1520 kg	708	903	0.027	1289 kg
+0	944 mph	1.79	Irvine	Chula Vista, Moreno Valley	-0.8694	181	1546	NATURAL LANGUAGE PROCESSING	286 kg	1325	993	1.0155	818 kg
+4	396 mph	0.324	Fresno	San Diego	2.9903	1971	634	Statistics	712 kg	956	779	0.7782	1013 kg
+4	-376 mph	0.433	Stockton	San Diego	0.3781	1261	1080	Robotics Engineering	2432 kg	n/a	166	NULL	651 kg
+5	175 mph	0.6633	Modesto	San Francisco	0.8629	1920	-1200	Technology and Information Management, Applied Mathematics	574 kg	859	15	0.5163	-549 kg
+1	844 mph	1.6265	Fremont	San Francisco, Bakersfield, San Bernardino	0.5023	1117	-3	Biotechnology, Computer Game Design	-1079 kg	542	-256	0.4613	42 kg
+5	915 mph	0.6584	Moreno Valley	San Francisco, Bakersfield	0.7873	43	83	Computational Media, Applied Mathematics	121 kg	-239	-613	0.0445	2405 kg
+5	1553 mph	0.6929	san bernardino	San Jose	0.2412	56	315	Applied Mathematics, Technology and Information Management	-395 kg	-780	1975	-0.735	-2020 kg
+4	633 mph	1.7394	Oakland	San Diego	1.0722	-75	1435	Robotics Engineering	710 kg	1599	-123	1.33	83 kg
+5	1651 mph	1.1433	SAN BERNARDINO	San Francisco	2.7545	1073	2191	Applied Mathematics	-1195 kg	1739	-79	1.7713	-144 kg
+3	731 mph	1.0011	rIVERSIDE	Anaheim	-0.0843	698	-1993	Computer Engineering	-311 kg	180	559	1.3375	175 kg
+0	812 mph	0.9598	Irvine	Fresno, Chula Vista	-0.2263	564	671	Natural Language Processing	943 kg	1109	-1818	0.3486	1851 kg
+3	569 mph	-0.6539	Los Angeles	Fremont	-0.3647	803	154	Computer Engineering	-523 kg	1244	1004	1.6193	529 kg
+5	-1161 mph	-0.1317	Moreno Valley	San Bernardino, San Francisco	1.0463	858	-908	Applied Mathematics, Computational Media	225 kg	619	449	-0.5758	1482 kg
+0	607 mph	1.2122	Irvine	Fresno	-1.1582	870	632	bioengineering	1363 kg	417	548	-0.7429	293 kg
+4	-461 mph	-1.2232	Oakland	San Diego	-0.1794	1386	556	Statistics, Games and Playable Media	745 kg	1431	-762	0.0587	-772 kg
+4	735 mph	1.3103	Stockton	San Diego	1.3867	657	-233	Robotics Engineering, Games and Playable Media	370 kg	n/a	1889	0.3303	2227 kg
+4	1412 mph	0.4128	Oakland	Los Angeles	1.9474	830	1513	Statistics, Games and Playable Media	-336 kg	1244	-283	1.4425	829 kg
+4	-155 mph	0.188	Oakland	San Diego	0.9821	681	756	Games and Playable Media	318 kg	N/A	183	0.2492	-143 kg
+1	-1265 mph	0.8204	Santa Ana	Oakland, Irvine, Riverside	-0.7031	962	-1493	Biotechnology, Data Science	-34 kg	-63	-1595	0.2477	252 kg
+0	-626 mph	2.2247	San Francisco	Moreno Valley, Chula Vista	-0.7873	462	2005	Bioengineering	464 kg	543	-1141	0.0787	-486 kg
+3	53 mph	0.1219	San Jose	Fremont	NULL	-33	-1155	Computer Engineering	190 kg	98	431	0.1769	2327 kg
+0	583 mph	-0.7566	Santa Clarita	Chula Vista, Moreno Valley	1.6035	850	584	Natural Language Processing, Human Computer Interaction	214 kg	937	786	-1.0461	823 kg
+0	43 mph	0.8623	Santa Clarita	Los Angeles	-0.2343	856	819	bioengineering, human computer interaction	-1544 kg	354	-1309	-1.3653	301 kg
+1	821 mph	1.1011	Long Beach	Riverside, Long Beach	0.7491	1521	414	Biotechnology, Computer Game Design, Electrical Engineering	-29 kg	261	979	-0.0985	184 kg
+4	590 mph	-0.0456	Anaheim	San Diego	1.2039	1472	149	robotics engineering	382 kg	-260	241	None	225 kg
+2	-373 mph	-0.3587	San Diego	Santa Clarita, Santa Ana	0.5772	2011	-871	Bioinformatics	521 kg	1	637	-0.2471	1067 kg
+4	-324 mph	-1.7935	Stockton	San Diego	0.5839	609	1453	Robotics Engineering	1458 kg	485	352	1.9693	792 kg
+1	672 mph	0.1562	Santa Ana	Riverside, Long Beach, Oakland	-1.2257	825	1337	Computer Game Design	775 kg	987	1429	0.677	1103 kg
+1	-755 mph	1.414	Fremont	Long Beach, Irvine	-0.2504	-124	1118	Electrical Engineering	-828 kg	104	634	-1.0133	886 kg
+1	1211 mph	0.5796	Bakersfield	Irvine	-0.3892	2180	15	Data Science, Biotechnology, Electrical Engineering	351 kg	471	-680	1.1601	2599 kg
+3	1699 mph	0.8309	San Jose	LOS ANGELES	-0.3349	141	-380	Computer Engineering	-393 kg	189	25	0.4082	2075 kg
+1	252 mph	0.1758	Irvine	Riverside, Oakland, Irvine	-0.5967	509	1960	Electrical Engineering, Data Science	-273 kg	778	171	-1.7896	1905 kg
+1	258 mph	0.9999	Bakersfield	Riverside	1.4803	1309	1409	Biotechnology, Data Science, Electrical Engineering	718 kg	-48	-396	-0.195	-511 kg
+3	-1045 mph	0.5893	Los Angeles	Anaheim	-1.1641	187	-338	Computer Engineering	-472 kg	-272	-1005	0.5049	455 kg
+4	184 mph	-0.7934	Fresno	Chula Vista	0.8122	552	3099	Statistics	930 kg	1835	-528	0.1035	1694 kg
+5	-900 mph	1.227	Modesto	San Francisco, San Bernardino, Bakersfield	1.6657	-625	-647	Technology and Information Management	1028 kg	1626	23	3.2058	-715 kg
+4	362 mph	0.6461	Oakland	Los Angeles	-0.0482	996	1889	Robotics Engineering	1224 kg	-551	200	-0.2446	1049 kg
+2	-990 mph	-0.0102	San Diego	Sacramento, Santa Clarita, Stockton, Santa Ana	0.9072	165	-181	Computer Science	833 kg	-289	-578	3.0951	336 kg
+0	380 mph	0.6265	Sacramento	Chula Vista, Fresno	1.9362	1143	1870	Natural Language Processing	170 kg	16	679	0.2278	310 kg
+4		0.2124	Fresno	San Diego	0.6007	455	1958	Statistics, Robotics Engineering	964 kg	898	836	1.054	-1247 kg
+3	-366 mph	1.825	San Jose	Fremont	0.6105	346	28	Computer Engineering	447 kg	-80	241	1.4678	-942 kg
+2	453 mph	0.2945	San Diego	Sacramento, Stockton, Santa Clarita	0.6502	-1338	-123	Bioinformatics	-245 kg	-95	665	-0.7608	-1613 kg
+3	-75 mph	-0.1867	San Jose	San Francisco	-0.2608	-1066	-196	Computer Engineering	539 kg	497	1037	3.1826	867 kg
+1	-61 mph	2.5468	Santa Ana	Riverside	-1.2972	2010	-993	Data Science	-970 kg	511	11	0.539	1538 kg
+0	-566 mph	2.0252	Chula Vista	Fresno, Moreno Valley	1.1995	833	605	Natural Language Processing	1193 kg	407	977	-1.3583	447 kg
+5	1376 mph	0.0708	San Bernardino	San Jose, San Bernardino, San Francisco	0.9744	82	45	Computational Media	1036 kg	1235	-626	1.351	667 kg
+4	296 mph	-0.8236	Anaheim	Los Angeles	0.5554	1591	658	Statistics, Games and Playable Media	1378 kg	1037	-468	1.747	39 kg
+4	661 mph	0.6438	Oakland	Los Angeles	-0.2423	823	1243	Robotics Engineering, Statistics	-264 kg	1131	-15	0.221	-384 kg
+0	1881 mph	0.2941	Sacramento	Moreno Valley	0.663	633	1440	Human Computer Interaction, Bioengineering	-206 kg	923	1265	-0.9009	-631 kg
+4	-899 mph	0.7658	Anaheim	San Diego	0.6851	1772	-84	rOBOTICS eNGINEERING	660 kg	738	-863	-0.5472	921 kg
+2	-12 mph	0.0417	San Diego	Santa Ana	1.2049	-1357	-290	Bioinformatics	53 kg	318	911	-1.2985	-307 kg
+3	-1887 mph	2.7799	San Jose	Fremont	-0.1604	-1431	-726	Computer Engineering	553 kg	1002	-109	1.3619	948 kg
+3	90 mph	2.7068	Los Angeles	Fremont	0.9938	-180	-1418	Computer Engineering	860 kg	1000	1983	1.3365	-1205 kg
+4	848 mph	-0.1278	Oakland	Anaheim	-0.122	1011	1650	Robotics Engineering, Statistics	1698 kg	1351	54	0.903	34 kg
+3	296 mph	-0.2962	Los Angeles	Anaheim	-1.2756	543	-597	Computer Engineering	297 kg	1	883	1.2255	751 kg
+3	631 mph	-0.0262	Los Angeles	Anaheim	1.6167	1395	1744	Computer Engineering	216 kg	1215	25	0.4249	-303 kg
+1	443 mph	0.8257	Fremont	Oakland, Irvine	-0.5072	813	1638	Biotechnology, Electrical Engineering	161 kg	50	528	1.7507	1526 kg
+0	104 mph	-0.27	San Francisco	Fresno, Chula Vista	-2.2655	-785	1887	Natural Language Processing	573 kg	92	183	1.6789	
+5	434 mph	0.6621	San Bernardino	SAN JOSE, SAN FRANCISCO, SAN BERNARDINO	0.0148	251	-267	Computational Media, Technology and Information Management	120 kg	433	142	0.7799	-80 kg
+0	-154 mph	0.5011	Chula Vista	Chula Vista	0.2958	N/A	-262	Bioengineering, Human Computer Interaction	-397 kg	795	723	1.0218	792 kg
+0	147 mph	-0.7567	Santa Clarita	Fresno, Moreno Valley	0.5842	1586	868	Human Computer Interaction, Natural Language Processing	239 kg	1040	-921	-0.9524	1799 kg
+3	905 mph	-0.5349	Los Angeles	Fremont	-0.4919	394	1558	Computer Engineering	-389 kg	0	1114	0.0982	-56 kg
+5	-1296 mph	-0.1842	San Bernardino	San Francisco, San Jose, Bakersfield	3.4409	145	347	Technology and Information Management	-90 kg	-298	-468	0.8694	-254 kg
+5	2134 mph	0.7805	San Bernardino	Bakersfield, San Francisco, San Bernardino	0.1032	-1249	551	Technology and Information Management	949 kg	116	284	-0.042	1612 kg
+5	1831 mph	0.4178	San Bernardino	San Bernardino	0.474	1463	-349	Applied Mathematics, Computational Media	-66 kg	-6	-757	1.944	1299 kg
+5	1794 mph	0.3572	Moreno Valley	sAN jOSE	1.0769	-149	1065	Applied Mathematics	981 kg	337	1523	-0.7227	4 kg
+4	978 mph	-0.873	Oakland	San Diego	1.5199	1062	2264	Statistics, Games and Playable Media	2888 kg	733	-339	1.6096	736 kg
+0	-792 mph	-0.85	Irvine	Moreno Valley, Fresno	-0.4464	?	208	Natural Language Processing	-571 kg	1083	736	-0.0137	1734 kg
+1	831 mph	-0.2211	Long Beach	Irvine, Riverside, Long Beach	-0.0506	2008	-97	Electrical Engineering	-414 kg	1263	1318	-1.1396	-513 kg
+0	307 mph	-0.2436	Sacramento	Chula Vista, Moreno Valley	0.9565	336	1515	Natural Language Processing, Bioengineering	1265 kg	765	N/A	0.322	-595 kg
+5	2300 mph	2.6301	Moreno Valley	Bakersfield	1.6855	2028	-134	Technology and Information Management	1686 kg	550	759	1.4033	985 kg
+5	1517 mph	0.2521	Moreno Valley	San Jose	-1.1651	-1395	-151	Computational Media	1041 kg	-211	-507	0.4839	1253 kg
+4	1192 mph	-0.7098	Anaheim	Los Angeles	2.1454	-628	1109	Games and Playable Media, Statistics	2635 kg	1448	103	0.5458	-693 kg
+0	577 mph	-0.1215	Chula Vista	Fresno, Chula Vista	0.4567	1418	823	Bioengineering	438 kg	1371	-511	1.6892	1838 kg
+1	160 mph	1.2426	Bakersfield	San Francisco, Bakersfield, San Jose	-0.6951	1536	614	eLECTRICAL eNGINEERING, cOMPUTER gAME dESIGN	1098 kg	959	-9	0.2696	1064 kg
+2	2290 mph	1.7936	San Diego	Santa Ana, Modesto	0.6508	787	413	Bioinformatics	-898 kg	736	144	-1.2352	NULL
+2	-352 mph	2.562	San Diego	Stockton, Sacramento, Santa Clarita	-0.3755	-326	1344	Computer Science	-1497 kg	315	1336	1.1569	585 kg
+2	2127 mph	1.132	San Diego	Santa Clarita, Sacramento, Santa Ana, Modesto	-0.4125	191	1090	computer science	-966 kg	898	739	-0.3643	1188 kg
+0	-332 mph	0.6555	San Francisco	Moreno Valley	-0.0176	1409	-63	Bioengineering	-615 kg	794	-570	0.7548	825 kg
+3	1839 mph	0.7287	Los Angeles	Anaheim	-0.257	-882	159	Computer Engineering	-849 kg	-115	-679	0.6913	436 kg
+1	1938 mph	-1.121	Long Beach	Irvine, Riverside, Oakland	0.1328	385	856	Electrical Engineering, Biotechnology	-1301 kg	-189	-455	0.0557	258 kg
+0	-215 mph	0.4017	Santa Clarita	Fresno	-1.4765	-162	585	Human Computer Interaction	818 kg	611	1106	0.4601	429 kg
+5	759 mph	-0.775	Moreno Valley	San Francisco	1.5286	-761	2259	Computational Media	-54 kg	527	623	2.6054	-173 kg
+0	134 mph	-2.4475	San Francisco	Moreno Valley, Fresno	0.0762	1479	224	Bioengineering	1338 kg	1586	-297	-1.2197	342 kg
+0	-751 mph	0.1269	San Francisco	Fresno	-0.7511	740	1026	Human Computer Interaction, Natural Language Processing	-1141 kg	1445	209	-0.2325	1243 kg
+0	36 mph	2.1517	Santa Clarita	Chula Vista	0.1651	2677	336	Natural Language Processing	-441 kg	185	407	-0.4093	355 kg
+1	740 mph	-0.6744	Santa Ana	Irvine	-0.3128	744	1059	Electrical Engineering, Computer Game Design	-114 kg	-1048	68	-0.4558	1173 kg
+1	-375 mph	-0.3842	Fremont	Riverside	0.1191	280	516	Electrical Engineering, Biotechnology	1311 kg	-259	-1649	0.6882	-822 kg
+1	1014 mph	0.8406	Santa Ana	Long Beach, Oakland	1.4736	1707	-1014	Computer Game Design, Electrical Engineering, Data Science	1517 kg	-188	-865	0.5361	625 kg
+3	721 mph	-0.0744	San Jose	Fremont	2.1366	-239	-360	Computer Engineering	-245 kg	1045	-2	1.4349	-669 kg
+5	-420 mph	0.2661	San Bernardino	San Bernardino, San Francisco	1.6794	1274	279	Applied Mathematics	1831 kg	-191	1075	1.7252	-22 kg
+3	-164 mph	1.2776	Los Angeles	Fremont	-1.776	532	-235	Computer Engineering	-948 kg	473	1604	0.6203	237 kg
+5	-242 mph	0.0704	Moreno Valley	Bakersfield, San Bernardino	0.7266	-680	2072	Technology and Information Management, Applied Mathematics	-1032 kg	2071	-1121	0.7454	3 kg
+2	-106 mph	1.0187	San Diego	Santa Ana, Sacramento, Stockton	2.2022	320	-1618	Bioinformatics	-1422 kg	451	521	0.9914	-576 kg
+2	-469 mph	0.3728	San Diego	Santa Ana, Sacramento, Stockton, Santa Clarita	2.3273	2429	341	Bioinformatics	-1363 kg	747	861	-0.4719	260 kg
+0	162 mph	1.8093	Irvine	Moreno Valley, Fresno	-1.5939		2414	Bioengineering	176 kg	-277	1531	0.8128	-752 kg
+3	-90 mph	0.3313	San Jose	Anaheim	0.0237	1005	523	Computer Engineering	-158 kg	590	180	1.8471	982 kg
+5	227 mph	2.0853	San Bernardino	Bakersfield, San Francisco, San Jose	0.0157	-97	-317	aPPLIED mATHEMATICS, cOMPUTATIONAL mEDIA	332 kg	-172	1850	0.3931	-1111 kg
+1	976 mph	0.5515	Fremont	Irvine, Long Beach	0.5513	598	-768	Data Science, Computer Game Design, Biotechnology	1168 kg	166	304	1.2256	250 kg
+3	-164 mph	0.4066	San Jose	Fremont	1.5009	661	82	Human Computer Interaction	N/A	266	-1768	1.2348	1819 kg
+0	1101 mph	0.4625	Santa Clarita	Chula Vista, Fresno	1.7638	971	?	Bioengineering	-213 kg	839	133	-0.4108	1106 kg
+3	-577 mph	0.1113	Los Angeles	Fremont	-0.0751	1568	1068	Computer Engineering	33 kg	903	-1319	0.3635	1546 kg
+5	457 mph	1.7494	Modesto	Bakersfield	0.1778	473	2649	Computational Media	558 kg	694	1088	0.2118	165 kg
+2	449 mph	0.6842	San Diego	Modesto, Stockton	1.3032	1936	482	Bioinformatics	-465 kg	593	1715	0.4202	525 kg
+5	-285 mph	0.8421	Modesto	San Bernardino, San Francisco, San Jose	0.895	1498	-626	TECHNOLOGY AND INFORMATION MANAGEMENT	906 kg	278	-508	0.5363	294 kg
+2	312 mph	-0.8189	San Diego	Sacramento	0.5254	464	748	?	239 kg	554	2080	-0.8109	865 kg
+1	253 mph	0.3516	Santa Ana	Long Beach	-2.1068	-333	367	Computer Game Design, Biotechnology, Electrical Engineering	-105 kg	1368	-781	0.7717	2164 kg
+3	194 mph	1.8694	San Jose	Anaheim	-1.0601	883	382	Computer Engineering	-677 kg	859	-202	1.0898	1578 kg
+5	-78 mph	-0.2313	Moreno Valley	San Francisco	0.1913	-1092	184	Applied Mathematics, Computational Media	-744 kg	-524	152	3.2351	468 kg
+5	1451 mph	0.1882	Modesto	San Jose, San Francisco	1.3154	726	839	Technology and Information Management, Applied Mathematics	-1333 kg	1448	489	0.5043	-2294 kg
+5	-14 mph	0.6387	Modesto	San Jose, San Bernardino, Bakersfield	1.5631	1007	-866	Applied Mathematics	-2599 kg	1862	930	1.0983	631 kg
+1	112 mph	1.2809	Santa Ana	Oakland, Irvine, Riverside	1.1842	921	1336	Electrical Engineering, Biotechnology	-1150 kg	83	-837	-0.4894	229 kg
+5	1241 mph	1.2722	Modesto	Bakersfield	0.3444	1385	-572	Technology and Information Management, Applied Mathematics	821 kg	1921	728	0.0573	872 kg
+0	-18 mph	1.4243	San Francisco	Moreno Valley	-0.057	933	993	Natural Language Processing	36 kg	-864	496	0.3712	-558 kg
+4	1373 mph	0.9951	Oakland	San Diego	0.6367	637	-1019	Statistics, Games and Playable Media	1001 kg	230	1191	-0.4111	968 kg
+3	397 mph	1.3697	San Jose	FREMONT	1.8388	92	-2373	Computer Engineering	-134 kg	374	-412	0.745	863 kg
+3	70 mph	2.1673	Los Angeles	Anaheim	0.3652	-944	1570	Computer Engineering	1209 kg	687	1100	0.6565	495 kg
+4	1596 mph	1.2306	Oakland	Los Angeles	1.6687	-87	-1245	Robotics Engineering, Statistics	1610 kg	-263	482	1.2372	-642 kg
+2	2505 mph	1.4158	San Bernardino	Sacramento, Modesto, Santa Ana, Stockton	0.5195	456	818	Bioinformatics	401 kg	1017	1353	0.0307	866 kg
+1	407 mph	1.2705	Santa Ana	Riverside, Irvine	0.0099	1564	-121	Biotechnology, Computer Game Design	149 kg	-368	12	-1.6502	2064 kg
+1	1148 mph	0.5802	Fremont	Riverside	-0.7506	485	-4	Computer Game Design	112 kg	-731	-720	1.5414	931 kg
+3	1980 mph	0.6296	Los Angeles	Anaheim	N/A	179	-1411	Bioinformatics	-567 kg	102	298	1.1594	44 kg
+1	416 mph	-1.061	Bakersfield	San Diego	0.501	1147	2101	Data Science, Biotechnology	347 kg	70	-3	-0.3747	-625 kg
+4	412 mph	-0.7621	Fresno	Los Angeles	1.9378	980	532	Statistics, Games and Playable Media	-619 kg	-242	1069	1.3567	-431 kg
+2	660 mph	-0.6741	San Diego	Santa Ana	1.4783	1433	-997	Computer Engineering	424 kg	618	691	0.1091	-239 kg
+3	-1102 mph	-0.174	Riverside	Moreno Valley	0.798	803	-1085	Computer Engineering	51 kg	740	-936	2.3008	231 kg
+5	2011 mph	2.272	Moreno Valley	Bakersfield, San Jose, San Bernardino	1.7999	89	-500	Applied Mathematics	1061 kg	-755	-462	1.5046	1103 kg
+1	1543 mph	1.1208	Long Beach	Riverside, Oakland, Long Beach	0.6132	-254	610	Data Science, Electrical Engineering, Biotechnology	64 kg	-829	-896	-0.9244	-243 kg
+3	1736 mph	-0.3308	Riverside	Fremont	0.7727	1443	-399	Computer Engineering	132 kg	1084	1743	0.3208	2298 kg
+2	889 mph	0.5893	San Diego	Santa Ana, Santa Clarita	0.5046	52	-239	Computer Science	771 kg	-562	2838	-1.5215	291 kg
+2	1377 mph	1.9976	Los Angeles	Sacramento, Santa Clarita	0.8744	-27	-1322	Computer Science	894 kg	178	133	-0.4901	-650 kg
+2	1409 mph	0.4443	San Diego	Modesto, Stockton	1.7405	1214	995	Computer Science	170 kg	817	1511	0.4122	738 kg
+5	1070 mph	0.8646	Moreno Valley	San Bernardino, Bakersfield, San Francisco	0.9717	607	95	Computational Media, Technology and Information Management	-750 kg	933	-191	0.3933	1065 kg
+0	221 mph	0.1724	Santa Clarita	Moreno Valley	2.0326	1321	-41	Natural Language Processing, Human Computer Interaction	-758 kg	-711	1294	-0.2809	-1392 kg
+1	-131 mph	-1.1558	Bakersfield	Long Beach	-1.1037	N/A	1589	Electrical Engineering	684 kg	108	-1071	-0.0565	892 kg
+2	608 mph	0.3649	San Diego	Modesto, Santa Ana, Stockton	-0.3257	-493	462	Bioinformatics	995 kg	1063	609	0.8076	-125 kg
+5	-494 mph	0.1425	San Bernardino	Bakersfield, San Bernardino	1.1454	401	393	Computational Media, Applied Mathematics	1063 kg	1647	1841	0.1763	442 kg
+4	268 mph	-0.8796	Stockton	Los Angeles	2.3709	108	-1869	Statistics	962 kg	1403	1747	0.4742	942 kg
+4	578 mph	-0.1856	Oakland	Los Angeles	0.6371	2026	158	Games and Playable Media	-526 kg	330	404	1.0935	1028 kg
+5	817 mph	-0.0756	Moreno Valley	Bakersfield	1.3964	570	-1955	Computational Media, Technology and Information Management	-17 kg	-388	-72	0.0618	-110 kg
+1	946 mph	1.4009	Long Beach	Long Beach	-0.9975	634	2243	Biotechnology, Data Science, Computer Game Design	-192 kg	-778	-738	0.3211	-537 kg
+0	173 mph	1.6174	San Francisco	San Diego	1.2584	-19	1418	Applied Mathematics	-786 kg	627	26	-1.4438	511 kg
+3	-891 mph	0.5533	Los Angeles	Anaheim	1.3747	636	-461	Computer Engineering	70 kg	1098	1412	-0.5325	-179 kg
+5	-23 mph	0.0443	Moreno Valley	Bakersfield, San Jose	1.0627	-434	-564	technology and information management, computational media	354 kg	421	1887	1.1866	-832 kg
+5	1102 mph	1.3412	San Bernardino	San Bernardino	0.2718	1130	-1483	Applied Mathematics	633 kg	2303	1006	2.0899	1128 kg
+0	-880 mph	2.0942	Santa Clarita	Moreno Valley	0.0119	1470	1261	Human Computer Interaction	520 kg	489	-744	-0.0792	-481 kg
+0	1939 mph	0.7571	Irvine	Moreno Valley, Fresno	-0.5039	-597	None	Electrical Engineering, Biotechnology, Computer Game Design	-412 kg	890	-193	-0.2707	497 kg
+1	-76 mph	1.2451	Fremont	Long Beach, Riverside, Oakland	0.47	775	1337	Data Science, Computer Game Design	-384 kg	30	565	-0.4582	548 kg
+4	522 mph	-0.2381	Stockton	Los Angeles	1.5281	1645	-1196	Games and Playable Media	540 kg	-167	-360	-0.1907	292 kg
+4	2024 mph	0.0602	Fresno	Los Angeles	0.8689	953	1168	Robotics Engineering	-840 kg	-325	-955	0.4307	-417 kg
+5	2190 mph	1.3507	Moreno Valley	Santa Ana	n/a	1369	-597	Computational Media	-781 kg	-367	-820	-0.3441	573 kg
+1	923 mph	-0.1603	Santa Ana	Riverside	1.1577	334	1530	Data Science, Biotechnology, Computer Game Design	1109 kg	260		0.6294	928 kg
+2	-1230 mph	0.6018	San Diego	Santa Clarita, Santa Ana, Modesto, Sacramento	0.9708	225	9	Bioinformatics	-434 kg	-232	-1044	0.1667	-690 kg
+0	-1086 mph	0.9377	San Francisco	Los Angeles	1.6243	1382	821	Bioengineering	-1798 kg	387	-137	-0.7942	52 kg
+0	454 mph	1.8115	Chula Vista	Fresno	-1.315	-213	1173	Bioengineering, Natural Language Processing	-422 kg	1668	-726	-0.3907	1118 kg
+5	1477 mph	-0.7174	San Bernardino	Long Beach, Irvine, Oakland	-0.9297	-534	-963	Applied Mathematics, Computational Media	508 kg	1191	7	-0.198	441 kg
+4	526 mph	0.5795	Oakland	San Diego	0.56	2381	581	Robotics Engineering, Games and Playable Media	-541 kg	375	-589	0.6557	-103 kg
+5	1004 mph	0.7667	Modesto	San Francisco, Bakersfield	1.1532	1428	-147	Technology and Information Management	-731 kg	883	-845	-0.1016	28 kg
+1	363 mph	0.2333	Long Beach	Irvine, Long Beach, Riverside	1.516	962	-1533	Electrical Engineering	-722 kg	-161	321	1.1645	174 kg
+1	116 mph	0.0671	Bakersfield	Long Beach, Oakland, Irvine	-2.1373	1206	2186	Computer Game Design, Electrical Engineering	807 kg	279	-1858	1.1361	1638 kg
+2	851 mph	0.0511	San Diego	Modesto, Sacramento, Santa Ana, Stockton	-0.9505	538	-141	Computer Science	-97 kg	890	-987	0.8745	923 kg
+1	?	-1.3373	Fremont	Moreno Valley	-0.5625	285	341	Computer Game Design, Biotechnology	260 kg	1620	138	0.9055	362 kg
+1	721 mph	0.686	Bakersfield	Long Beach, Irvine	-0.3232	1234	64	Biotechnology, Electrical Engineering	1076 kg	-339	-939	0.3279	-58 kg
+1	742 mph	1.0157	Bakersfield	Irvine	1.2713	456	54	Data Science, Biotechnology	128 kg	-449	-429	1.3924	224 kg
+5	120 mph	-0.0265	Moreno Valley	San Francisco, San Jose	-0.8472	84	430	Applied Mathematics	-1560 kg	-441	-595	0.712	-538 kg
+2	-130 mph	1.7255	San Diego	Los Angeles	0.8573	-840	-808	Technology and Information Management	660 kg	8	-12	-0.2762	1084 kg
+1	606 mph	0.4797	Fremont	Oakland, Riverside, Irvine	0.6749	447	2148	Electrical Engineering, Biotechnology, Data Science	326 kg	68	791	-0.888	1409 kg
+4	608 mph	0.3172	Oakland	Los Angeles	-1.0179	1298	1986	Statistics	789 kg	-425	687	2.2646	-283 kg
+3	841 mph	1.4159	Riverside	Anaheim	-0.8646	737	767	Computer Engineering	583 kg	173	-1359	0.6229	657 kg
+0	1822 mph	0.1614	Chula Vista	Chula Vista	-0.6214	1366	-126	Computer Engineering	846 kg	1266	157	0.2214	506 kg
+5	498 mph	2.0027	Moreno Valley	San Jose, San Francisco, Bakersfield	0.967	-423	352	Technology and Information Management	-2271 kg	615	1691	0.6293	-731 kg
+1	None	-0.9061	Bakersfield	Oakland, Irvine	-0.8256	117	428	Electrical Engineering, Computer Game Design	875 kg	NULL	-148	1.3182	1128 kg
+2	630 mph	0.3969	San Diego	Modesto, Stockton, Sacramento, Santa Clarita	1.2083	2268	1431	Computer Science	427 kg	1090	-201	-0.0399	263 kg
+4	-747 mph	0.3951	Anaheim	Los Angeles	1.5829	1538	1743	Games and Playable Media	1004 kg	997	295	2.2316	1909 kg
+0	670 mph	-0.0972	Santa Clarita	Fresno, Chula Vista	0.3936	541	582	Human Computer Interaction	1531 kg	-94	-1905	-0.2588	140 kg
+4	-745 mph	-0.6569	Stockton	Los Angeles	1.1907	402	1498	Games and Playable Media, Robotics Engineering	696 kg	456	-1489	1.0297	933 kg
+2	377 mph	1.8103	San Diego	Stockton, Sacramento, Santa Clarita, Santa Ana	0.698	780	1431	Computer Science	-2374 kg	414	72	0.3864	851 kg
+1	796 mph	1.0164	Santa Ana	Oakland	-2.2964	1503	1907	Data Science, Biotechnology, Computer Game Design	1335 kg	-575	513	0.395	501 kg
+0	-892 mph	-1.8138	Sacramento	Anaheim	0.1621	964	187	Natural Language Processing	489 kg	521	700	-0.0662	-591 kg
+0	1370 mph	1.8103	Chula Vista	Chula Vista	-1.0544	151	471	Computer Science	228 kg	-399	-1346	0.748	1764 kg
+5	63 mph	0.7048	San Bernardino	San Francisco, San Bernardino, San Jose	0.9234	-136	364	Applied Mathematics, Computational Media	1539 kg	39	-242	0.7967	656 kg
+0	-218 mph	0.9259	San Francisco	Fresno	0.6464	-570	1013	Natural Language Processing, Human Computer Interaction	46 kg	-463	192	-0.5888	226 kg
+5	-143 mph	1.6215	San Bernardino	San Francisco, San Jose	1.047	1413	-2025	Computational Media, Applied Mathematics	-181 kg	-240	2632	1.6543	378 kg
+0	-365 mph	0.1512	Sacramento	Fresno, Chula Vista	-0.3666	1491	1259	Bioengineering	371 kg	-354	622	-0.2036	361 kg
+4	-1253 mph	-0.9299	Santa Clarita	Los Angeles	0.6302	-43	398	Statistics, Robotics Engineering	2714 kg	-173	470	1.4653	773 kg
+2	-1550 mph	1.7285	San Diego	Santa Clarita, Santa Ana	4.3711	-344	-3	COMPUTATIONAL MEDIA, TECHNOLOGY AND INFORMATION MANAGEMENT	393 kg	419	661	0.0648	1129 kg
+0	1062 mph	0.3338	Santa Clarita	San Diego	-0.0864	2121	-878	Bioinformatics	802 kg	1433	-21	0.0166	-1764 kg
+3	853 mph	2.336	San Jose	Fremont	1.1478	404	512	Computer Engineering	977 kg	-11	437	0.5044	2825 kg
+2	804 mph	-0.4066	SAN DIEGO	Modesto	0.9278	-359	-28	Computer Science	-929 kg	1111	1162	-1.2457	-428 kg
+3	704 mph	0.4612	Los Angeles	Anaheim	-0.9495	128	-511	Computer Engineering	1424 kg	493	1248	1.4178	664 kg
+0	1070 mph	0.1321	Irvine	Moreno Valley	0.7675	1755	925	Human Computer Interaction	-743 kg	-270	1736	0.1894	1311 kg
+4	-346 mph	1.8298	Oakland	Los Angeles	1.374	1819	1423	Statistics	889 kg	1455	660	2.0174	-587 kg
+3	-94 mph	-0.7025	Riverside	Anaheim	-0.64	-162	168	Computer Engineering	2112 kg	373	1247	-0.4955	-122 kg
+0	-70 mph	0.0064	San Francisco	Moreno Valley, Chula Vista	-0.4089	509	417	Natural Language Processing	-692 kg	375	1763	-0.3082	1094 kg
+1	805 mph	0.3957	Long Beach	Oakland, Irvine	-0.8681	357	972	Data Science, Electrical Engineering, Computer Game Design	1228 kg	1388	-2441	0.4435	527 kg
+3	315 mph	1.9417	San Jose	Anaheim	1.2486	1546	472	Computer Engineering	527 kg	-670	565	1.4196	1350 kg
+4	373 mph	0.7988	Oakland	los angeles	0.3981	1434	484	Robotics Engineering, Statistics	2044 kg	127	-774	None	1889 kg
+2	191 mph	0.7149	San Diego	Fremont	0.5482	-20	1290	Computer Science	-57 kg	225	826	-0.2822	1294 kg
+4	406 mph	1.0858	Fresno	Los Angeles	2.1228	890	1983	Statistics	1360 kg	125	-191	1.4343	941 kg
+1	-97 mph	1.4193	Fremont	Riverside, Oakland	0.7606	1659	2302	Electrical Engineering, Data Science	712 kg	-50	-1076	0.9405	-34 kg
+0	56 mph	-0.1445	Santa Clarita	Fresno, Moreno Valley	2.1997	83	-234	Human Computer Interaction	-882 kg	1348	-567	-0.2449	338 kg
+5	627 mph	0.9297	San Bernardino	San Francisco	0.7101	56	208	Applied Mathematics, Technology and Information Management	-1523 kg	410	216	0.1552	252 kg
+2	823 mph	0.8356	San Diego	Modesto, Santa Ana, Santa Clarita, Stockton	1.099	-36	1449	Bioinformatics	309 kg	1128	604	0.8401	-400 kg
+3	7 mph	1.0842	riverside	Anaheim	-0.9521	108	-497	Computer Engineering	-307 kg	675	828	1.2856	972 kg
+2	684 mph	0.0776	San Diego	Stockton, Santa Ana, Modesto	2.4863	201	2958	Computer Science	623 kg	304	?	-0.2562	-202 kg
+1	-634 mph	1.0493	Fremont	Oakland	0.9237	387	2270	Data Science, Computer Game Design, Biotechnology	920 kg	1001	-281	0.2045	830 kg
+1	-54 mph	0.5622	Bakersfield	Fremont	2.0997	239	1557	Biotechnology, Computer Game Design, Data Science	-923 kg	-963	260	-0.9502	-460 kg
+4	1116 mph	1.8965	Chula Vista	Fremont	1.7062	-1671	1717	Robotics Engineering	?	-830	-422	0.5593	-521 kg
+1	1693 mph	-1.6614	Fremont	Long Beach, Oakland	0.54	905	1686	Electrical Engineering, Biotechnology	1728 kg	1316	992	0.0916	-559 kg
+5	466 mph	-0.6762	San Bernardino	San Bernardino	1.1004	-828	-1463	Computational Media	524 kg	1460	1111	-0.0688	-7 kg
+4	1491 mph	1.1769	Anaheim	Los Angeles	0.6981	342	1177	Games and Playable Media, Statistics	n/a	644	237	1.1082	106 kg
+3	569 mph	0.1418	Riverside	Anaheim	1.9346	579	-568	Computer Engineering	-674 kg	1420	509	2.804	380 kg
+5	706 mph	-2.67	San Bernardino	San Bernardino, San Jose	-0.1242	1439	-116	APPLIED MATHEMATICS, COMPUTATIONAL MEDIA	-147 kg	-143	-945	-1.3272	737 kg
+2	642 mph	-0.2005	San Diego	Stockton	1.5818	322	?	Bioinformatics	-195 kg	515	621	1.208	2517 kg
+2	375 mph	2.1671	San Diego	Sacramento	-0.3764	2247	1401	Computer Science	-396 kg	-103	1662	0.489	542 kg
+0	-1246 mph	-1.6047	Irvine	Chula Vista	-2.0426	2001	631	Natural Language Processing	1074 kg	378	-748	0.8324	803 kg
+5	59 mph	-0.8283	Moreno Valley	San Bernardino	-0.3274	40	204	Applied Mathematics	-319 kg	116	-678	1.4221	533 kg
+2	1049 mph	0.1	San Diego	Sacramento, Santa Ana, Santa Clarita	1.7041	-1011	957	Computer Science	714 kg	-665	2390	-0.578	826 kg
+2	59 mph	0.6999	San Diego	Sacramento	1.271	943	105	Bioinformatics	-965 kg	23	-640	-0.1293	606 kg
+5	240 mph	1.0073	San Bernardino	San Francisco, San Bernardino, Bakersfield	0.1997	986	171	Computational Media, Applied Mathematics	301 kg	1594	654	0.9549	566 kg
+5	2316 mph	0.59	moreno valley	San Francisco, Bakersfield	0.9011	381	961	Applied Mathematics	-584 kg	539	305	1.437	-574 kg
+1	1945 mph	-0.7315	Santa Ana	Long Beach, Riverside	0.8456	447	-1226	Electrical Engineering	-166 kg	283	521	0.9805	1122 kg
+0	403 mph	1.4872	Irvine	Moreno Valley	1.2501	15	278	Natural Language Processing, Bioengineering	1180 kg	404	904	-0.5356	1040 kg
+4	-358 mph	-0.0811	Anaheim	San Diego	0.7928	492	676	Statistics, Robotics Engineering	225 kg	907	897	2.0305	-89 kg
+2	553 mph	0.9918	San Diego	Modesto	0.3719	271	488	Computer Science	-1541 kg	-177	2192	0.0951	644 kg
+1	331 mph	0.7644	Fremont	Fremont	0.1275	1720	?	Electrical Engineering, Biotechnology, Computer Game Design	-1317 kg	812	-512	0.038	255 kg
+4	212 mph	-0.1042	Stockton	Los Angeles	2.6512	831	1569	Robotics Engineering, Games and Playable Media	2398 kg	1264	485	1.8783	-225 kg
+0	-100 mph	0.3027	Irvine	Moreno Valley	-0.1562	-146	3441	Human Computer Interaction, Natural Language Processing	-560 kg	1023	378	-0.2043	790 kg
+5	1432 mph	0.6807	Moreno Valley	San Jose	1.4123	693	-252	Technology and Information Management	2442 kg	-1356	-954	0.5442	1050 kg
+3	273 mph	0.991	San Jose	Irvine, Long Beach, Riverside	1.3912	-1098	1489	Computer Engineering	708 kg	1570	379	1.0986	1180 kg
+3	2004 mph	2.3381	Los Angeles	Modesto, Santa Ana	0.1227	2328	1131	Computer Engineering	-921 kg	90	-698	1.526	119 kg
+5	-270 mph	0.5211	San Bernardino	San Jose	0.6284	267	-764	Computational Media	-150 kg	265	51	2.213	1264 kg
+2	527 mph	3.2287	San Diego	Santa Ana, Santa Clarita, Sacramento, Modesto	-2.0093	634	393	Bioinformatics	-951 kg	620	-226	0.4255	-397 kg
+1	119 mph	-0.6412	Long Beach	Oakland	0.7118	981	1636	Data Science, Electrical Engineering, Biotechnology	191 kg	1611	-1288	-0.9186	352 kg
+4	64 mph	0.1968	Fresno	San Diego	0.6678	1816	1591	Statistics	1046 kg	-489	-395	-0.5957	60 kg
+0	1420 mph	-1.2591	San Francisco	Fresno, Chula Vista	0.7513	2005	2021	Human Computer Interaction	761 kg	239	1908	-2.2322	361 kg
+3	-136 mph	1.659	Los Angeles	Fremont	-0.2968	598	1484	Computer Engineering	1704 kg	-432	1365	-0.6993	1073 kg
+4	-645 mph	0.2166	Stockton	San Diego	0.2016	1607	-605	Games and Playable Media, Robotics Engineering	1974 kg	-640	-748	0.7844	715 kg
+1	1594 mph	-0.3289	Long Beach	Long Beach, Irvine, Riverside	1.5015	1596	1558	Biotechnology, Computer Game Design	753 kg	-571	-207	-0.9892	1441 kg
+5	757 mph	1.6649	San Bernardino	Los Angeles	-1.1042	-1015	1084	Computational Media, Applied Mathematics	-597 kg	829	952	1.5898	541 kg
+0	136 mph	-1.5299	Sacramento	Moreno Valley, Fresno	0.4043	-168	897	Natural Language Processing	1343 kg	1923	-1784	0.7155	41 kg
+1	-634 mph	-0.1449	Long Beach	Riverside, Oakland	0.5436	1000	1981	Data Science, Computer Game Design, Electrical Engineering	-487 kg	-232	2302	-0.5624	1630 kg
+4	704 mph	-0.829	Oakland	Los Angeles	1.2872	1591	515	Robotics Engineering	1264 kg	1044	-514	0.7331	-323 kg
+5	829 mph	1.5604	Modesto	San Jose, San Francisco, Bakersfield	1.3779	2093	717	Applied Mathematics, Technology and Information Management	352 kg	482	785	1.8367	-674 kg
+1	1394 mph	-0.0866	Fremont	Fresno	-0.4767	2169	640	Biotechnology, Computer Game Design, Data Science	54 kg	-237	793		143 kg
+2	147 mph	-0.2696	San Diego	Sacramento	0.4391	91	None	Electrical Engineering, Biotechnology, Data Science	851 kg	262	52	1.4729	2122 kg
+5	-337 mph	1.9904	Modesto	sAN fRANCISCO, bAKERSFIELD, sAN jOSE	0.878	-473	-291	Computational Media, Technology and Information Management	133 kg	388	-1469	-0.3465	1824 kg
+1	749 mph	0.414	Fremont	Oakland, Riverside	-0.6925	1810	1610	Biotechnology	-182 kg	97	210	0.2027	1496 kg
+3	23 mph	1.1137	Los Angeles	Anaheim	-1.4461	1596	729	Computer Engineering	None	201	-455	1.8749	-1135 kg
+3	922 mph	-0.3673	Los Angeles	Anaheim	-0.24	-395	-1210	Computer Engineering	740 kg	794	-383	0.6285	836 kg
+2	442 mph	1.1079	San Diego	Santa Clarita, Sacramento	0.7736	-902	711	BIOINFORMATICS	68 kg	-674	450	0.5607	1314 kg
+3	-253 mph	0.2113	Riverside	Anaheim	0.5475	950	786	Computer Engineering	889 kg	-55	-779	1.7222	-814 kg
+4	1959 mph	0.336	Fresno	San Diego	0.918	1061	853	STATISTICS, ROBOTICS ENGINEERING	-425 kg	1523	247	0.6442	-1295 kg
+0	1460 mph	0.6047	Irvine	Moreno Valley	-0.1752	1351	1527	Bioengineering, Natural Language Processing	-369 kg	1243	-563	-0.3653	1281 kg
+3	-493 mph	2.6023	San Jose	Anaheim	-0.1594	157	428	Computer Engineering	564 kg	-612	494	0.1152	870 kg
+0	550 mph	-0.6093	Santa Clarita	Fresno	-0.3292	978	744	Natural Language Processing	345 kg	339	-311	-0.3677	448 kg
+0	1661 mph	2.1304	San Francisco	Moreno Valley	0.3534	859	2287	Natural Language Processing, Human Computer Interaction	-4 kg	61	20	1.1906	1581 kg
+3	586 mph	1.6544	Riverside	Fremont	-1.0258	-575	589	Computer Engineering	-380 kg	486	713	1.7489	-652 kg
+1	613 mph	0.7299	Bakersfield	Riverside, Irvine	-0.0584	246	1127	Electrical Engineering	1868 kg	843	1355	-0.7039	2184 kg
+1	199 mph	1.163	Fremont	Irvine, Long Beach, Riverside	1.2805	-114	2270	Electrical Engineering, Computer Game Design	288 kg	1360	864	-1.0682	1271 kg
+4	-1717 mph	0.3592	Fresno	San Diego	1.4802	448	2569	Statistics, Robotics Engineering	2296 kg	1353	478	0.9742	622 kg
+3	-984 mph	NULL	San Jose	aNAHEIM	0.4475	796	438	Computer Game Design, Electrical Engineering	391 kg	-310	-527	0.9044	42 kg
+4	649 mph	2.0661	Anaheim	Los Angeles	1.5137	-142	1280	Statistics, Games and Playable Media	549 kg	-204	-371	1.4198	1064 kg
+1	-428 mph	-0.6976	Santa Ana	Riverside	-1.3782	-130	-80	Electrical Engineering, Data Science, Computer Game Design	1122 kg	-64	112	-0.1429	328 kg
+5	870 mph	1.5704	Moreno Valley	San Francisco, Bakersfield, San Bernardino	0.1971	-215	-1042	Technology and Information Management, Computational Media	-111 kg	678	-2533	0.9119	16 kg
+0	1306 mph	-0.2446	San Francisco	Moreno Valley	0.0761	644	1573	Natural Language Processing	-2 kg	938	771	-2.225	1690 kg
+0	242 mph	0.5066	Irvine	Anaheim	0.0657	966	2157	Human Computer Interaction	-521 kg	691	725	-1.1778	1161 kg
+5	-580 mph	0.9891	San Bernardino	San Jose	2.1441	-1035	1021	Technology and Information Management	216 kg	-420	-624	0.4155	-502 kg
+5	-181 mph	-0.6072	Moreno Valley	San Francisco	2.935	847	2125	Computational Media	406 kg	995	-500	1.849	842 kg
+2	-731 mph	1.1061	San Diego	Anaheim	1.3995	447	395	Bioinformatics	-471 kg	47	1234	0.1495	1484 kg
+4	352 mph	0.5365	Fresno	LOS ANGELES	1.4371	1829	1109	Robotics Engineering	1728 kg	341	1028	1.9351	None
+4	805 mph	1.1807	Oakland	Los Angeles	2.3358	1916	1248	Statistics, Games and Playable Media	1194 kg	550	329	2.1723	1239 kg
+1	693 mph	0.0283	San Diego	Irvine, Long Beach	1.6839	-517	1315	Computer Science	-201 kg	-1371	-1226	0.7091	236 kg
+2	496 mph	1.3714	San Diego	San Jose, Bakersfield	0.8315	-318	403	Bioinformatics	-464 kg	-112	275	-0.9135	1911 kg
+4	-399 mph	-0.7051	Riverside	Los Angeles	2.6207	-825	3640	Statistics, Games and Playable Media	1397 kg	385	188	-0.0064	1529 kg
+4	1334 mph	-0.9598	Oakland	Los Angeles	-0.0554	1304	958	Statistics	266 kg	1186	n/a	1.7293	2020 kg
+0	873 mph		San Francisco	Anaheim	-0.4124	506	314	Natural Language Processing, Bioengineering	-1280 kg	330	1506	0.304	268 kg
+0	73 mph	0.8658	San Francisco	Chula Vista, Fresno	1.2112	719	760	natural language processing, bioengineering	2462 kg	-195	-1037	-0.3405	2711 kg
+0	-50 mph	1.9348	Santa Clarita	Chula Vista	-0.3594	1322	1951	Human Computer Interaction, Bioengineering	669 kg	1396	-751	-0.4715	-413 kg
+5	196 mph	-0.0006	Modesto	sAN bERNARDINO, sAN jOSE, sAN fRANCISCO	0.1582	-205	147	Applied Mathematics, Computational Media	923 kg	263	-797	0.9885	282 kg
+3	1683 mph	0.736	RIVERSIDE	Fremont	0.4147	1561	801	Computer Engineering	604 kg	166	-371	1.3588	-767 kg
+3	625 mph	0.5883	Riverside	anaheim	1.3377	-172	921	Computer Engineering	214 kg	-327	1100	2.7141	1027 kg
+3	579 mph	-0.0529	San Jose	Fremont	0.3911	-589	1012	Computer Engineering	192 kg	1632	-1089	-0.0374	278 kg
+4	131 mph	0.8304	Anaheim	San Jose, Bakersfield	n/a	1077		N/A	1432 kg	-97	456	0.4445	34 kg
+1	1315 mph	2.1044	Long Beach	Long Beach, Irvine, Riverside	0.7525	22	-2173	Statistics, Games and Playable Media	-2461 kg	588	-1579	-0.1857	-245 kg
+4	590 mph	1.1384	Stockton	Los Angeles	0.0826	655	1104	Statistics, Robotics Engineering	910 kg	552	-213	0.8726	544 kg
+2	-539 mph	2.1734	San Diego	Modesto, Santa Clarita, Santa Ana	-0.4038	946	971	Bioinformatics	-1049 kg	-70	1357	0.3996	-74 kg
+1	-1262 mph	1.852	Bakersfield	Fremont	3.0764	1781	117	Biotechnology, Electrical Engineering	10 kg	600	602	0.3902	945 kg
+1	380 mph	0.4301	Fremont	Oakland	-0.8328	582	168	Biotechnology	1335 kg	37	1431	-0.9743	1228 kg
+3	906 mph	2.5742	San Jose	Anaheim	0.7233	292	719	Computer Engineering	845 kg	33	360	0.3411	463 kg
+1	670 mph	1.9886	Santa Ana	Riverside, Long Beach, Oakland	-1.6327	591	-248	Computer Game Design	-666 kg	-329	-229	-0.1946	578 kg
+5	-944 mph	0.348	San Bernardino	San Jose	1.2212	-5	-1699	Technology and Information Management, Applied Mathematics	1783 kg	322	766	0.2219	211 kg
+3	-168 mph	1.5082	San Jose	Anaheim	-0.086	-360	-641	Natural Language Processing, Human Computer Interaction	-615 kg	1240	-525	1.688	1549 kg
+3	926 mph	1.2363	Los Angeles	Fremont	2.1656	-1212	-889	Computer Engineering	805 kg	-270	252	0.5833	18 kg
+3	189 mph	0.7461	San Jose	Fremont	-0.1782	746	120	Computer Engineering	1115 kg	364	-833	2.3558	1481 kg
+4	310 mph	1.1002	Fresno	SACRAMENTO, SANTA CLARITA, SANTA ANA, STOCKTON	3.1481	630	-723	Robotics Engineering	128 kg	612	-882	0.9385	918 kg
+3	1153 mph	0.9043	San Jose	Fremont	-0.7758	320	-778	Computer Engineering	-911 kg	-269	1950	0.8251	176 kg
+0	385 mph	-1.23	Chula Vista	Moreno Valley, Chula Vista	1.6897	1342	-763	Natural Language Processing	-2219 kg	1438	608	0.873	-183 kg
+3	536 mph	0.848	San Jose	Fremont	-1.0234	1035	-22	Computer Engineering	96 kg	-345	-378	0.7736	884 kg
+2	404 mph	0.6494	San Diego	Los Angeles	0.9752	1991	214	Computer Science	70 kg	-394	1185	0.8892	1619 kg
+0	1750 mph	1.8687	Santa Clarita	Moreno Valley, Chula Vista	0.2381	759	-491	Bioengineering	-568 kg	76	283	-1.7046	35 kg
+3	21 mph	-0.6893	San Jose	Anaheim	-0.702	791	n/a	Computer Engineering	-875 kg	536	1785	0.5705	379 kg
+2	798 mph	1.3595	San Diego	Stockton	1.1326	305	370	Computer Science	-235 kg	-967	562	-1.4127	1190 kg
+0	395 mph	1.6649	Sacramento	Fresno	-3.4549	-101	602	Natural Language Processing, Human Computer Interaction	-728 kg	596	-167	-0.7224	-86 kg
+0	564 mph	0.6814	Sacramento	Moreno Valley	1.7675	454	1024	Bioengineering	-1315 kg	1360	-643	-0.7952	-452 kg
+4	421 mph	2.0488	Anaheim	San Diego	-0.1257	921	815	Robotics Engineering, Games and Playable Media	916 kg	582	-1100	1.4723	-133 kg
+0	540 mph	-0.2687	Chula Vista	Fresno	1.982	1946	2806	bioengineering, natural language processing	-867 kg	684	765	1.0042	1466 kg
+5	614 mph	1.6603	San Bernardino	Bakersfield, San Bernardino, San Francisco	0.248	-631	-143	Applied Mathematics	236 kg	996	374	1.9951	818 kg
+4	-475 mph	1.3156	Anaheim	Los Angeles	1.6983	-25	2258	Statistics	777 kg	450	-206	-1.2424	382 kg
+0	416 mph	1.2752	Chula Vista	Chula Vista, Moreno Valley	1.2566	1231	2541	Computer Game Design, Electrical Engineering	-528 kg	-260	1501	1.5027	-706 kg
+4	-356 mph	-0.2045	Stockton	Los Angeles	0.7899	-474	1459	Robotics Engineering, Statistics	1277 kg	1643	-1155	0.3752	689 kg
+1	500 mph	0.222	Santa Ana	Oakland, Irvine, Riverside	1.0813	-293	1290	Electrical Engineering, Data Science, Computer Game Design	-374 kg	559	1036	0.1754	1522 kg
+4	107 mph	-1.7049	Fresno	San Francisco	0.5058	2351	703	Applied Mathematics, Computational Media	1561 kg	205	703	1.7475	389 kg
+5	-1300 mph	1.2283	San Bernardino	Bakersfield	2.4788	-1025	-1006	Applied Mathematics, Computational Media	-470 kg	922	723	0.7375	231 kg
+3	468 mph	-0.4275	Los Angeles	Anaheim	0.7527	1283	-1958	Computer Engineering	357 kg	1284	2157	0.496	1559 kg
+4	1668 mph	1.4395	Fresno	San Diego	1.3011	744	932	Games and Playable Media, Robotics Engineering	1006 kg	133	-1272	2.0464	88 kg
+1	98 mph	0.1185	Santa Ana	Long Beach, Riverside, Oakland	0.3203	849	-121	Biotechnology, Computer Game Design, Electrical Engineering	-709 kg	1250	512	0.0386	-396 kg
+4	1295 mph	0.0748	Stockton	sAN dIEGO	0.2327	-45	-74	Games and Playable Media	432 kg	1204	-1025	-0.0723	-347 kg
+0	-22 mph	1.5674	Sacramento	Fresno	1.3009	743	-427	Bioengineering	-848 kg	1099	313	0.7598	272 kg
+0	1130 mph	1.3873	San Francisco	Fresno, Moreno Valley	0.5131	629	2789	bioengineering	665 kg	487	856	0.6557	154 kg
+4	-618 mph	0.3652	Anaheim	Los Angeles	-0.0074	-967	1925	Robotics Engineering, Games and Playable Media	-30 kg	1251	-1615	0.6653	782 kg
+1	-272 mph	1.0621	Fremont	Irvine, Oakland, Riverside	0.9185	1198	231	Biotechnology	-1381 kg	832	276	0.0198	1105 kg
+4	642 mph	-0.1811	Fresno	San Diego	0.543	-128	2516	Statistics, Robotics Engineering	1174 kg	1762	573	-0.3358	1127 kg
+1	1212 mph	0.8662	Fremont	Oakland	-0.3685	745	223	Data Science	-302 kg	752	-227	-0.1963	-184 kg
+5	492 mph	0.1566	Moreno Valley	San Francisco, San Jose	-1.0187	-381	784	Technology and Information Management, Applied Mathematics	-1455 kg	1389	-209	1.1288	721 kg
+4	1576 mph	0.6417	Anaheim	San Diego	-0.1971	1179	1738	Technology and Information Management	2555 kg	742	2744	-0.3493	1198 kg
+1	-8 mph	0.4808	Bakersfield	Long Beach, Riverside, Irvine	-0.3618	707	-753	Computer Science	312 kg	1089	-5	0.3048	1947 kg
+3	1987 mph	1.1208	San Jose	Anaheim	0.1692	-477	711	Computer Engineering	-132 kg	-477	685	0.727	957 kg
+2	1532 mph	1.9856	San Diego	Stockton, Sacramento, Santa Clarita, Modesto	1.5319	-547	1292	Computer Engineering	-802 kg	294	-347	-1.4163	815 kg
+0	115 mph	-0.2185	San Francisco	Fresno, Chula Vista	-0.2128	1490	-123	Bioengineering	-788 kg	404	692	-1.441	2617 kg
+2	631 mph	0.5408	San Diego	Sacramento, Modesto, Santa Clarita	1.6889	1401	21	Computer Science	-331 kg	199	540	0.6042	2295 kg
+5	1542 mph	0.4342	Modesto	San Bernardino	1.2253	385	-148	Computational Media, Applied Mathematics	1427 kg	862	172	0.9595	749 kg
+1	355 mph	-0.0599	Bakersfield	Modesto, Santa Ana, Santa Clarita	-2.2138	143	-813	Data Science, Biotechnology	841 kg	1272	-972	1.5234	-207 kg
+5	471 mph	1.6055	San Bernardino	sAN fRANCISCO, sAN jOSE, sAN bERNARDINO	0.8862	-762	1360	Applied Mathematics, Computational Media	52 kg	1457	-1305	0.9229	712 kg
+4	252 mph	0.88	Fresno	San Diego	0.6978	1946	1004	Robotics Engineering	771 kg	1665	-423	0.2126	2148 kg
+5	284 mph	N/A	San Bernardino	San Jose, San Bernardino	-0.6257	-126	1085	Computational Media, Technology and Information Management	1152 kg	91	1742	2.3411	1283 kg
+1	539 mph	1.3631	Long Beach	Riverside	-0.5569	-438	2423	Computer Game Design	809 kg	27	1092	0.1809	-73 kg
+2	145 mph	2.8406	San Diego	Stockton, Santa Ana, Sacramento	-0.6312	342	-294	Computer Science	401 kg	648	-1014	-0.5346	1384 kg
+2	966 mph	0.3256	San Diego	Santa Clarita, Santa Ana, Modesto	-0.4879	217	2259	Biotechnology, Electrical Engineering, Computer Game Design	482 kg	278	349	0.7842	1414 kg
+5	301 mph	-0.4765	San Bernardino	San Jose, San Bernardino, San Francisco	-0.0595	1592	108	Computational Media	-692 kg	272	-251	1.4764	54 kg
+0	685 mph	0.7862	Sacramento	Chula Vista	-1.0824	1288	-1087	Natural Language Processing	1054 kg	630	-1251	1.9995	1504 kg
+3	812 mph	0.9392	Riverside	Moreno Valley	-0.2217	331	717	Computer Engineering	595 kg	1222		2.0475	547 kg
+3	-344 mph	-1.4306	Los Angeles	Fremont	-0.4488	-846	552	Computer Engineering	366 kg	705	-1541	0.3754	702 kg
+1	-519 mph	-0.3179	Bakersfield	Oakland, Irvine	-1.3879	3854	1095	Computer Game Design, Electrical Engineering	2226 kg	343	1034	1.1662	978 kg
+3	-212 mph	1.386	San Jose	Fremont	-0.5014	-15	387	Computer Engineering	-1316 kg	754	-568	-0.0863	848 kg
+3	-403 mph	1.6144	Los Angeles	Anaheim	0.9067	1632		Computer Engineering	-182 kg	-1069	1320	2.2962	1913 kg
+5	130 mph	0.1172	Moreno Valley	San Jose, San Bernardino, Bakersfield	-0.7975	-481	-180	Applied Mathematics	47 kg	1148	565	0.4534	-1422 kg
+1	622 mph	1.092	Fremont	Riverside, Oakland, Irvine	-1.3506	60	404	Data Science	-148 kg	411	645	0.2553	1911 kg
+4	1140 mph	0.4153	Stockton	Los Angeles	0.7964	1845	-781	Games and Playable Media	1863 kg	674	-1295	2.6168	316 kg
+5	308 mph	2.2956	Modesto	Bakersfield, San Jose	0.5054	831	375	Technology and Information Management	-16 kg	450	-547	1.2494	-581 kg
+0	1089 mph	-0.1872	San Francisco	Moreno Valley, Fresno	-0.8769	-261	-648	Human Computer Interaction, Bioengineering	-437 kg	-227	-1245	0.9397	685 kg
+2	1369 mph	1.7049	San Diego	Santa Ana, Stockton	2.465	802	2267	Computer Science	-619 kg	145	649	-0.0111	-67 kg
+3	1017 mph	-0.0845	san jose	Anaheim	-0.5945	148	-669	Computer Engineering	-1386 kg	-222	1565	-0.3149	1259 kg
+4	-1136 mph	NULL	Oakland	Irvine, Long Beach, Riverside	1.2027	1009	1280	Statistics	1341 kg	604	70	1.9968	302 kg
+2	n/a	-0.2957	San Diego	Santa Ana, Sacramento, Santa Clarita, Stockton	-0.4456	-116	205	Bioinformatics	214 kg	-422	2128	0.3643	-430 kg
+3	-753 mph	-0.4218	San Jose	Fremont	0.5284	-49	153	Computer Engineering	340 kg	129	-1152	0.2054	-492 kg
+3	999 mph	0.2834	Los Angeles	Anaheim	0.8508	857	1500	Computer Engineering	265 kg	55	-287	-1.6034	727 kg
+5	1283 mph	2.5163	San Bernardino	Irvine	2.259	396	-452	Applied Mathematics	337 kg	1150	680	-0.9735	67 kg
+4	95 mph	0.6171	Fresno	Los Angeles	0.1487	812	3591	Games and Playable Media	4042 kg	151	401	1.1214	-51 kg
+1	200 mph	-0.3594	Fremont	Long Beach	-0.2673	94	2188	Data Science	81 kg	-729	-693	-0.3894	2544 kg
+5	-160 mph	1.567	Moreno Valley	San Francisco	0.6844	957	102	Applied Mathematics, Computational Media	-351 kg	1012	-465	0.4155	542 kg
+0	524 mph	1.7163	San Francisco	Chula Vista, Fresno	0.1999	-81	890	Natural Language Processing, Bioengineering	1834 kg	388	1783	0.0993	1035 kg
+2	1214 mph	0.2876	San Diego	Santa Ana, Sacramento	-0.7372	334	-1649	Computer Science	-1218 kg	900	984	0.2202	663 kg
+4	373 mph	-1.1147	Stockton	San Diego	-0.021	-530	1358	Games and Playable Media	1343 kg	-196	-647	-0.2679	-604 kg
+0	-917 mph	-0.6494	Irvine	Chula Vista, Moreno Valley	-1.0411	-28	308	Human Computer Interaction	204 kg	-448	-478	0.2939	751 kg
+5	1386 mph	0.0473	Moreno Valley	Bakersfield, San Bernardino, San Francisco	0.8238	-433	-560	Computational Media, Technology and Information Management	154 kg	509	1342	1.0279	1993 kg
+1	309 mph	0.4954	Fremont	Oakland, Riverside	-0.6644	-138	1493	Data Science, Biotechnology, Computer Game Design	-925 kg	206	-1329	-0.9029	839 kg
+1	383 mph	-0.719	Bakersfield	Modesto, Stockton	-2.0904	2071	-160	Electrical Engineering, Computer Game Design	95 kg	358	-1523	-0.9598	1096 kg
+4	-336 mph	0.4724	Anaheim	San Diego	1.9956	1024	2166	Games and Playable Media, Statistics	-145 kg	530	1361	0.0887	861 kg
+2	164 mph	1.3135	San Diego	Santa Clarita, Stockton	0.241	723	376	Bioinformatics	1278 kg	NULL	1415	1.2479	-253 kg
+4	360 mph	1.8702	Oakland	San Diego	2.1491	1902	934	Statistics, Games and Playable Media	2148 kg	1216	461	2.0409	1175 kg
+2	-408 mph	0.9648	Fremont	San Diego	0.9593	507	-744	Bioinformatics	-657 kg	709	335	0.0678	1900 kg
+3	461 mph	2.724	Los Angeles	Fremont	1.3777	881	794	Computer Engineering	-738 kg	1106	-1114	0.7821	-710 kg
+0	618 mph	-1.3815	San Francisco	Fresno, Moreno Valley	0.3013	255	-169	Human Computer Interaction, Bioengineering	-421 kg	1370	1729	1.6354	215 kg
+1	1297 mph	0.0955	Long Beach	Long Beach, Irvine	-0.7737	1167	907	Data Science	-51 kg	572	-814	-2.1671	-151 kg
+0	424 mph	0.4385	Chula Vista	Bakersfield, San Bernardino	0.3869	356	1796	Bioengineering, Human Computer Interaction	-1329 kg	1805	-1311	-1.5539	89 kg
+4	-78 mph	0.1689	sTOCKTON	Los Angeles	2.8175	1260	-2552	Games and Playable Media	28 kg	40	-67	0.7473	1457 kg
+4	266 mph	1.9456	Fresno	Stockton, Sacramento, Santa Clarita	1.275	-331	443	statistics, robotics engineering	1153 kg	713	-504	1.1035	N/A
+5	2011 mph	0.0319	Moreno Valley	San Francisco, San Bernardino	0.3004	-141	523	Computational Media, Applied Mathematics	779 kg	1119	-327	0.8613	60 kg
+0	419 mph	0.9168	San Francisco	Chula Vista	-1.2084	2875	-8	Bioengineering, Natural Language Processing	686 kg	1256	-125	1.9387	153 kg
+1	-304 mph	0.9842	Long Beach	Irvine, Long Beach, Oakland	0.8352	1310	1076	Electrical Engineering	N/A	-192	-46	-0.7516	271 kg
+2	-68 mph	1.9909	San Diego	Stockton, Sacramento, Santa Clarita	1.8397	369	488	bIOINFORMATICS	-49 kg	923	753	-0.884	463 kg
+3	1235 mph	0.4242	Los Angeles	Fremont	-0.6904	1056	1625	computational media, technology and information management	814 kg	633	-497	-0.5711	645 kg
+2	-650 mph	2.2609	San Diego	Santa Ana	2.2946	-754	1140	Bioinformatics	-238 kg	1054	1321	1.7675	1341 kg
+1	-123 mph	0.759	Fremont	lONG bEACH, rIVERSIDE	0.464	690	681	Computer Game Design, Electrical Engineering, Data Science	-224 kg	1313	1571	-0.9262	N/A
+2	213 mph	1.4731	San Diego	Santa Clarita, Stockton, Sacramento	0.6566	352	1115	Computer Science	NULL	271	96	0.3348	61 kg
+0	-282 mph	0.2167	Sacramento	Fresno	1.0082	865	1813	Bioengineering	660 kg	1278	-2390	0.4674	483 kg
+5	1604 mph	-0.2698	Modesto	San Jose	0.8933	-510	-351	Computational Media	127 kg	-297	-147	-0.2929	593 kg
+3	-151 mph	0.5163	San Jose	Chula Vista	-2.9158	788	-1058	Computer Engineering	327 kg	2300	-52	0.4477	870 kg
+0	-290 mph	1.8528	Sacramento	Chula Vista	-1.7011	585	-1061	NULL	691 kg	1195	1066	-0.1523	762 kg
+2	1529 mph	-0.0487	San Diego	Stockton, Santa Ana	0.8802	1045	341	n/a	-421 kg	-367	542	0.2598	827 kg
+2	1149 mph	-0.0922	San Diego	Santa Clarita, Sacramento, Modesto	1.941	-766	2176	Computer Science	219 kg	866	1475	1.1369	458 kg
+2	-1089 mph	0.7097	San Diego	Sacramento	1.2005	503	35	Bioinformatics	-765 kg	140	434	1.5766	408 kg
+2	330 mph	1.8248	San Diego	Santa Clarita, Stockton, Santa Ana	0.9448	289	n/a	Bioinformatics	-200 kg	867	93	1.9034	951 kg
+0		-0.0282	San Francisco	Chula Vista, Moreno Valley	-0.1436	1935	1821	Natural Language Processing, Human Computer Interaction	-352 kg	887	374	-1.5109	667 kg
+5	302 mph	-0.194	Modesto	Bakersfield	0.8536	-781	-1248	Technology and Information Management, Applied Mathematics	1145 kg	982	233	0.2777	-589 kg
+0	113 mph	-0.5173	San Francisco	Moreno Valley	-1.4318	1882	271	Natural Language Processing	923 kg	-95	177	0.2204	755 kg
+0	-1804 mph	-0.267	Santa Clarita	Chula Vista, Fresno	0.5402	2060	56	Natural Language Processing, Bioengineering	-272 kg	1418	2	-0.0133	594 kg
+4	180 mph	-0.7079	Stockton	San Diego	0.8487	2235	1447	Statistics	1336 kg	557	1175	1.1688	246 kg
+2	117 mph	0.5958	San Diego	Modesto, Sacramento, Stockton	-0.3902	874	1211	Bioinformatics	1289 kg	114	1041	0.5707	883 kg
+1	575 mph	1.793	Santa Ana	Oakland, Irvine, Long Beach	0.7536	597	-428	Computer Science	430 kg	299	-695	0.118	82 kg
+5	721 mph	0.4278	San Bernardino	Bakersfield, San Francisco	0.7702	427	-749	Applied Mathematics	46 kg	936	274	-0.1776	84 kg
+0	-1152 mph	0.5205	Sacramento	Modesto, Santa Ana, Stockton, Santa Clarita	-0.6097	48	573	Games and Playable Media	-814 kg	686	3233	-1.8339	-181 kg
+3	2483 mph	0.3753	Los Angeles	Fremont	-0.6756	218	634	Computer Engineering	631 kg	-28	516	1.0422	-392 kg
+5	309 mph	0.5937	Modesto	San Francisco, San Jose, Bakersfield	-0.0802	640	599	Applied Mathematics	153 kg	801	-263	1.1172	546 kg
+2	-524 mph	2.5423	San Diego	Sacramento, Stockton, Santa Ana, Santa Clarita	-1.182	324	1109	Bioinformatics	241 kg	-445	693	-0.9402	757 kg
+2	-205 mph	1.8671	San Diego	Santa Ana, Sacramento, Santa Clarita, Stockton	1.2344	-459	162	Applied Mathematics, Computational Media	-1500 kg	-92	246	0.0834	779 kg
+3	767 mph	0.6912	Los Angeles	Anaheim	-1.1472	-1105	-1149	Computer Engineering	232 kg	-366	149	0.2166	954 kg
+5	329 mph	0.0926	Moreno Valley	San Francisco, San Jose, San Bernardino	1.5093	1159	-960	Applied Mathematics	-828 kg	2596	1220	1.019	-222 kg
+2	292 mph	1.1724	Chula Vista	San Jose, San Francisco, San Bernardino	0.3271	-287	2434	Bioinformatics	267 kg	-417	-201	0.6903	1460 kg
+3	-1183 mph	1.6205	Riverside	Fremont	-0.0184	1905	799	Computer Engineering	-307 kg	444	285	3.3443	1621 kg
+1	1826 mph	-0.1471	Fremont	Oakland	0.9055	1039	3259	Biotechnology, Data Science, Computer Game Design	-1023 kg	-114	-49	0.4881	-787 kg
+0	1926 mph	-1.3463	San Francisco	Chula Vista, Fresno	-1.409	1584	1273	Bioengineering	729 kg	451	-520	1.1251	786 kg
+2	526 mph	2.043	San Diego	Chula Vista	0.903	-861	443	Computer Science	-498 kg	782	625	1.3957	-335 kg
+5	305 mph	1.9375	Santa Clarita	Los Angeles	1.2646	449	773	Technology and Information Management, Computational Media	750 kg	-285	836	3.1736	799 kg
+1	758 mph	-0.6355	Long Beach	Long Beach, Irvine, Riverside	0.0035	1038	-523	Data Science, Electrical Engineering, Biotechnology	-1075 kg	17	74	0.8806	-1168 kg
+3	1594 mph	0.2692	Riverside	Fremont	0.0974	-1688	-1075	Computer Engineering	1002 kg	872	2004	0.8964	487 kg
+5	1645 mph	None	San Bernardino	San Bernardino, San Jose, Bakersfield	0.3529	-530	812	Technology and Information Management	-42 kg	1198	-649	2.1875	1298 kg
+3	-480 mph	1.6709	Los Angeles	Santa Ana, Stockton, Sacramento, Santa Clarita	-0.0256	-954	-524	Computer Engineering	-804 kg	245	151	0.4049	222 kg
+0	1059 mph	-0.6934	Irvine	Chula Vista	1.278	534	821	Natural Language Processing, Human Computer Interaction	1132 kg		1027	1.4892	34 kg
+0	439 mph	-1.2964	Santa Clarita	Chula Vista	-1.3602	659	408	Natural Language Processing	-820 kg	310	-845	-0.9071	-781 kg
+5	1771 mph	0.073	MORENO VALLEY	San Jose, Bakersfield	0.3603	-75	-2046	Applied Mathematics	727 kg	891	933	1.4972	-1068 kg
+2	77 mph	-0.0415	San Diego	Sacramento	1.3321	976	1696	Computer Science	-1293 kg	-283	461	1.5607	-1923 kg
+1	-683 mph	0.8958	Santa Ana	Oakland, Long Beach	-0.417	617	1390	Computer Game Design, Electrical Engineering	-669 kg	1080	2010	0.4112	835 kg
+1	-118 mph	1.2586	Long Beach	Riverside	-1.8749	481	-1383	Computer Game Design, Biotechnology	-492 kg	1006	685	-1.9494	588 kg
+5	1323 mph	-0.0987	San Bernardino	San Bernardino, San Francisco, Bakersfield	0.8581	1358	607	Computational Media	-542 kg	-298	354	-0.4169	861 kg
+2	698 mph	-0.5632	San Diego	Santa Clarita, Sacramento, Stockton, Modesto	1.3501	299	2679	Computer Science	100 kg	124	441	1.7049	-255 kg
+4	-283 mph	0.4919	Stockton	Los Angeles	-0.822	-492	680	Games and Playable Media, Statistics	552 kg	1544	-294	1.0561	107 kg
+5	380 mph	1.3666	Moreno Valley	Bakersfield	0.0658	-634	-922	Computational Media, Technology and Information Management	471 kg	111	908	2.1488	-295 kg
+2	1169 mph	0.0323	San Diego	Santa Ana, Modesto	0.4193	336	1139	bioinformatics	-427 kg	711	-619	-0.3027	1237 kg
+3	1025 mph	1.496	Los Angeles	Fremont	2.4769	2034	240	Computer Engineering	866 kg	172	-221	1.1015	-392 kg
+2	2352 mph	0.0096	San Diego	Santa Clarita, Modesto, Santa Ana, Stockton	0.4084	2030	2651	Computer Science	428 kg	714	392	1.181	270 kg
+1	-116 mph	0.5931	Long Beach	Stockton	0.3039	-522	513	Computer Science	102 kg	-527	-788	-0.5114	819 kg
+4	602 mph	-0.2309	Fresno	San Diego	3.5338	986	760	Statistics	1976 kg	467	587	1.8177	-416 kg
+1	744 mph	0.7718	Santa Ana	Oakland	0.4154	1665	1230	Electrical Engineering, Data Science	1561 kg	10	951	-0.0713	477 kg
+2	430 mph	1.6731	San Diego	Stockton, Santa Ana, Santa Clarita, Modesto	1.9377	-645	-808	bioinformatics	-1484 kg	-180	1005	0.6966	1024 kg
+2	1016 mph	-0.4486	San Diego	Santa Ana	0.5556	967	-165	Bioinformatics	29 kg	1336	688	2.0527	1711 kg
+1	573 mph	-0.2901	Bakersfield	Irvine, Riverside, Oakland	0.5259	1251	1049	Computer Engineering	100 kg	-444	562	-0.5865	1523 kg
+2	716 mph	1.427	San Diego	Santa Clarita, Sacramento	0.8997	414	-534	Computer Science	388 kg	928	613	-2.1334	2369 kg
+2	140 mph	2.3299	San Diego	Long Beach, Riverside, Irvine	-0.5094	686	667	Bioinformatics	-320 kg	134	1898	0.4328	704 kg
+5	676 mph	-0.1812	Modesto	Bakersfield	0.9446	687	-1193	Applied Mathematics	1043 kg	1050	1208	-0.9812	600 kg
+1	-862 mph	-1.2693	Los Angeles	Irvine, Riverside	0.5511	2483	2081	Computer Game Design, Biotechnology, Electrical Engineering	-1160 kg	-309	197	-0.3822	350 kg
+0	950 mph	1.3663	Sacramento	Chula Vista	-0.2027	2120	1108	Bioengineering, Human Computer Interaction	-382 kg	-771	-927	-0.522	771 kg
+2	-384 mph	-0.0731	San Diego	Sacramento, Stockton, Modesto	0.8372	183	3235	Data Science	743 kg	313	1810	1.0439	-662 kg
+4	816 mph	-1.5522	Anaheim	San Diego	0.0281	843	2066	Games and Playable Media, Robotics Engineering	804 kg	837	47	1.3911	429 kg
+5	-91 mph	-0.6663	Moreno Valley	San Francisco, San Jose	0.9928	544	170	Electrical Engineering, Data Science	566 kg	-137	91	0.2986	1139 kg
+4	-1018 mph	-0.7581	Fresno	Los Angeles	0.1423	1989	850	Statistics, Robotics Engineering	1615 kg	-217	945	0.3725	791 kg
+0	600 mph	-0.2952	San Francisco	Chula Vista, Fresno	-0.7468	1676	-1473	Human Computer Interaction, Bioengineering	1023 kg	221	-14	0.4311	-630 kg
+2	2139 mph	1.5619	San Diego	Santa Ana, Sacramento, Stockton, Santa Clarita	2.6772	-70	528	Bioinformatics	1560 kg	67	1195	0.8108	275 kg
+4	-567 mph	0.7753	Anaheim	Los Angeles	2.3044	1577	2143	Games and Playable Media, Robotics Engineering	114 kg	498	-197	1.8598	375 kg
+3	1800 mph	0.4431	Riverside	Fremont	1.0764	255	-1206	COMPUTER ENGINEERING	-731 kg	1408	-744	1.2556	-148 kg
+4	2203 mph	-0.1718	sTOCKTON	Los Angeles	0.553	1578	-255	Statistics	-1047 kg	411	-9	0.6835	949 kg
+1	84 mph	0.4708	Santa Ana	Oakland, Riverside	-0.5898	1045	1114	Data Science	-259 kg	76	-830	1.0417	1184 kg
+2	1858 mph	0.9737	San Diego	San Bernardino, Bakersfield	1.726	559	284	Bioinformatics	879 kg	542	1584	-0.8669	-115 kg
+0	3377 mph	-1.1807	Chula Vista	Moreno Valley	-0.4098	3031	1963	Natural Language Processing	1051 kg	846	804	-0.6691	409 kg
+5	424 mph	0.7554	Modesto	San Bernardino, San Francisco	0.898	-496	36	Technology and Information Management	92 kg	140	310	1.0114	132 kg
+1	-210 mph	-0.1274	Bakersfield	Oakland	-0.2816	341	-85	Computer Engineering	913 kg	719	604	-1.0232	2159 kg
+3	126 mph	1.3532	Los Angeles	Fremont	1.0405	560	1562	Computer Engineering	-131 kg	-424	825	-0.1703	2571 kg
+2	88 mph	-0.0521	San Diego	N/A	1.938	-652	1587	Bioinformatics	-456 kg	?	782	0.3738	758 kg
+1	140 mph	1.1363	Fremont	Riverside	1.1393	2053	1792	Biotechnology, Computer Game Design, Data Science	87 kg	-561	2597	0.2056	1362 kg
+4	1494 mph	0.3694	Fresno	San Diego	0.858	780	1651	Robotics Engineering	2563 kg	89	604	2.375	1069 kg
+0	1962 mph	0.8444	San Francisco	Fresno, Chula Vista	0.9096	194	454	Human Computer Interaction	-591 kg	-565	-84	0.4273	293 kg
+2	195 mph	0.7311	San Diego	Santa Clarita, Modesto, Santa Ana, Stockton	1.3259	-1102	1587	Computer Science	1395 kg	1261	928	0.0349	-478 kg
+2	1980 mph	1.0806	San Diego	Los Angeles	-0.5948	-711	1909	Bioinformatics	-13 kg	76	1478	-0.3676	-913 kg
+5	-177 mph	0.0662	Moreno Valley	Bakersfield, San Jose, San Francisco	0.4743	-533	79	Applied Mathematics, Technology and Information Management	63 kg	1011	1467	0.2815	1941 kg
+4	-346 mph	0.6449	Santa Clarita	San Diego	0.5674	1052	-291	Games and Playable Media	1180 kg	-48	1271	1.3537	2262 kg
+4	1173 mph	0.7898	Oakland	San Diego	0.3096	914	157	Statistics	-176 kg	1137	-145	0.927	501 kg
+5	192 mph	1.0511	San Bernardino	San Francisco	-0.0747	975	-159	Technology and Information Management, Applied Mathematics	681 kg	950	675	0.0499	178 kg
+0	720 mph	-0.9659	Santa Clarita	Chula Vista	1.7571	-345	-391	Human Computer Interaction	959 kg	501	255	0.6118	133 kg
+5	-236 mph	0.6407	San Bernardino	San Bernardino, Bakersfield	0.9262	440	-90	Applied Mathematics, Technology and Information Management	91 kg	706	573	1.3333	38 kg
+5	-109 mph	1.2904	San Bernardino	Bakersfield, San Jose, San Bernardino	3.0247	700	-236	Technology and Information Management, Computational Media	-276 kg	736	-682	1.573	518 kg
+3	1067 mph	0.918	San Jose	Anaheim	0.1494	-175	1886	Computer Engineering	122 kg	352	164	1.5592	-375 kg
+0	-622 mph	0.2236	Sacramento	Moreno Valley	-0.3278	308	947	Computational Media, Applied Mathematics	100 kg	1190	-582	0.0119	-138 kg
+3	131 mph	0.6576	Riverside	Anaheim	N/A	39	969	Computer Engineering	108 kg	558	-651	-0.2017	114 kg
+1	-963 mph	1.7553	Santa Ana	Oakland, Riverside, Irvine	-0.8201	-136	1576	Electrical Engineering, Data Science, Computer Game Design	-653 kg	613	-79	-1.6449	847 kg
+2	955 mph	-0.1511	San Diego	Sacramento, Santa Clarita, Santa Ana	1.7801	-879	1414	Bioinformatics	-995 kg	655	2030	0.3783	245 kg
+4	1517 mph	-0.5241	Oakland	Los Angeles	2.89	2681	612	Games and Playable Media	539 kg	-574	-266	0.4457	589 kg
+3	-229 mph	1.1609	Riverside	Anaheim	-1.0265	1680	-1765	Computer Engineering	420 kg	544	213	0.4994	-769 kg
+2	-153 mph	0.3542	San Diego	Stockton, Santa Ana, Modesto	2.8728	-310	1992	Bioinformatics	-465 kg	487	342	0.1727	-71 kg
+4	-368 mph	1.134	Stockton	San Diego	2.1684	903	912	Games and Playable Media, Statistics	212 kg	1439	772	-0.1011	1114 kg
+2	-741 mph	0.5122	San Diego	Santa Clarita, Modesto, Sacramento	0.7331	-490	978	Computer Science	-112 kg	960	640	-0.2091	-254 kg
+3	-208 mph	2.3741	Los Angeles	Fremont	-0.1158	1572	1060	Computer Engineering	739 kg	235	752	0.6701	911 kg
+1	-1219 mph	-1.4322	Santa Ana	Chula Vista, Moreno Valley	-0.3584	739	414	Biotechnology	467 kg	1158	234	0.6913	-1382 kg
+4	1236 mph	0.2618	Fresno	Los Angeles	2.3006	-526	-544	Robotics Engineering	-205 kg	-143	634	1.0829	-105 kg
+5	980 mph	1.2238	San Bernardino	San Bernardino, San Francisco	0.6117	-647	1310	Natural Language Processing, Bioengineering	-457 kg	989	711	1.2565	712 kg
+4	1674 mph	0.9683	Oakland	Los Angeles	-0.7832	1178	2146	rOBOTICS eNGINEERING	731 kg	2534	-23	-0.2911	-288 kg
+0	1132 mph	-0.5176	?	Fresno, Moreno Valley	0.21	1478	-156	Natural Language Processing, Human Computer Interaction	-2135 kg	-1094	-749	0.2182	66 kg
+5	-189 mph	0.4844	San Bernardino	San Bernardino	0.8642	42	-59	Technology and Information Management, Applied Mathematics	-1338 kg	887	-142	1.9483	-298 kg
+2	415 mph	-0.0999	San Diego	santa ana, stockton	0.3622	1365	-576	Bioinformatics	101 kg	1057	317	-2.0096	-1553 kg
+4	1069 mph	0.7101	Fresno	oAKLAND, iRVINE, lONG bEACH	-0.6001	237	782	Robotics Engineering, Statistics	631 kg	1050	248	0.1875	454 kg
+2	-98 mph	-1.6287	San Diego	San Diego	1.7223	481	581	Bioinformatics	1685 kg	587	881	0.989	800 kg
+1	873 mph	-1.1321	Long Beach	Oakland, Long Beach	-0.9002	247	1516	Computer Game Design	-2342 kg	-504	-537	0.9382	270 kg
+5	161 mph	1.7294	Modesto	San Bernardino, San Francisco, San Jose	2.6399	-690	575	Computational Media, Applied Mathematics	565 kg	-98	-550	0.2501	755 kg
+3	277 mph	0.7414	San Diego	Anaheim	-0.0129	-44	920	Computer Engineering	-333 kg	1560	923	1.9942	1807 kg
+5	1360 mph	0.5341	San Bernardino	sAN fRANCISCO, sAN jOSE, bAKERSFIELD	1.6628	766	608	Computational Media	395 kg	1874	-161	1.1052	-562 kg
+0	1456 mph	1.6574	Chula Vista	Chula Vista, Fresno	-0.4173	661	1793	Bioinformatics	-60 kg	322	1883	-0.1837	184 kg
+0	753 mph	0.0191	Chula Vista	Chula Vista, Moreno Valley	1.0939	-1268	N/A	Bioengineering	987 kg	476	609	0.7891	-374 kg
+2	-1562 mph	0.2195	San Diego	Santa Clarita, Stockton, Sacramento	0.8329	463	-32	Computer Science	-536 kg	201	1102	1.0415	369 kg
+2	-717 mph	0.8231	San Diego	Modesto, Stockton, Santa Clarita	1.2649	-731	1390	Bioinformatics	-443 kg	1204	1022	-0.2025	242 kg
+5	299 mph	0.2666	Moreno Valley	San Jose	0.1286	544	571	aPPLIED mATHEMATICS, cOMPUTATIONAL mEDIA	483 kg	1049	-52	0.8902	-199 kg
+2	-440 mph	1.8925	San Diego	Modesto	0.1133	-390	-392	Bioinformatics	-272 kg	-360	261	-0.5304	285 kg
+1	527 mph	0.7858	Santa Ana	Oakland	0.3924	1143	513	Data Science, Biotechnology	270 kg	912	1349	0.623	1289 kg
+4	1476 mph	-0.4274	oakland	Los Angeles	-1.0523	456	-424	Games and Playable Media	186 kg	557	1471	1.9821	-220 kg
+0	-62 mph	-0.0373	Irvine	Chula Vista, Fresno	0.1346	2436	1166	Bioengineering, Human Computer Interaction	417 kg	479	-161	-0.8828	96 kg
+2	1963 mph	-0.5955	San Diego	Sacramento	1.6436	-32	-600	Computer Science	242 kg	412	1159	1.6918	-577 kg
+0	306 mph	-0.1184	San Francisco	Moreno Valley, Fresno	-0.1004	1690	-157	Bioengineering, Natural Language Processing	469 kg	525	1228	0.2505	498 kg
+5	117 mph	1.0745	San Bernardino	San Jose	-0.4562	1029	-738	Technology and Information Management, Applied Mathematics	653 kg	2311	-1180	0.7969	149 kg
+2	824 mph	0.8912	San Diego	Santa Clarita, Modesto	-0.2799	-619	490	Computer Science	550 kg	160	1847	0.0062	230 kg
+5	1755 mph	1.354	San Bernardino	San Francisco, San Bernardino	1.3439	232	1579	Computational Media, Technology and Information Management	1152 kg	149	-905	0.1026	1531 kg
+5	1321 mph	-0.4731	Moreno Valley	san francisco, bakersfield	1.5577	-1691	-847	Computational Media	-337 kg	692	-122	0.7811	2326 kg
+0	-618 mph	-0.639	Sacramento	Fresno	1.4928	589	176	Bioengineering	-717 kg	104	1044	-0.2798	-336 kg
+4	-565 mph	-0.1523	Stockton	Anaheim	1.9813	1526	1282	Games and Playable Media	226 kg	-979	430	0.9859	-118 kg
+3	1092 mph	1.8301	Modesto	Fremont	0.141	-401	867	Computer Engineering	1924 kg	-297	-231	0.0536	740 kg
+4	-302 mph	-0.1424	Oakland	San Diego	-0.4959	615	1233	Games and Playable Media	1113 kg	694	-2273	1.3786	1810 kg
+2	147 mph	0.8438	San Diego	n/a	0.8167	-313	992	Bioinformatics	11 kg	261	-525	0.9472	1567 kg
+2	47 mph	-2.4073	San Diego	Santa Ana, Stockton	1.2986	-500	1111	Computer Science	-344 kg	828	1028	-0.7737	-142 kg
+5	871 mph	1.165	Moreno Valley	San Francisco	0.5393	-157	-175	Applied Mathematics, Computational Media	-588 kg	491	257	1.9774	891 kg
+2	1313 mph	0.8576	San Diego	Modesto	3.173	294	-293	Computer Science	-17 kg	1070	1928	2.2184	-476 kg
+2	1760 mph	2.0326	san diego	Modesto, Santa Clarita, Stockton	1.191	-128	1832	Computer Science	1528 kg	-209	1753	-0.9556	105 kg
+3	560 mph	1.003	Riverside	Moreno Valley, Chula Vista	1.6305	158	486	Computer Engineering	-874 kg	-97	470	-0.5113	-770 kg
+5	-404 mph	2.4597	San Bernardino	San Jose, San Bernardino, San Francisco	0.2025	1442	546	Technology and Information Management, Applied Mathematics	-1046 kg	551	-1516	0.4904	1166 kg
+5	526 mph	-0.1635	Moreno Valley	San Bernardino, San Francisco	0.9565	1349	275	Technology and Information Management	483 kg	384	13	-0.8696	539 kg
+3	316 mph	0.2982	LOS ANGELES	Anaheim	-1.1413	577	-246	Computer Engineering	-1297 kg	-467	1001	0.6966	354 kg
+0	-212 mph	0.6833	Chula Vista	Fresno, Chula Vista	1.7103	473	944	Bioengineering, Natural Language Processing	-1032 kg	679	-534	-0.0897	991 kg
+0	-1324 mph	-0.1696	Sacramento	Moreno Valley	1.047	2104	1393	Bioengineering, Natural Language Processing	1061 kg	632	-1196	-0.6349	1152 kg
+2	493 mph	1.4591	San Diego	Santa Ana, Sacramento, Modesto	1.0176	860	1049	Bioinformatics	-760 kg	55	3550	2.3521	-54 kg
+2	1157 mph	1.2737	San Diego	Modesto, Sacramento	0.8967	74	1398	Bioinformatics	534 kg	-1249	834	0.5512	816 kg
+4	1425 mph	1.2995	Anaheim	San Diego	-1.1887	945	3176	Robotics Engineering	1534 kg	2254	624	3.8558	-874 kg
+3	636 mph	1.0468	Chula Vista	Anaheim	-0.307	1233	-563	Computer Engineering	20 kg	-142	-764	0.6878	0 kg
+3	-525 mph	-0.552	Riverside	Anaheim	0.0677	1379	-237	Computer Engineering	1262 kg	-852	1930	-0.9162	1541 kg
+4	-1302 mph	2.1501	Fresno	San Diego	1.0847	1599	1622	Games and Playable Media	144 kg	1360	-144	-0.0067	2102 kg
+1	-111 mph	-1.1448	Long Beach	Oakland	-1.5836	118	596	Computer Game Design, Biotechnology, Data Science	-917 kg	377	-607	0.7464	-794 kg
+0	519 mph	2.5335	San Diego	Chula Vista, Moreno Valley	0.2415	1516	1407	Human Computer Interaction, Natural Language Processing	787 kg	271	394	None	581 kg
+2	-1186 mph	1.2366	San Diego	Santa Clarita, Modesto, Stockton	1.2457	727	89	Computer Science	584 kg	1782	-893	-0.0065	270 kg
+5	1281 mph	-0.3841	Moreno Valley	San Bernardino	2.5362	-132	-24	Applied Mathematics	286 kg	330	31	1.455	1605 kg
+4	600 mph	-0.4271	Stockton	Los Angeles	0.887	850	1225	Robotics Engineering	506 kg	20	915	0.5755	1893 kg
+1	2297 mph	0.0968	Long Beach	Irvine, Riverside	-0.1373	-214	1437	Computer Game Design, Biotechnology, Electrical Engineering	1600 kg	1553	-793	-1.1618	1409 kg
+0	258 mph	-0.4808	Sacramento	Moreno Valley	-0.4344	2316	2835	Natural Language Processing, Human Computer Interaction	572 kg	727	1108	0.1312	366 kg
+5	-749 mph	0.5533	Modesto	Anaheim	0.159	401	-202	Technology and Information Management	-643 kg	94	85	-0.1835	1786 kg
+2	103 mph	-0.2956	San Diego	Sacramento	-0.3041	971	1009	Bioinformatics	-1559 kg	927	1096	-0.9223	110 kg
+2	-168 mph	1.2818	San Diego	Stockton, Santa Clarita	0.4424	1011	1742	Computer Science	-706 kg	-64	806	-0.4977	603 kg
+4	1160 mph	1.0933	Oakland	Bakersfield, San Jose	1.2279	156	394	Statistics, Robotics Engineering	69 kg	29	-275	1.2886	1149 kg
+2	78 mph	2.6715	San Diego	Modesto, Stockton	0.9823	-146	-95	Computer Science	1180 kg	94	-609	1.8108	308 kg
+1	1708 mph	-0.4747	Bakersfield	Oakland, Riverside	0.5139	1478	569	Data Science, Biotechnology, Computer Game Design	-704 kg	1678	242	-0.525	-296 kg
+3	1731 mph	1.864	San Jose	Fremont	0.1027	331	-620	Statistics, Games and Playable Media	-693 kg	940	-102	0.9155	1282 kg
+4	1204 mph	0.0356	Oakland	San Francisco, San Bernardino, Bakersfield	0.0551	305	257	Statistics, Robotics Engineering	745 kg	869	-560	1.4251	-569 kg
+4	749 mph	-0.6496	Fresno	Los Angeles	-0.4813	1605	1194	Games and Playable Media	1258 kg	720	513	-1.3117	-463 kg
+0	1229 mph	0.6101	Irvine	Moreno Valley	-0.2756	964	1272	Bioengineering, Human Computer Interaction	-498 kg	480	1412	-0.6662	1470 kg
+5	-6 mph	1.652	Modesto	San Bernardino, San Francisco, San Jose	3.5834	435	1488	?	505 kg	680	86	0.7274	1115 kg
+1	1101 mph	3.0953	Fremont	Irvine, Long Beach	1.094	530	1117	Biotechnology, Data Science, Electrical Engineering	-404 kg	178	45	-0.103	1343 kg
+0	662 mph	1.1988	Sacramento	Moreno Valley	-0.6877	765	1088	Natural Language Processing	270 kg	-472	101	-1.1713	607 kg
+1	580 mph	1.6018	Santa Ana	Riverside, Oakland, Irvine	2.8937	1127	851	Biotechnology	1937 kg	1138	?	0.6007	279 kg
+0	530 mph	1.3796	Chula Vista	Fresno, Moreno Valley	0.2818	1630	-979	Games and Playable Media, Robotics Engineering	-458 kg	1475	9	0.4806	-55 kg
+5	1563 mph	1.0644	San Bernardino	San Bernardino	1.5651	597	-615	Applied Mathematics	757 kg	-446	-1663	1.2071	-257 kg
+2	446 mph	1.9359	San Diego	Sacramento, Stockton, Santa Ana, Modesto	-0.286	612	532	Computer Science	189 kg	985	1311	-0.8205	1581 kg
+0	206 mph	-0.9844	Irvine	Chula Vista	-0.8484	-163	301	Natural Language Processing, Human Computer Interaction	732 kg	-571	442	0.5041	-641 kg
+3	519 mph	0.6164	San Jose	Anaheim	-0.559	269	246	Computer Game Design	-510 kg	1562	-99	0.4343	364 kg
+3	387 mph	1.3447	San Jose	Fremont	-1.1824	1049	-191	Computer Engineering	-664 kg	1079	636	0.3183	371 kg
+2	60 mph	-0.2898	San Francisco	Sacramento, Modesto	0.0978	216	774	Bioinformatics	821 kg	1022	-251	0.0565	259 kg
+0	1016 mph	1.1439	Santa Clarita	Moreno Valley, Fresno	0.4623	-190	985	Bioengineering, Natural Language Processing	781 kg	-123	243	0.6878	550 kg
+5	63 mph	1.0887	San Bernardino	Bakersfield, San Francisco, San Bernardino	0.1894	-1690	671	computational media	-980 kg	748	-294	1.1938	-226 kg
+2	1590 mph	2.2071	San Diego	Santa Clarita, Stockton, Santa Ana, Sacramento	1.0011	479	-2714	Computer Science	-1054 kg	1891	-442	0.0583	-150 kg
+1	-18 mph	-0.7153	Bakersfield	Oakland, Long Beach, Riverside	-0.6124	717	2440	Computer Game Design, Electrical Engineering	-1115 kg	157	431	1.3006	159 kg
+2	1535 mph	1.0156	San Diego	Sacramento, Modesto	0.8589	160	554	Bioinformatics	n/a	1166	918	-0.601	-143 kg
+2	-533 mph	1.5265	San Diego	Santa Ana, Stockton, Sacramento	-0.0249	-92	-80	bioinformatics	-1176 kg	959	1123	0.3908	192 kg
+0	-197 mph	-0.9713	Sacramento	Moreno Valley	1.3603	590	33	Human Computer Interaction	-1432 kg	1224	200	1.3289	1384 kg
+0	529 mph	-0.2479	San Francisco	Fresno	-0.438	2288	68	Human Computer Interaction, Natural Language Processing	-530 kg	1613	-190	0.5053	827 kg
+4	555 mph	-1.1139	Fresno	Long Beach, Oakland	1.256	998	119	Games and Playable Media, Statistics	826 kg	147	-556	0.9632	-861 kg
+0	590 mph	0.6631	Irvine	Moreno Valley	-1.1519	491	23	Human Computer Interaction	903 kg	974	-121	-0.8644	-514 kg
+4	537 mph	-0.1209	Fresno	Fremont	0.7751	2284	-825	Computer Science	1245 kg	479	291	-0.2065	1059 kg
+3	-25 mph	-0.6383	Riverside	Anaheim	-0.9357	141	1344		338 kg	578	356	1.4521	?
+3	-1085 mph	0.4768	Los Angeles	Fremont	-0.3023	560	461	Computer Engineering	259 kg	-77	-384	0.9508	592 kg
+4	1318 mph	2.1928	Oakland	Los Angeles	-1.2776	1194	888	Statistics, Robotics Engineering	272 kg	1460	-871	0.0002	1231 kg
+4	1087 mph	0.073	Stockton	San Diego	0.9791	123	-1597	Statistics, Games and Playable Media	-25 kg	1815	338	0.7657	222 kg
+0	1068 mph	1.1329	Irvine	Moreno Valley, Chula Vista	-0.3956	157	-52	Bioengineering, Human Computer Interaction	-1466 kg	967	-401	-0.6169	338 kg
+4	218 mph	1.0455	Fresno	San Diego	-0.5757	920	2708	Games and Playable Media	219 kg	775	-1476	0.73	1269 kg
+2	901 mph	0.3735	San Diego	Santa Clarita, Santa Ana, Stockton	2.9624	1178	-85	Bioinformatics	629 kg	960	-206	0.156	-79 kg
+0	810 mph	0.3769	Chula Vista	cHULA vISTA, mORENO vALLEY	-0.0542	1466	607	Human Computer Interaction, Natural Language Processing	-379 kg	-157	-362	-0.1368	432 kg
+1	-1099 mph	1.0729	Bakersfield	Riverside	-0.3883	793	335	Electrical Engineering	1445 kg	661	-89	0.9773	1051 kg
+1	452 mph	-1.0008	n/a	Irvine, Long Beach, Oakland	1.6924	1312	978	Electrical Engineering, Data Science	876 kg	552	412	0.7785	1567 kg
+5	2205 mph	2.0743	Modesto	San Francisco, San Bernardino, San Jose	0.5697	31	-1647	Technology and Information Management, Applied Mathematics	424 kg	612	1004	1.7528	-433 kg
+3	303 mph	1.9679	Riverside	Fremont	0.6705	592	-951	Computer Engineering	-16 kg	614	-485	0.2821	413 kg
+2	-699 mph	0.3461	San Diego	Stockton	0.3394	452	1581	Computer Science	46 kg	1148	1155	-0.3346	2563 kg
+3	491 mph	0.2202	Riverside	Anaheim	1.083	3	798	Computer Engineering	663 kg	-292	-1368	0.244	951 kg
+2	2077 mph	2.2321	San Diego	Sacramento, Santa Clarita, Modesto	-0.0151	-34	757	Computer Science	-580 kg	39	398	0.7682	233 kg
+5	318 mph	0.0182	SAN BERNARDINO	San Bernardino, San Jose, San Francisco	0.235	283	2835	Computational Media	149 kg	545	627	1.0185	-721 kg
+0	491 mph	1.3522	Santa Clarita	Fresno, Moreno Valley	-0.1768	-431	?	Natural Language Processing, Bioengineering	1385 kg	1661	540	0.4399	-79 kg
+4	-439 mph	-0.2059	Stockton	San Diego	-0.7858	1091	304	Statistics	291 kg	1060	337	1.0901	577 kg
+4	528 mph	1.7073	Fresno	San Diego	0.1595	1449	893	Human Computer Interaction, Natural Language Processing	1144 kg	908	316	0.8478	-146 kg
+4	1139 mph	-0.4795	Fresno	San Diego	1.0984	1446	2437	Games and Playable Media	1139 kg	990	953	-0.0461	-592 kg
+3	1586 mph	0.1449	Sacramento	Anaheim	-0.1104	588	1068	Computer Engineering	-220 kg	1036	-961	1.4802	298 kg
+4	2080 mph	-0.4387	Anaheim	SAN DIEGO	-0.4934	1699	2125	Statistics	69 kg	599	-869	0.7524	668 kg
+4	836 mph	-0.7781	Oakland	Los Angeles	2.0788	546	1531	Games and Playable Media	737 kg	-260	-446	0.6045	-612 kg
+5	-857 mph	0.5096	San Bernardino	Los Angeles	1.25	-966	1430	Applied Mathematics, Computational Media	-954 kg	1049	1015	2.3524	-101 kg
+5	929 mph	0.4466	Modesto	San Jose, San Bernardino, San Francisco	1.2726	864	129	Technology and Information Management, Applied Mathematics	744 kg	1252	-606	-0.2799	1232 kg
+0	49 mph	-0.4635	Sacramento	Moreno Valley	0.646	1552	1543	Human Computer Interaction, Natural Language Processing	-835 kg	1353	282	0.4548	619 kg
+5	1919 mph	0.4154	Moreno Valley	Bakersfield, San Bernardino, San Jose	-0.6817	1239	448	Applied Mathematics, Technology and Information Management	-887 kg	1510	-163	0.5104	-391 kg
+3	1539 mph	1.262	Los Angeles	Fremont	0.8015	768	1403	Computer Engineering	-1195 kg	1660	326	?	799 kg
+2	210 mph	1.9387	San Diego	Santa Clarita, Sacramento, Santa Ana, Stockton	1.5132	849	617	Computer Science	536 kg	157	1212	0.418	1007 kg
+4	1373 mph	0.0444	Anaheim	?	-0.3549	1549	1417	Games and Playable Media	2066 kg	1133	195	1.6386	-943 kg
+0	699 mph	0.855	Chula Vista	Moreno Valley, Fresno	1.234	225	1544	Natural Language Processing, Bioengineering	-763 kg	463	-287	-0.9516	-323 kg
+1	995 mph	1.2529	Fremont	Riverside, Oakland, Irvine	-0.0794	277	188	Biotechnology, Electrical Engineering	699 kg	652	-540	-1.0011	10 kg
+4	1453 mph	1.4296	Stockton	San Diego	1.1159	1785	759	Robotics Engineering	-697 kg	456	1157	1.3242	48 kg
+4	3 mph	0.4029	Oakland	Los Angeles	1.048	1331	480	sTATISTICS	1765 kg	2473	244	0.5807	1414 kg
+1	773 mph	N/A	Moreno Valley	Riverside, Long Beach, Irvine	1.5089	-113	1826	Computer Game Design, Biotechnology	-79 kg	36	-481	-0.2268	2221 kg
+1	-741 mph	-0.0982	Bakersfield	Long Beach, Riverside, Irvine	-0.6078	1447	-58	Electrical Engineering, Computer Game Design, Biotechnology	-111 kg	338	1116	-0.5552	1448 kg
+2	-638 mph	-0.1323	San Diego	Modesto, Santa Clarita, Stockton	0.9299	1	599	Bioinformatics	617 kg	1616	1606	0.87	1297 kg
+0	17 mph	2.2621	Irvine	Chula Vista	0.9189	1205	1326	Natural Language Processing	-1679 kg	-465	335	-0.3956	464 kg
+2	1935 mph	-0.3126	San Diego	Santa Ana, Sacramento	?	612	1917	Human Computer Interaction	120 kg	2220	284	-0.4077	765 kg
+1	1615 mph	0.4083	Santa Ana	Riverside, Long Beach	1.7494	1743	631	Biotechnology, Computer Game Design	-914 kg	942	937	-0.6674	-1188 kg
+3	277 mph	0.6272	Los Angeles	Moreno Valley	-0.5919	-798	-324	Computer Engineering	465 kg	-173	195	1.1086	1646 kg
+1	-1167 mph	0.2104	Santa Ana	Riverside, Irvine	-0.1589	856	806	Data Science, Electrical Engineering, Biotechnology	306 kg	-697	-30	0.4756	136 kg
+5	730 mph	0.0054	Moreno Valley	San Jose, San Francisco	-0.7225	264	612	Computational Media	-532 kg	534	630	1.4259	994 kg
+0	-170 mph	0.2089	Chula Vista	Chula Vista	0.4293	266	158	Bioengineering, Human Computer Interaction	444 kg	1677	333	-0.8587	633 kg
+1	805 mph	?	Bakersfield	Long Beach, Riverside, Oakland	1.7009	969	-499	Electrical Engineering, Data Science	-172 kg	1074	-976	-0.86	652 kg
+5	-318 mph	1.3352	Modesto	Anaheim	0.9061	720	-382	Technology and Information Management	-371 kg	-293	89	0.8211	-281 kg
+4	-323 mph	2.0647	FRESNO	San Diego	0.1713	852	145	Statistics, Games and Playable Media	797 kg	239	494	-0.2343	124 kg
+4	169 mph	0.2746	Anaheim	Los Angeles	0.1011	1556	752	Robotics Engineering	1868 kg	1381	-249	-0.6144	1605 kg
+1	-603 mph	1.0694	Santa Ana	Irvine	-2.5605	844	-434	Biotechnology, Data Science	422 kg	-287	-1099	-1.225	2122 kg
+4	908 mph	-0.8534	Fresno	San Diego	0.9606	1923	2258	Games and Playable Media, Statistics	1478 kg	366	1696	1.5063	-106 kg
+5	448 mph	2.6306	Moreno Valley	Bakersfield	2.3078	2229	-612	Computational Media, Applied Mathematics	-1137 kg	986	-214	0.6606	266 kg
+1	638 mph	-1.4603	Bakersfield	Long Beach	0.0934	1030	1617	Computer Game Design, Biotechnology	2016 kg	122	1120	-1.4269	86 kg
+2	-289 mph	0.6454	San Diego	Stockton	-0.0077	840	-205	Bioinformatics	630 kg	1495	940	-0.4723	-617 kg
+0	-266 mph	-1.6489	Irvine	Chula Vista	-0.0673	1345	1286	NATURAL LANGUAGE PROCESSING	-332 kg	-347	378	0.6392	-1174 kg
+0	-17 mph	0.5354	Santa Clarita	Moreno Valley	2.5108	29	1057	Human Computer Interaction, Bioengineering	-358 kg	734	545	-0.4414	-34 kg
+0	317 mph	-0.6096	San Francisco	Chula Vista, Moreno Valley	-0.7179	887	-1219	Bioengineering	835 kg	243	656	0.1626	196 kg
+0	1814 mph	0.7647	Santa Clarita	Moreno Valley	0.2495	648	-15	Bioengineering	-1870 kg	-1119	-99	-0.4492	1721 kg
+4	1192 mph	1.2013	Stockton	San Diego	-0.153	2033	519	Robotics Engineering, Games and Playable Media	1288 kg	1221	962	0.3	354 kg
+4	1430 mph	0.2269	Fresno	Los Angeles	0.5545	1560	222	Statistics	1853 kg	453	1291	0.0539	735 kg
+5	1488 mph	1.3953	San Bernardino	San Francisco, San Bernardino	-0.6361	287	602	Applied Mathematics	-358 kg	674	-274	0.4831	1624 kg
+1	227 mph	-0.0331	Bakersfield	lONG bEACH	-0.008	1499	-1130	Computer Game Design, Biotechnology, Electrical Engineering	147 kg	-707	-316	0.9367	-129 kg
+3	-310 mph	-0.3388	Los Angeles	Fremont	-0.5803	303	1459	Computer Engineering	522 kg	261	351	1.4992	650 kg
+4	-519 mph	-0.4273	Anaheim	San Diego	-0.549	1263	1003	Robotics Engineering	-89 kg	1373	-111	1.4438	-329 kg
+1	-1031 mph	-0.6038	Bakersfield	San Diego	0.4579	1355	2281	Data Science	444 kg	239	-467	-0.4399	1901 kg
+1	-155 mph	0.6594	Santa Ana	Anaheim	N/A	382	-816	Biotechnology, Electrical Engineering, Data Science	-198 kg	635	270	-1.0756	468 kg
+0	1255 mph	0.3802	Chula Vista	Chula Vista	-0.7261	2653	1893		-869 kg	-39	1567	-0.1548	259 kg
+4	1087 mph	-0.7073	Stockton	San Diego	0.1355	280	355	Statistics	3346 kg	1108	-1767	2.3669	201 kg
+2	1424 mph	-0.8705	San Diego	Santa Ana, Modesto, Santa Clarita	1.7983	2209	993	Computer Science	525 kg	1698	591	0.0314	679 kg
+3	534 mph	2.7614	Los Angeles	Anaheim	1.4719	-5	1690	Computer Engineering	-1282 kg	1424	131	1.5589	1340 kg
+1	-100 mph	1.6103	Bakersfield	Oakland, Irvine	-0.1248	400	572	Computer Game Design, Data Science	500 kg	129	-495	-1.089	280 kg
+4	1064 mph	0.5309	Oakland	San Diego	1.4228	800	1009	Robotics Engineering, Statistics	926 kg	1117	729	1.4079	598 kg
+5	1462 mph	1.7819	Moreno Valley	San Jose, San Francisco, Bakersfield	0.2115	-376	1879	Technology and Information Management	-738 kg	144	1601	1.3505	-506 kg
+0	2378 mph	-0.3784	Irvine	Fremont	-0.604	799	n/a	Human Computer Interaction, Bioengineering	-70 kg	-276	1125	1.5929	-669 kg
+3	204 mph	0.3268	Los Angeles	Anaheim	-0.4084	-73	-1239	Computer Engineering	400 kg	693	177	1.7322	875 kg
+2	520 mph	0.7761	n/a	Santa Clarita, Santa Ana	1.2317	-422	2072	Bioinformatics	821 kg	550	1458	-0.8935	-635 kg
+2	927 mph	?	San Diego	Sacramento, Stockton, Santa Ana	0.2048	2313	1331	Computer Science	849 kg	146	961	0.2137	-577 kg
+0	1064 mph	0.3065	Irvine	Fresno, Chula Vista	-2.4589	1751	457	Human Computer Interaction, Bioengineering	820 kg	-209	177	-0.1419	-146 kg
+3	-7 mph	0.5724	Stockton	Fremont	0.6138	545	180	computer engineering	-204 kg	369	510	1.0945	26 kg
+3	2124 mph	3.1032	San Jose	Fremont	-0.4964	965	1375	Computer Engineering	155 kg	1209	615	-0.3581	-618 kg
+0	-396 mph	1.6735	Irvine	Chula Vista, Moreno Valley	1.0643	-713	2816	Human Computer Interaction	-683 kg	336	493	-0.261	746 kg
+3	-69 mph	0.0564	Riverside	Fremont	0.3207	503	-424	Computer Engineering	1014 kg	424	-734	0.8142	-241 kg
+4	404 mph	0.7575	Oakland	Los Angeles	-0.7421	2261	1491	Statistics, Games and Playable Media	1288 kg	1154	1294	0.3361	1871 kg
+3	959 mph	1.5104	Riverside	Anaheim	-0.6858	-330	-407	Computer Engineering	598 kg	825	-386	1.0127	885 kg
+3	171 mph	0.8924	San Jose	Fremont	0.3353	1559	215	Computer Engineering	-936 kg	461	710	0.7094	-604 kg
+3	-29 mph	-0.5629	Los Angeles	Fremont	-0.625	-57	-239	Computer Engineering	1178 kg	1350	1424	0.112	511 kg
+4	-72 mph	-0.019	Fresno	San Diego	-0.5074	1028	-640	Robotics Engineering	944 kg	1261	1515	0.7668	391 kg
+4	121 mph	-0.3246	Stockton	San Diego	1.3548	241	773	Statistics, Games and Playable Media	474 kg	713	-557	-0.0179	195 kg
+1	1360 mph	0.3781	Bakersfield	Riverside, Oakland	-0.3826	464	-532	Data Science	-1756 kg	907	-32	0.2128	327 kg
+5	288 mph	0.1548	San Bernardino	San Francisco, San Bernardino	0.6185	-296	1360	Applied Mathematics	-410 kg	310	-1803	1.0501	135 kg
+0	1518 mph	-1.4069	San Jose	Anaheim	-1.0381	1184	1030	Natural Language Processing	-1272 kg	1176	-1273	-0.9157	-469 kg
+4	-188 mph	1.3178	Fresno	Los Angeles	1.8705	175	-1547	STATISTICS, ROBOTICS ENGINEERING	398 kg	646	-986	3.9446	398 kg
+5	1635 mph	1.7424	Moreno Valley	Irvine	1.2645	-79	504	Applied Mathematics	-527 kg	1150	-48	1.1499	827 kg
+3	390 mph	-0.009	Los Angeles	Fremont	-0.9175	1038	1238	Computer Engineering	-2140 kg	975	256	-0.4169	241 kg
+4	339 mph	-0.2809	Stockton	San Diego	0.2655	-508	1145	Games and Playable Media	247 kg	554	1402	-0.8042	45 kg
+2	1216 mph	0.7626	San Diego	Modesto, Santa Ana, Santa Clarita	1.4276	724	1507	Computer Science	1769 kg	838	2324	0.8758	1414 kg
+1	-899 mph	-0.1648	Santa Ana	Riverside, Long Beach, Irvine	-0.8471	2902	1232	Electrical Engineering, Computer Game Design	-630 kg	485	21	1.1883	1185 kg
+3	-583 mph	-0.2505	Los Angeles	Fremont	1.2759	709	313	Computer Engineering	31 kg	413	-204	3.9855	199 kg
+2	333 mph	-0.9754	San Diego		0.1761	1028	2937	Electrical Engineering	1036 kg	-398	1211	0.4014	522 kg
+0	949 mph	1.0951	Sacramento	Fresno, Chula Vista	-0.374	826	1418	Human Computer Interaction	1171 kg	-814	-992	-0.1643	195 kg
+1	2380 mph	-0.294	Fremont	long beach, riverside, oakland	0.9409	-619	1550	Biotechnology, Data Science, Electrical Engineering	-616 kg	-570	-572	-0.872	879 kg
+1	-522 mph	-0.3841	Bakersfield	Oakland, Irvine, Long Beach	1.6499	1631	-405	Data Science, Biotechnology, Electrical Engineering	-817 kg	-546	956	-0.731	768 kg
+1	-573 mph	1.8322	LONG BEACH	Oakland	-0.0307	397	823	Electrical Engineering	-459 kg	982	1479	-0.1343	1808 kg
+1	1685 mph	-0.1783	Long Beach	Modesto, Sacramento, Santa Ana	-0.4645	622	361	Biotechnology, Electrical Engineering, Computer Game Design	N/A	1187	-774	-0.7484	508 kg
+5	1440 mph	0.0885	San Bernardino	San Jose	0.8655	306	-1311	Computational Media, Applied Mathematics	-1729 kg	1307	546	-0.4062	1205 kg
+5	-345 mph	0.3805	Moreno Valley	San Francisco, San Jose	0.7213	13	2390	Technology and Information Management, Computational Media	-605 kg	487	309	1.4119	1014 kg
+4	414 mph	2.5511	Stockton	Los Angeles	0.3901	1431	1498	Games and Playable Media, Robotics Engineering	799 kg	842	885	0.3566	587 kg
+1	-416 mph	1.1902	Bakersfield	Riverside	1.4026	1031	-305	Computer Game Design, Data Science, Electrical Engineering	-310 kg	369	-280	-1.3748	753 kg
+3	-89 mph	-0.1445	San Jose	anaheim	-0.0279	1522	-749	Computer Engineering	457 kg	2201	-216	0.9274	-787 kg
+5	-533 mph	n/a	Moreno Valley	San Jose	2.2366	1552	815	Applied Mathematics, Computational Media	1360 kg	753	-525	0.4446	714 kg
+1	-1486 mph	1.5848	Fremont	Riverside	0.4858	1897	1347	Biotechnology, Electrical Engineering, Data Science	-910 kg	818	576	-1.1605	1671 kg
+3	2401 mph	1.9639	Riverside	Anaheim	0.6696	30	1947	Computer Engineering	337 kg	582	-944	0.5533	-471 kg
+3	925 mph	0.4096	Los Angeles	Anaheim	-0.7544	-937	236	Computer Engineering	-1228 kg	1496	792	1.3116	1737 kg
+5	103 mph	-0.0806	San Bernardino	San Jose, Bakersfield	0.8362	291	-844	Technology and Information Management	-485 kg	31	-1015	1.4554	558 kg
+3	-1290 mph	-0.3357	Riverside	Fremont	-0.0188	-1133	-873	Computational Media	-497 kg	872	684	0.0462	-129 kg
+3	1104 mph	0.6594	San Jose	Anaheim	-0.3604	534	440	Computer Engineering	-182 kg	442	577	1.5549	-97 kg
+3	994 mph	1.4845	Los Angeles	Anaheim	1.2272	90	-200	Biotechnology, Data Science	143 kg	-1043	-1095	-0.0881	1404 kg
+4	1260 mph	1.0099	None	Los Angeles	1.6178	1287	489	Statistics, Games and Playable Media	695 kg	438	810	0.6424	3 kg
+1	-98 mph	0.7913	Santa Ana	Long Beach, Oakland	-0.2398	733	1606	Biotechnology	-115 kg	55	-979	-0.5695	756 kg
+3	67 mph	1.5707	Riverside	Fremont	-0.4887	-181	-86	Computer Engineering	n/a	252	-851	0.2599	-318 kg
+5	20 mph	1.1505	Moreno Valley	San Francisco, San Jose, San Bernardino	-0.8981	1653	-1184	Computational Media	1246 kg	1306	-18	0.6662	1728 kg
+1	861 mph	0.9908	Fremont	Riverside, Irvine, Long Beach	-0.1215	1647	2087	computer game design	883 kg	245	597	-0.2445	706 kg
+0	1416 mph	0.9398	San Francisco	Santa Ana, Sacramento	-0.209	-444	398	Natural Language Processing	-1112 kg	744	-265	-0.5084	334 kg
+5	626 mph	0.331	Chula Vista	Bakersfield	0.4745	1458	-423	Computational Media	-843 kg	304	444	0.0038	-1150 kg
+5	-72 mph	1.7299	Moreno Valley	Bakersfield, San Bernardino, San Francisco	0.6742	-542	-2179	Computational Media	388 kg	1463	-583	1.6527	636 kg
+4	1682 mph	0.8422	San Diego	Los Angeles	1.1938	291	129	Statistics, Games and Playable Media	228 kg	408	177	1.8697	-552 kg
+3	267 mph	1.1914	Los Angeles	Anaheim	0.0569	676	-159	Computer Engineering	-186 kg	79	-418	1.1487	378 kg
+5	1083 mph	0.5235	Modesto	Anaheim	2.2786	442	-411	Applied Mathematics, Technology and Information Management	982 kg	195	-259	0.4289	1517 kg
+4	284 mph	0.1843	Anaheim	Los Angeles	-0.8971	630	-256	Robotics Engineering	634 kg	812	-553	0.2947	81 kg
+3	692 mph	-0.517	SAN JOSE	Fremont	1.6702	1420	944	Computational Media	1114 kg	1161	143	1.0826	-1926 kg
+2	42 mph	-0.3836	San Diego	Santa Ana, Stockton, Sacramento, Santa Clarita	1.4236	1332	-52	Computer Science	34 kg	731	1685	0.9158	147 kg
+2	264 mph	0.5676	San Diego	San Francisco, San Jose	0.1453	-472	-592	Bioinformatics	1618 kg	221	-235	0.2548	301 kg
+2	-214 mph	0.2786	San Diego	Santa Ana	1.1987	-920	1391	Computer Science	-163 kg	-615	1254	0.1597	1155 kg
+3	-342 mph	-1.1113	Riverside	Fremont	-1.9416	-445	1434	Computer Engineering	932 kg	171	751	1.002	-385 kg
+2	1139 mph	1.2361	San Diego	Santa Clarita, Stockton, Santa Ana, Sacramento	0.7769	843	444	Computer Science	770 kg	904	614	0.7662	-222 kg
+2	107 mph	-2.4086	San Diego	Modesto, Stockton	-0.7393	522	-411	Computer Science	-1331 kg	773	651	0.6099	2347 kg
+1	2012 mph	1.7253	Bakersfield	Riverside	0.7046	1264	519	Electrical Engineering, Biotechnology	-1056 kg	594	-29	0.1388	637 kg
+1	1245 mph	0.198	Fremont	Oakland, Riverside	1.1403	-49	-654	Biotechnology, Computer Game Design	1228 kg	-147	-243	-0.5981	1114 kg
+0	231 mph	0.4136	Irvine	Chula Vista	1.3253	44	3487	Bioengineering	1245 kg	1414	184	1.0547	-209 kg
+1	799 mph	0.6993	Fremont	Riverside, Irvine, Oakland	0.0102	787	2190	Electrical Engineering	442 kg	344	-497	-0.2195	1122 kg
+1	1295 mph	-0.0774	bAKERSFIELD	San Jose, Bakersfield, San Bernardino	0.7662	206	-587	Biotechnology, Computer Game Design	418 kg	-224	874	0.044	1481 kg
+5	522 mph	0.9853	Modesto	San Jose	0.9327	1707	-660	Technology and Information Management, Applied Mathematics	-326 kg	-61	453	1.1672	1006 kg
+5	-627 mph	0.958	San Bernardino	San Bernardino, Bakersfield, San Francisco	1.2568	730	1686	Applied Mathematics	200 kg	700	-1235	0.5094	-195 kg
+0	-714 mph	1.7946	San Francisco	Fresno, Moreno Valley	0.3628	1418	2391	Bioengineering	326 kg	-366	-720	-0.4599	1059 kg
+4	518 mph	-1.4005	Stockton	Fremont	1.7662	1806	1157	Robotics Engineering, Statistics	-951 kg	331	-1765	0.1235	-498 kg
+4	494 mph	-0.2308	Oakland	San Diego	-0.4255	542	630	Statistics	2347 kg	1174	584	1.6235	-134 kg
+4	103 mph	2.8689	Anaheim	San Diego	-0.222	646	942	Computational Media, Applied Mathematics	-176 kg	580	-969	1.8004	549 kg
+4	839 mph	1.3389	Fresno	San Diego	1.2381	109	1476	Robotics Engineering, Statistics	1210 kg	754	-909	1.1139	-96 kg
+5	470 mph	0.6885	Moreno Valley	Bakersfield, San Bernardino, San Francisco	1.7403	-287	-848	Computational Media, Applied Mathematics	1594 kg	-209	-1633	0.7277	-867 kg
+1	-746 mph	-1.0699	Fremont	Irvine, Long Beach, Riverside	1.2296	804	927	Data Science, Electrical Engineering, Biotechnology	-196 kg	726	992	-0.2469	1262 kg
+4	813 mph	0.6224	Stockton	San Diego	0.577	2036	2727	Statistics	1209 kg	-10	-163	0.3901	17 kg
+2	362 mph	2.2443	San Diego	Stockton	0.6197	118	446	Bioinformatics	-435 kg	-273	1077	0.2578	2471 kg
